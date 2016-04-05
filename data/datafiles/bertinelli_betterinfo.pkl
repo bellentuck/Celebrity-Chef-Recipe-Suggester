@@ -1,0 +1,6504 @@
+(dp0
+S'Valerie Bertinelli'
+p1
+(dp2
+S'Cranberry-Walnut Stuffing'
+p3
+(dp4
+S'total_time'
+p5
+S'1 hr 10 min'
+p6
+sS'cook_time'
+p7
+S'55 min'
+p8
+sS'ingredients'
+p9
+(lp10
+S'3 tablespoons unsalted butter, plus more for the baking dish'
+p11
+aS'1 1/2 cups walnuts'
+p12
+aS'8 ounces sweet Italian sausage, casings removed'
+p13
+aS'2 celery stalks, chopped'
+p14
+aS'1 medium onion, chopped'
+p15
+aS' Kosher salt and freshly ground black pepper'
+p16
+aS'1 cup dried cranberries'
+p17
+aS' One 14-ounce package cornbread stuffing mix, such as Pepperidge Farm'
+p18
+aS'1 tablespoon finely chopped fresh sage'
+p19
+aS'2 teaspoons finely chopped fresh thyme'
+p20
+aS'2 cups turkey or chicken stock'
+p21
+aS'1 large egg, lightly beaten'
+p22
+asS'img_link'
+p23
+S'http://foodnetwork.sndimg.com/content/dam/images/food/fullset/2015/11/12/2/VB0202H_Cranberry-Walnut-Stuffing_s4x3.jpg.rend.sni12col.landscape.jpeg'
+p24
+sS'title'
+p25
+g3
+sS'page_link'
+p26
+S'http://www.foodnetwork.com/recipes/valerie-bertinelli/cranberry-walnut-stuffing.html'
+p27
+sS'yield'
+p28
+S'8 servings'
+p29
+sS'difficulty_level'
+p30
+S'Easy'
+p31
+sS'prep_time'
+p32
+S'15 min'
+p33
+sS'directions'
+p34
+S'Preheat the oven to 400 degrees F. Lightly butter a 2- to 3-quart glass or ceramic baking dish.In a dry saute pan set over medium heat, toast the walnuts until lightly golden brown, about 5 minutes; cool and chop.Melt the butter in a large skillet over medium-high heat. Add the sausage and cook, breaking up any clumps with a wooden spoon, until brown, about 5 minutes. Reduce the heat to medium and add the celery, onion and 1/2 teaspoon salt and cook, stirring occasionally, until softened, about 8 minutes. Stir in the cranberries and cook to just slightly plump them, about 1 minute, and then remove from the heat.In a large mixing bowl, add the stuffing mix, sage, thyme and walnuts. Mix together the stock and egg in a large measuring cup, then add it to the mixing bowl along with the sausage-vegetable mixture. Add 1/2 teaspoon each salt and pepper and stir gently to combine thoroughly.Transfer the stuffing mixture to the baking dish and bake until hot and golden brown on top, 30 to 40 minutes. Serve hot.'
+p35
+sS'categories'
+p36
+(lp37
+S'Cranberry'
+p38
+aS'Side Dish'
+p39
+aS'Stuffing And Dressing'
+p40
+assS'Panna Cotta with Berry Sauce'
+p41
+(dp42
+g5
+S'4 hr 30 min'
+p43
+sg7
+S'15 min'
+p44
+sg9
+(lp45
+S'3 cups cream'
+p46
+aS'1 teaspoon vanilla extract'
+p47
+aS'1/2 vanilla bean, scraped'
+p48
+aS'1 1/4 -ounce packet (1 tablespoon) gelatin powder'
+p49
+aS'2/3 cup sugar'
+p50
+aS' Pinch salt'
+p51
+aS'1/2 cup milk'
+p52
+aS'3 cups mixed raspberries and blueberries'
+p53
+aS'2 to 3 tablespoons sugar'
+p54
+aS'1 tablespoon freshly squeezed lemon juice'
+p55
+aS' Zest of 1 lemon'
+p56
+asg23
+S'http://foodnetwork.sndimg.com/content/dam/images/food/fullset/2015/8/4/1/VB0102H_Panna-Cotta-with-Berry-Sauce_s4x3.jpg.rend.sni12col.landscape.jpeg'
+p57
+sg25
+g41
+sg26
+S'http://www.foodnetwork.com/recipes/valerie-bertinelli/panna-cotta-with-berry-sauce.html'
+p58
+sg28
+S'8 servings'
+p59
+sg30
+S'Intermediate'
+p60
+sS'inactive_time'
+p61
+S'4 hr'
+p62
+sg32
+S'15 min'
+p63
+sg34
+S'For the panna cotta: Heat the cream, vanilla extract and vanilla bean in a heavy-bottomed saucepan over medium heat until milk bubbles form at the sides of the pan, stirring occasionally, about 6 minutes.Meanwhile, in a small bowl dissolve the gelatin in 3 tablespoons hot tap water. Stir until the gelatin completely dissolves, about 1 minute.Stir the sugar into the hot cream. Add the salt and the gelatin mixture to the cream as well. Whisk until the sugar dissolves, then whisk in the milk and stir again. Pour into the ramekins.Refrigerate the panna cotta until set, at least 4 hours. Stored in the refrigerator, the panna cotta keeps for several days.For the berry sauce: In a medium saucepot set over medium heat, add the berries, sugar, lemon juice and zest. Bring to a boil and cook until the berries burst and the liquid starts to thicken, about 5 minutes. Strain the mixture through a fine-mesh sieve, forcing the berries through by pushing and scraping with a rubber spatula. The more you force through, the thicker the sauce will be (the pulp closest to the seeds contains the most pectin, which is a natural thickener). Let cool completely and store in the refrigerator until ready to serve.Spoon the sauce over the panna cotta and serve.'
+p64
+sg36
+(lp65
+S'Blueberry'
+p66
+aS'Dessert'
+p67
+aS'Gelatin'
+p68
+assS'Orzo Salad with Grape Tomatoes and Radishes'
+p69
+(dp70
+g5
+S'32 min'
+p71
+sg7
+S'17 min'
+p72
+sg9
+(lp73
+S'1 pound orzo'
+p74
+aS'1 1/2 cups grape tomatoes, halved or quartered'
+p75
+aS'1 small English cucumber, diced (about 3 cups)'
+p76
+aS'1 bunch radishes, sliced (about 1 cup)'
+p77
+aS'1 cup Kalamata olives, pitted and halved'
+p78
+aS'5 ounces goat cheese, crumbled'
+p79
+aS'2 tablespoons chopped fresh basil'
+p80
+aS'2 tablespoons chopped fresh mint'
+p81
+aS'2 tablespoons chopped fresh flat-leaf parsley'
+p82
+aS"1/2 cup pepitas, toasted (see Cook's Note)"
+p83
+aS'1 shallot, finely minced (about 2 1/2 tablespoons)'
+p84
+aS'1 tablespoon Dijon mustard'
+p85
+aS'3 tablespoons freshly squeezed lemon juice (from 1 to 1 1/2 lemons)'
+p86
+aS'1/2 cup extra-virgin olive oil'
+p87
+aS' Kosher salt and freshly ground black pepper'
+p88
+asg23
+S'http://foodnetwork.sndimg.com/content/dam/images/food/fullset/2015/11/5/0/VB0201_Orzo-Salad-with-Grape-Tomatoes-and-Radishes_s4x3.jpg.rend.sni12col.landscape.jpeg'
+p89
+sg25
+g69
+sg26
+S'http://www.foodnetwork.com/recipes/valerie-bertinelli/orzo-salad-with-grape-tomatoes-and-radishes.html'
+p90
+sg28
+S'8 servings'
+p91
+sg30
+S'Easy'
+p92
+sg32
+S'15 min'
+p93
+sg34
+S"For the salad: Bring a large pot of lightly salted water to a boil. Add the orzo and cook at a lazy boil until just tender, about 9 minutes. Transfer to a colander and drain well, then transfer to a large serving bowl. Add the tomatoes, cucumber, radishes, olives, cheese, basil, mint and parsley to the orzo.For the vinaigrette: Whisk together the shallot, mustard and lemon juice in a small bowl. Add the oil in a steady stream, whisking constantly. Season with salt and pepper.Pour the vinaigrette over the orzo salad and toss well to distribute the ingredients evenly. Serve warm or at room temperature. Or make ahead and chill. Garnish with the pepitas before serving.Cook\\'s Note: To toast pepitas, lightly coat the seeds with olive oil. Season with kosher salt, then spread in a single layer on a baking sheet. Roast at 400 degrees F, stirring occasionally, until golden and fragrant, 5 to 8 minutes. You\\'ll know they\\'re almost done when you hear them start to pop."
+p94
+sg36
+(lp95
+S'Orzo'
+p96
+aS'Side Dish'
+p97
+aS'Pasta Salad'
+p98
+assS'Honey and Hazelnut Granola'
+p99
+(dp100
+g5
+S'1 hr'
+p101
+sg7
+S'35 min'
+p102
+sg9
+(lp103
+S'4 cups quick-cooking oats'
+p104
+aS'1/2 cup hazelnuts, coarsely chopped'
+p105
+aS'1/3 cup honey'
+p106
+aS'3 tablespoons coconut oil'
+p107
+aS'1 heaping teaspoon ground cinnamon'
+p108
+aS'1 heaping teaspoon ground ginger'
+p109
+aS'1/4 teaspoon ground nutmeg'
+p110
+aS'1 teaspoon kosher salt'
+p111
+aS'1 cup sliced dried apricots'
+p112
+asg23
+S'http://foodnetwork.sndimg.com/content/dam/images/food/fullset/2016/1/7/0/VB0203H_Honey-and-Hazelnut-Granola_s4x3.jpg.rend.sni12col.landscape.jpeg'
+p113
+sg25
+g99
+sg26
+S'http://www.foodnetwork.com/recipes/valerie-bertinelli/honey-and-hazelnut-granola.html'
+p114
+sg28
+S'5 cups'
+p115
+sg30
+S'Easy'
+p116
+sg61
+S'20 min'
+p117
+sg32
+S'5 min'
+p118
+sg34
+S'Preheat the oven to 325 degrees F. Line a baking sheet with parchment paper.Put the oats and hazelnuts in a large bowl. Heat the honey and coconut oil in a medium saucepan over medium heat until melted. Add the cinnamon, ginger, nutmeg and salt and whisk to incorporate. Remove from the heat and pour over the oat mixture. Stir until all the oats and nuts are coated well.Spread the oat mixture on the prepared baking sheet. Bake until the oats are dried and the hazelnuts are lightly toasted, about 30 minutes. Let cool completely, and then mix in the apricots. The granola will keep in a tightly sealed container at room temperature for up to 2 weeks.'
+p119
+sg36
+(lp120
+S'Honey'
+p121
+aS'Breakfast'
+p122
+aS'Granola'
+p123
+assS'Set-It-and-Forget-It Pot Roast'
+p124
+(dp125
+g5
+S'2 hr 40 min'
+p126
+sg7
+S'2 hr 25 min'
+p127
+sg9
+(lp128
+S'2 to 2 1/2 pounds beef chuck roast'
+p129
+aS'10 cloves garlic, halved'
+p130
+aS'1/2 teaspoon kosher salt'
+p131
+aS' Freshly ground black pepper'
+p132
+aS'1 tablespoon extra-virgin olive oil'
+p133
+aS'3 carrots, cut into large bite-size chunks'
+p134
+aS'2 onions, thickly sliced'
+p135
+aS'2 bay leaves'
+p136
+aS'4 cups dry white wine (1 bottle)'
+p137
+aS'1 cup low-sodium chicken stock'
+p138
+aS'1 1/2 pounds Yukon Gold potatoes, peeled and cut into 2-inch pieces'
+p139
+asg23
+S'http://foodnetwork.sndimg.com/content/dam/images/food/fullset/2015/11/8/1/VB0208H_Pa-Vs-Pot-Roast_s4x3.jpg.rend.sni12col.landscape.jpeg'
+p140
+sg25
+g124
+sg26
+S'http://www.foodnetwork.com/recipes/valerie-bertinelli/set-it-and-forget-it-pot-roast.html'
+p141
+sg28
+S'8 servings'
+p142
+sg30
+S'Intermediate'
+p143
+sg32
+S'15 min'
+p144
+sg34
+S'Adapted from "One Dish at a Time: Delicious Recipes and Stories from My Italian-American Childhood and Beyond" by Valerie Bertinelli (c) Rodale 2012. Provided courtesy of Valerie Bertinelli. All rights reserved.'
+p145
+sg36
+(lp146
+S'Beef'
+p147
+aS'Main Dish'
+p148
+aS'Roast'
+p149
+assS'Marinated Cucumber Salad'
+p150
+(dp151
+g5
+S'1 hr 10 min'
+p152
+sg9
+(lp153
+S'1/2 cup plus 2 tablespoons unseasoned rice vinegar'
+p154
+aS'2 tablespoons soy sauce'
+p155
+aS'4 teaspoons sugar'
+p156
+aS'4 teaspoons sesame oil'
+p157
+aS'2 English cucumbers, thinly sliced on a mandoline'
+p158
+asg23
+S'http://foodnetwork.sndimg.com/content/dam/images/food/fullset/2015/11/15/1/VB0207H_Marinated-Cucumber-Salad_s4x3.jpg.rend.sni12col.landscape.jpeg'
+p159
+sg25
+g150
+sg26
+S'http://www.foodnetwork.com/recipes/valerie-bertinelli/marinated-cucumber-salad.html'
+p160
+sg28
+S'4 servings'
+p161
+sg30
+S'Easy'
+p162
+sg61
+S'1 hr'
+p163
+sg32
+S'10 min'
+p164
+sg34
+S'Adapted from "One Dish at a Time: Delicious Recipes and Stories from My Italian-American Childhood and Beyond" by Valerie Bertinelli (c) Rodale 2012. Provided courtesy of Valerie Bertinelli. All rights reserved.'
+p165
+sg36
+(lp166
+S'Cucumber'
+p167
+aS'Side Dish'
+p168
+aS'Salad'
+p169
+assS'Pesto'
+p170
+(dp171
+g5
+S'10 min'
+p172
+sg9
+(lp173
+S'1 bunch fresh basil (about 3 cups of leaves)'
+p174
+aS'1/2 cup grated Parmesan'
+p175
+aS'3 tablespoons toasted pine nuts'
+p176
+aS'1 clove garlic'
+p177
+aS'1/2 cup extra-virgin olive oil'
+p178
+aS'2 tablespoons freshly squeezed lemon juice'
+p179
+aS' Kosher salt and freshly ground black pepper'
+p180
+asg30
+S'Easy'
+p181
+sg25
+g170
+sg26
+S'http://www.foodnetwork.com/recipes/valerie-bertinelli/pesto.html'
+p182
+sg28
+S'about 1 cup'
+p183
+sg32
+S'10 min'
+p184
+sg34
+S'Add the basil, Parmesan, pine nuts and garlic to a food processor. Pulse a few times to break up the garlic and nuts. Add 1/4 cup of the olive oil and pulse a few more times. Scrape down the sides as needed. With the motor running, stream in the remaining 1/4 cup olive oil and the lemon juice until a thick paste forms. Add salt and pepper to taste and pulse a few more times to combine.Remove and store in an airtight container for up to 2 days (with a thin layer of olive oil over the top so that it does not turn brown).'
+p185
+sg36
+(lp186
+S'Parmesan Cheese'
+p187
+aS'Pesto'
+p188
+assS'Rosemary and Pepper Crackers'
+p189
+(dp190
+g5
+S'27 min'
+p191
+sg7
+S'12 min'
+p192
+sg9
+(lp193
+S'1 1/4 cups all-purpose flour, plus for dusting'
+p194
+aS'1/2 cup grated Parmesan'
+p195
+aS'1 teaspoon fresh rosemary, minced'
+p196
+aS'1/2 teaspoon coarsely ground black pepper'
+p197
+aS' Pinch cayenne'
+p198
+aS' Kosher salt'
+p199
+aS'4 tablespoons cold unsalted butter, cut into 1/2-inch pieces'
+p200
+aS'1/4 cup heavy cream, plus up to 2 tablespoons'
+p201
+asg23
+S'http://foodnetwork.sndimg.com/content/dam/images/food/fullset/2015/11/15/1/VB0207H_Rosemary-Pepper-Crackers_s4x3.jpg.rend.sni12col.landscape.jpeg'
+p202
+sg25
+g189
+sg26
+S'http://www.foodnetwork.com/recipes/valerie-bertinelli/rosemary-and-pepper-crackers.html'
+p203
+sg28
+S'6 servings'
+p204
+sg30
+S'Easy'
+p205
+sg32
+S'15 min'
+p206
+sg34
+S'Preheat the oven to 400 degrees F. Line a baking sheet with parchment paper.Combine the flour, Parmesan, rosemary, pepper, cayenne and 1/2 teaspoon salt in a food processor; pulse to combine. Add the butter and pulse until incorporated. Add the 1/4 cup heavy cream and process until the dough forms a ball. If a ball does not form, add more heavy cream, one tablespoon at a time, and process until the dough comes together.Lightly flour a work surface. Pat the dough out in into a flat rectangle, then lightly flour the dough and roll it out until it is a little less than 1/4-inch thick and about 12-by-8-inches in size. Cut the dough into squares or rectangles and carefully transfer them to the prepared baking sheet. Sprinkle with 1/4 teaspoon salt, gently pressing the salt into the surface of the crackers.Bake until light golden brown, 10 to 12 minutes. Cool completely on a rack.'
+p207
+sg36
+(lp208
+S'Parmesan Cheese'
+p209
+aS'Appetizer'
+p210
+assS'Challah Bread Pudding with Limoncello'
+p211
+(dp212
+g5
+S'1 hr 20 min'
+p213
+sg7
+S'45 min'
+p214
+sg9
+(lp215
+S'2 cups half-and-half'
+p216
+aS'1/4 cup limoncello'
+p217
+aS'3 tablespoons granulated sugar'
+p218
+aS'1/2 teaspoon vanilla extract'
+p219
+aS'1/2 teaspoon finely grated lemon zest'
+p220
+aS'1/8 teaspoon kosher salt'
+p221
+aS'3 large eggs'
+p222
+aS' Unsalted butter, for buttering the casserole dish'
+p223
+aS'5 cups cubed challah (about 8 ounces)'
+p224
+aS"1/3 cup confectioners' sugar"
+p225
+aS'1 tablespoon limoncello'
+p226
+aS'1 teaspoon finely grated lemon zest'
+p227
+asg23
+S'http://foodnetwork.sndimg.com/content/dam/images/food/fullset/2015/11/15/1/VB0211H_Limoncello-Challah-Bread-Pudding_s4x3.jpg.rend.sni12col.landscape.jpeg'
+p228
+sg25
+g211
+sg26
+S'http://www.foodnetwork.com/recipes/valerie-bertinelli/challah-bread-pudding-with-limoncello.html'
+p229
+sg28
+S'6 servings'
+p230
+sg30
+S'Easy'
+p231
+sg61
+S'20 min'
+p232
+sg32
+S'15 min'
+p233
+sg34
+S"For the bread pudding: Whisk together the half-and-half, limoncello, granulated sugar, vanilla, lemon zest, salt and eggs in a large bowl.Butter a 2-quart casserole dish and add the bread cubes to the dish. Pour the custard over the bread and let stand 20 minutes.Preheat the oven to 325 degrees F.Cover the dish with foil. Bake, covered, for 20 minutes, then uncover and continue to bake until puffed, set and golden on top, about 25 minutes more.For the glaze: Whisk together the confectioners\\' sugar, limoncello and lemon zest in a small bowl. Pour the glaze on the warm bread pudding and serve."
+p234
+sg36
+(lp235
+S'Bread'
+p236
+aS'Dessert'
+p237
+aS'Bread Pudding'
+p238
+assS'Arugula Salad with Pickled Red Onions and Champagne Vinaigrette'
+p239
+(dp240
+g5
+S'30 min'
+p241
+sg7
+S'5 min'
+p242
+sg9
+(lp243
+S'1/2 cup distilled white vinegar'
+p244
+aS'2 tablespoons sugar'
+p245
+aS' Kosher salt'
+p246
+aS'1 medium red onion, thinly sliced'
+p247
+aS'5 ounces arugula'
+p248
+aS'1 cup cherry tomatoes, halved'
+p249
+aS'1/2 cup extra-virgin olive oil'
+p250
+aS'3 tablespoons Champagne vinegar'
+p251
+aS'1 teaspoon honey'
+p252
+aS'1 teaspoon Dijon mustard'
+p253
+aS' Kosher salt and freshly ground black pepper'
+p254
+asg23
+S'http://foodnetwork.sndimg.com/content/dam/images/food/fullset/2015/11/15/1/VB0212H_Arugula-Salad-with-Pickled-Red-Onions_s4x3.jpg.rend.sni12col.landscape.jpeg'
+p255
+sg25
+g239
+sg26
+S'http://www.foodnetwork.com/recipes/valerie-bertinelli/arugula-salad-with-pickled-red-onions-and-champagne-vinaigrette.html'
+p256
+sg28
+S'4 servings'
+p257
+sg30
+S'Easy'
+p258
+sg61
+S'15 min'
+p259
+sg32
+S'10 min'
+p260
+sg34
+S'Special equipment: a mason jarFor the salad: Combine the white vinegar, sugar, and 1 teaspoon salt in a small saucepan with 1/2 cup water. Bring to a simmer over medium-high heat and then add the onions. Return the liquid to a simmer, then take off the heat and let stand 15 minutes; drain.Put the arugula in a large salad bowl and add a few of the pickled onions and all of the cherry tomatoes; toss to combine. (Reserve the remaining pickled onions for another use.)For the vinaigrette: Combine the olive oil, Champagne vinegar, honey, mustard, 1/2 teaspoon salt and a few grinds of pepper in a mason jar and shake vigorously until emulsified.Add just enough vinaigrette to lightly coat the salad and toss well. Season to taste with salt and pepper. The remaining vinaigrette can be kept refrigerated up to 1 week.'
+p261
+sg36
+(lp262
+S'Arugula'
+p263
+aS'Side Dish'
+p264
+aS'Salad'
+p265
+assS'Stuffed Mushrooms'
+p266
+(dp267
+g5
+S'30 min'
+p268
+sg7
+S'15 min'
+p269
+sg9
+(lp270
+S'2 teaspoons extra-virgin olive oil'
+p271
+aS'12 large white mushrooms, brushed clean, stems removed and reserved'
+p272
+aS'1/2 cup baby spinach, finely chopped'
+p273
+aS'1/2 onion, minced'
+p274
+aS'2 cloves garlic, chopped'
+p275
+aS'1/2 cup cherry tomatoes, finely chopped'
+p276
+aS'2 tablespoons flat-leaf parsley, chopped'
+p277
+aS'1/8 teaspoon salt, plus additional for sprinkling on mushroom caps'
+p278
+aS' Pinch freshly ground black pepper'
+p279
+aS'3 tablespoons grated Pecorino Romano cheese'
+p280
+aS'3 tablespoons panko (Japanese breadcrumbs)'
+p281
+asg23
+S'http://foodnetwork.sndimg.com/content/dam/images/food/fullset/2015/11/8/1/VB0208H_Stuffed-Mushrooms_s4x3.jpg.rend.sni12col.landscape.jpeg'
+p282
+sg25
+g266
+sg26
+S'http://www.foodnetwork.com/recipes/valerie-bertinelli/stuffed-mushrooms.html'
+p283
+sg28
+S'4 to 6 servings'
+p284
+sg30
+S'Intermediate'
+p285
+sg32
+S'15 min'
+p286
+sg34
+S'Adapted from "One Dish at a Time: Delicious Recipes and Stories from My Italian-American Childhood and Beyond" by Valerie Bertinelli (c) Rodale 2012. Provided courtesy of Valerie Bertinelli. All rights reserved.'
+p287
+sg36
+(lp288
+S'Cheese'
+p289
+aS'Appetizer'
+p290
+aS'Stuffed Mushrooms'
+p291
+assS'Roasted Asparagus and Mushrooms with Chile-Lemon Salt'
+p292
+(dp293
+g5
+S'25 min'
+p294
+sg7
+S'15 min'
+p295
+sg9
+(lp296
+S'1 pound cremini (baby bella) mushrooms, halved or quartered if large'
+p297
+aS'1 bunch asparagus, trimmed and cut into 1-inch lengths'
+p298
+aS'3 tablespoons extra-virgin olive oil'
+p299
+aS'2 dried arbol chiles, stemmed'
+p300
+aS'1 tablespoon kosher salt'
+p301
+aS'1 teaspoon finely grated lemon zest'
+p302
+asg23
+S'http://foodnetwork.sndimg.com/content/dam/images/food/fullset/2015/11/15/1/VB0211H_Roasted-Asparagus-and-Mushrooms-with-Chili-Lemon-Salt_s4x3.jpg.rend.sni12col.landscape.jpeg'
+p303
+sg25
+g292
+sg26
+S'http://www.foodnetwork.com/recipes/valerie-bertinelli/roasted-asparagus-and-mushrooms-with-chile-lemon-salt.html'
+p304
+sg28
+S'4 servings, plus additional chile-lemon salt'
+p305
+sg30
+S'Easy'
+p306
+sg32
+S'10 min'
+p307
+sg34
+S'Preheat the oven to 425 degrees F.Toss the mushrooms and asparagus with the oil on a baking sheet and roast, stirring once, until tender and brown in spots, about 15 minutes.Meanwhile, grind the chiles in a spice grinder until coarsely ground into flakes. Mix the chiles with the salt and lemon zest in a small bowl.Transfer the asparagus and mushrooms to a serving bowl and sprinkle with 1/2 teaspoon of the chile-lemon salt.'
+p308
+sg36
+(lp309
+S'Asparagus'
+p310
+aS'Side Dish'
+p311
+aS'Roasting'
+p312
+assS'Spicy Arrabiata Penne'
+p313
+(dp314
+g5
+S'20 min'
+p315
+sg7
+S'15 min'
+p316
+sg9
+(lp317
+S' Kosher salt and freshly ground black pepper'
+p318
+aS'1 pound penne rigate (penne pasta with ridges)'
+p319
+aS'1/4 cup olive oil'
+p320
+aS'3 cloves garlic, chopped'
+p321
+aS' One 26.42-ounce container chopped tomatoes, such as Pomi'
+p322
+aS'1/2 teaspoon red chile flakes'
+p323
+aS'1/2 teaspoon Italian seasoning'
+p324
+aS'6 leaves fresh basil, chopped, plus more for garnish'
+p325
+aS' Block of Parmigiano-Reggiano, for garnish'
+p326
+asg23
+S'http://foodnetwork.sndimg.com/content/dam/images/food/fullset/2015/8/22/0/VB0106H_Spicy-Arrabiata-Penne_s4x3.jpg.rend.sni12col.landscape.jpeg'
+p327
+sg25
+g313
+sg26
+S'http://www.foodnetwork.com/recipes/valerie-bertinelli/spicy-arrabiata-penne.html'
+p328
+sg28
+S'6 servings'
+p329
+sg30
+S'Easy'
+p330
+sg32
+S'5 min'
+p331
+sg34
+S'Bring a large pot of water to a boil. Add kosher salt to the boiling water, then add the pasta. Cook according to the package instructions, about 9 minutes.In a large skillet over medium-high heat, add the olive oil and heat until the oil starts to shimmer. Add the garlic and cook, stirring, until fragrant, 1 to 2 minutes. Add the chopped tomatoes, red chile flakes, Italian seasoning and salt and pepper to taste. Bring to a boil and cook for 5 minutes. Remove from the heat and add the chopped basil.Drain the pasta and add it to the sauce. Garnish with Parmigiano-Reggiano flakes and more basil and serve warm.'
+p332
+sg36
+(lp333
+S'Tomato'
+p334
+aS'Main Dish'
+p335
+aS'Pasta Dishes'
+p336
+assS'Corn and Cauliflower Sauteed in Bourbon Butter'
+p337
+(dp338
+g5
+S'4 hr 35 min'
+p339
+sg7
+S'15 min'
+p340
+sg9
+(lp341
+S'4 tablespoons Bourbon-Infused Butter, recipe follows'
+p342
+aS'1/2 head cauliflower, cored and cut into bite-sized florets'
+p343
+aS'2 ears corn, kernels cut off the cob'
+p344
+aS' Kosher salt and freshly ground black pepper'
+p345
+aS'1 tablespoon fresh flat-leaf parsley, chopped'
+p346
+aS' One 750-milliliter bottle good-quality bourbon'
+p347
+aS'2 sticks (16 tablespoons) unsalted butter'
+p348
+asg23
+S'http://foodnetwork.sndimg.com/content/dam/images/food/fullset/2015/11/15/1/VB0204H_Corn-and-Cauliflower-with-Bourbon-Infused-Butter_s4x3.jpg.rend.sni12col.landscape.jpeg'
+p349
+sg25
+g337
+sg26
+S'http://www.foodnetwork.com/recipes/valerie-bertinelli/corn-and-cauliflower-sauteed-in-bourbon-butter.html'
+p350
+sg28
+S'Serves 4'
+p351
+sg30
+S'Easy'
+p352
+sg32
+S'4 hr 20 min'
+p353
+sg34
+S'Combine the bourbon and butter in a medium saucepan over medium heat and cook until the butter melts. Transfer to a container and freeze until the butter has solidified. Remove the large piece of bourbon-infused butter and reserve, refrigerated in an airtight container, for cooking. Strain the bourbon through a fine-meshed sieve and coffee filter to remove any remaining particles of butter. Return the butter-infused bourbon to its original bottle and keep frozen to use in cocktails for up to one month.Yield: about 3 cups of bourbon and 12 tablespoons butter'
+p354
+sg36
+(lp355
+S'Corn'
+p356
+aS'Side Dish'
+p357
+assS'Salted Hazelnut Toffee'
+p358
+(dp359
+g5
+S'1 hr 5 min'
+p360
+sg7
+S'20 min'
+p361
+sg9
+(lp362
+S' Nonstick cooking spray'
+p363
+aS'2 cups hazelnuts'
+p364
+aS'1 cup (2 sticks) unsalted butter'
+p365
+aS'1 cup sugar'
+p366
+aS'1/8 teaspoon kosher salt'
+p367
+aS'1 cup dark chocolate chips'
+p368
+aS' Coarse sea salt, for sprinkling'
+p369
+asg23
+S'http://foodnetwork.sndimg.com/content/dam/images/food/fullset/2015/11/15/1/VB0212H_Salted-Hazelnut-Toffee_s4x3.jpg.rend.sni12col.landscape.jpeg'
+p370
+sg25
+g358
+sg26
+S'http://www.foodnetwork.com/recipes/valerie-bertinelli/salted-hazelnut-toffee.html'
+p371
+sg28
+S'20 servings'
+p372
+sg30
+S'Easy'
+p373
+sg61
+S'35 min'
+p374
+sg32
+S'10 min'
+p375
+sg34
+S'Recipe adapted from "One Dish at a Time: Delicious Recipes and Stories from My Italian-American Childhood and Beyond" by Valerie Bertinelli (c) Rodale 2012. Provided courtesy of Valerie Bertinelli. All rights reserved.'
+p376
+sg36
+(lp377
+S'Dessert'
+p378
+aS'Candy'
+p379
+assS"Valerie's Very Best Gumbo"
+p380
+(dp381
+g5
+S'1 hr 45 min'
+p382
+sg7
+S'1 hr 10 min'
+p383
+sg9
+(lp384
+S'1 cup plus 2 tablespoons canola oil'
+p385
+aS'1 cup all-purpose flour'
+p386
+aS'6 ribs celery, chopped'
+p387
+aS'2 green bell peppers, chopped'
+p388
+aS'1 large white onion, chopped'
+p389
+aS'1 bunch scallions, 1/2 cup sliced for garnish and the remaining chopped'
+p390
+aS'8 to 10 cloves garlic, chopped'
+p391
+aS'2 quarts store-bought chicken stock'
+p392
+aS' Two 15-ounce cans diced tomatoes'
+p393
+aS'12 ounces andouille sausage, sliced into 1/2-inch pieces'
+p394
+aS'12 ounces smoked sausage, sliced into 1/2-inch pieces'
+p395
+aS'1 scant tablespoon cayenne, or more to taste (this much makes it medium spicy)'
+p396
+aS'3 bay leaves'
+p397
+aS' Kosher salt and freshly ground black pepper'
+p398
+aS' One 10-ounce box frozen sliced okra, thawed'
+p399
+aS'1 rotisserie chicken, meat shredded (about 4 cups)'
+p400
+aS'15 cups cooked white rice, such as Minute Rice, for serving'
+p401
+aS' Hot sauce, such as Crystal, for serving'
+p402
+aS' File powder, for serving, optional'
+p403
+asg23
+S'http://foodnetwork.sndimg.com/content/dam/images/food/fullset/2015/8/22/0/VB0108H_Gumbo_s4x3.jpg.rend.sni12col.landscape.jpeg'
+p404
+sg25
+g380
+sg26
+S'http://www.foodnetwork.com/recipes/valerie-bertinelli/valeries-very-best-gumbo.html'
+p405
+sg28
+S'12 to 15 servings'
+p406
+sg30
+S'Intermediate'
+p407
+sg32
+S'35 min'
+p408
+sg34
+S'Adapted from "One Dish at a Time: Delicious Recipes and Stories from My Italian-American Childhood and Beyond" by Valerie Bertinelli \\xa9 Rodale 2012. Provided courtesy of Valerie Bertinelli. All rights reserved.'
+p409
+sg36
+(lp410
+S'Chicken'
+p411
+aS'Main Dish'
+p412
+aS'Gumbo'
+p413
+assS'Acorn Squash with Baby Bitter Greens'
+p414
+(dp415
+g5
+S'1 hr 35 min'
+p416
+sg7
+S'1 hr'
+p417
+sg9
+(lp418
+S'1 small acorn squash (about 1 pound)'
+p419
+aS'1/2 cup extra-virgin olive oil'
+p420
+aS' A dash of pimenton (smoked paprika)'
+p421
+aS' Kosher salt and freshly ground black pepper'
+p422
+aS'1 tablespoon sherry vinegar'
+p423
+aS'1 tablespoon minced shallot'
+p424
+aS'1 teaspoon whole-grain Dijon mustard'
+p425
+aS'1/4 teaspoon sugar'
+p426
+aS'4 ounces (8 cups) baby hearty greens, such as baby kale, Swiss chard, mustard and mizuna'
+p427
+aS'2 ounces goat cheese, crumbled'
+p428
+aS'2 tablespoons Sweet and Salty Pepitas, recipe follows'
+p429
+aS' Vegetable oil, for the baking sheet'
+p430
+aS'2 tablespoons unsalted butter'
+p431
+aS'2 1/2 cups fresh pumpkin seeds (pepitas), cleaned of any large chunks of pumpkin, but some pulp is okay'
+p432
+aS'2 tablespoons sugar'
+p433
+aS'1/2 teaspoon ground cinnamon'
+p434
+aS'1/2 teaspoon ground ginger'
+p435
+aS'1/4 teaspoon ground allspice'
+p436
+aS'1/4 teaspoon ground cloves'
+p437
+aS' Kosher salt'
+p438
+asg23
+S'http://foodnetwork.sndimg.com/content/dam/images/food/fullset/2015/11/12/2/VB0202H_Acorn-Squash-with-Baby-Greens_s4x3.jpg.rend.sni12col.landscape.jpeg'
+p439
+sg25
+g414
+sg26
+S'http://www.foodnetwork.com/recipes/valerie-bertinelli/acorn-squash-with-baby-bitter-greens.html'
+p440
+sg28
+S'6 servings'
+p441
+sg30
+S'Easy'
+p442
+sg61
+S'15 min'
+p443
+sg32
+S'20 min'
+p444
+sg34
+S'Adapted from "One Dish at a Time: Delicious Recipes and Stories from My Italian-American Childhood and Beyond" by Valerie Bertinelli (c) Rodale 2012. Provided courtesy of Valerie Bertinelli. All rights reserved.'
+p445
+sg36
+(lp446
+S'Acorn Squash'
+p447
+aS'Side Dish'
+p448
+assS'Blueberry Smoothie'
+p449
+(dp450
+g5
+S'5 min'
+p451
+sg9
+(lp452
+S'1 avocado, peeled, halved and pitted'
+p453
+aS'1 frozen peeled banana, cut into 2-inch chunks'
+p454
+aS'1 1/2 cups blueberries'
+p455
+aS'1 cup coconut water'
+p456
+aS'1 cup frozen chopped collard greens'
+p457
+aS'1 cup frozen pineapple chunks'
+p458
+aS'1 tablespoon freshly squeezed lime juice'
+p459
+aS'1/2 teaspoon grated fresh ginger'
+p460
+asg30
+S'Easy'
+p461
+sg25
+g449
+sg26
+S'http://www.foodnetwork.com/recipes/valerie-bertinelli/blueberry-smoothie.html'
+p462
+sg28
+S'4 cups'
+p463
+sg32
+S'5 min'
+p464
+sg34
+S'Special equipment: a high-powered blender, optionalIn a carafe of a high-powered blender, combine the avocado, banana, blueberries, coconut water, collard greens, pineapple, lime juice and ginger. Blend until thick and creamy.'
+p465
+sg36
+(lp466
+S'Blueberry'
+p467
+aS'Smoothie'
+p468
+assS'Fennel Salad with Goat Cheese and Pine Nuts'
+p469
+(dp470
+g5
+S'20 min'
+p471
+sg9
+(lp472
+S'3 tablespoons extra-virgin olive oil'
+p473
+aS'1 tablespoon red wine vinegar'
+p474
+aS' Kosher salt and freshly ground black pepper'
+p475
+aS'3 cups loosely packed baby arugula leaves'
+p476
+aS'1 bulb fennel, fronds removed and chopped, bulb cored and thinly sliced using a mandoline'
+p477
+aS'2 ounces goat cheese, crumbled'
+p478
+aS'2 tablespoons pine nuts, toasted'
+p479
+asg23
+S'http://foodnetwork.sndimg.com/content/dam/images/food/fullset/2015/11/15/1/VB0210H_Fennel-Salad-with-Goat-Cheese-and-Pine-Nuts_s4x3.jpg.rend.sni12col.landscape.jpeg'
+p480
+sg25
+g469
+sg26
+S'http://www.foodnetwork.com/recipes/valerie-bertinelli/fennel-salad-with-goat-cheese-and-pine-nuts.html'
+p481
+sg28
+S'2 servings as a main dish; 4 servings as a side dish'
+p482
+sg30
+S'Easy'
+p483
+sg32
+S'20 min'
+p484
+sg34
+S'Adapted from "One Dish at a Time: Delicious Recipes and Stories from My Italian-American Childhood and Beyond" by Valerie Bertinelli (c) Rodale 2012. Provided courtesy of Valerie Bertinelli. All rights reserved.'
+p485
+sg36
+(lp486
+S'Arugula'
+p487
+aS'Main Dish'
+p488
+aS'Salad'
+p489
+assS'Pasta e Fagioli'
+p490
+(dp491
+g5
+S'1 hr 10 min'
+p492
+sg7
+S'55 min'
+p493
+sg9
+(lp494
+S'1/2 yellow onion, finely chopped'
+p495
+aS'1 rib celery with leaves, finely chopped'
+p496
+aS'1 carrot, finely chopped'
+p497
+aS'2 tablespoons extra-virgin olive oil, plus additional for drizzling'
+p498
+aS'2 plum tomatoes, diced, juices reserved'
+p499
+aS'1 bay leaf'
+p500
+aS'1 sprig rosemary'
+p501
+aS'4 cups reduced-sodium chicken broth'
+p502
+aS'1 cup ditalini, elbows or tripolini pasta'
+p503
+aS' One 15.5-ounce can cannellini beans or kidney beans, rinsed and drained'
+p504
+aS' Kosher salt and freshly ground black pepper'
+p505
+aS' Grated Parmigiano-Reggiano cheese, for sprinkling'
+p506
+asg23
+S'http://foodnetwork.sndimg.com/content/dam/images/food/fullset/2015/11/15/1/VB0213H_Pasta-e-Fagioli_s4x3.jpg.rend.sni12col.landscape.jpeg'
+p507
+sg25
+g490
+sg26
+S'http://www.foodnetwork.com/recipes/valerie-bertinelli/pasta-e-fagioli.html'
+p508
+sg28
+S'4 servings'
+p509
+sg30
+S'Easy'
+p510
+sg32
+S'15 min'
+p511
+sg34
+S'Adapted from "One Dish at a Time: Delicious Recipes and Stories from My Italian-American Childhood and Beyond" by Valerie Bertinelli (c) Rodale 2012. Provided courtesy of Valerie Bertinelli. All rights reserved.'
+p512
+sg36
+(lp513
+S'Beans And Legumes'
+p514
+aS'Appetizer'
+p515
+aS'Soup'
+p516
+assS'Italian Fennel Coleslaw'
+p517
+(dp518
+g5
+S'35 min'
+p519
+sg9
+(lp520
+S'1/3 cup mayonnaise'
+p521
+aS'1/3 cup white wine vinegar'
+p522
+aS'1/4 cup olive oil'
+p523
+aS'1 tablespoon prepared horseradish'
+p524
+aS'1/2 teaspoon crushed red pepper flakes'
+p525
+aS' Kosher salt and freshly ground black pepper'
+p526
+aS'1/2 teaspoon Italian Seasoning, recipe follows'
+p527
+aS'10 cups very thinly sliced green cabbage (about 1/2 large head)'
+p528
+aS'4 scallions, thinly sliced'
+p529
+aS'3 medium carrots, grated'
+p530
+aS'1 large bulb fennel, trimmed, halved and sliced paper thin on a mandoline'
+p531
+aS'3 tablespoons chopped fresh flat-leaf parsley'
+p532
+aS'3 tablespoons dried basil'
+p533
+aS'3 tablespoons dried marjoram'
+p534
+aS'3 tablespoons dried oregano'
+p535
+aS'3 tablespoons dried parsley'
+p536
+aS'1 tablespoon granulated garlic'
+p537
+aS'1 teaspoon dried rosemary'
+p538
+aS'1 teaspoon dried thyme'
+p539
+aS'1/4 teaspoon red pepper flakes'
+p540
+asg23
+S'http://foodnetwork.sndimg.com/content/dam/images/food/fullset/2015/11/15/1/VB0209H_Fennel-Coleslaw_s4x3.jpg.rend.sni12col.landscape.jpeg'
+p541
+sg25
+g517
+sg26
+S'http://www.foodnetwork.com/recipes/valerie-bertinelli/italian-fennel-coleslaw.html'
+p542
+sg28
+S'8 servings'
+p543
+sg30
+S'Easy'
+p544
+sg61
+S'15 min'
+p545
+sg32
+S'20 min'
+p546
+sg34
+S'In a large bowl, whisk together the mayonnaise, vinegar, olive oil, horseradish, red pepper flakes, Italian seasoning, 1 teaspoon salt and 1/4 teaspoon pepper. Add the cabbage, scallions, carrots, fennel and parsley; toss to coat. Season to taste with salt and pepper. Let stand in the refrigerator for 15 minutes before serving.'
+p547
+sg36
+(lp548
+S'Cabbage'
+p549
+aS'Side Dish'
+p550
+aS'Slaw'
+p551
+assS"Valerie's Brunch Frittata"
+p552
+(dp553
+g5
+S'30 min'
+p554
+sg7
+S'10 min'
+p555
+sg9
+(lp556
+S'1 tablespoon extra-virgin olive oil'
+p557
+aS'1 cup cut-up cooked asparagus (in 1- to 2-inch pieces)'
+p558
+aS'1 cup cherry tomatoes'
+p559
+aS'8 large eggs, beaten with kosher salt and freshly ground black pepper'
+p560
+aS'2 ounces goat cheese, crumbled'
+p561
+aS'2 tablespoons mix of chopped fresh chives and dill'
+p562
+asg23
+S'http://foodnetwork.sndimg.com/content/dam/images/food/fullset/2015/8/19/0/VB0105H_Valeries-Brunch-Frittata_s4x3.jpg.rend.sni12col.landscape.jpeg'
+p563
+sg25
+g552
+sg26
+S'http://www.foodnetwork.com/recipes/valerie-bertinelli/valeries-brunch-frittata.html'
+p564
+sg28
+S'8 servings'
+p565
+sg30
+S'Easy'
+p566
+sg61
+S'5 min'
+p567
+sg32
+S'15 min'
+p568
+sg34
+S'Preheat the broiler.Warm the oil in a medium (10-inch) nonstick ovenproof skillet over medium heat. Add the asparagus and cherry tomatoes and saute until warmed through. Add the eggs, stir and let cook until firm around the edges. With a spatula, lift the edges and tilt the pan to allow the uncooked portion of the egg to run into the bare pan beneath the spatula. Add the goat cheese and herbs, stir slightly to incorporate, and continue to cook until the edges of the frittata are firm (the center will still be jiggly).Transfer the pan to the broiler and cook until golden brown on top, about 2 minutes. Allow to sit for 2 minutes, then run a knife or a thin spatula around the edge of the frittata. Cut in wedges and serve straight out of the skillet or slide it out of the pan onto a cutting board, cut in wedges and serve.'
+p569
+sg36
+(lp570
+S'Asparagus'
+p571
+aS'Breakfast'
+p572
+aS'Frittata'
+p573
+assS'Crazy Easy Quickbread'
+p574
+(dp575
+g5
+S'1 hr 15 min'
+p576
+sg7
+S'45 min'
+p577
+sg9
+(lp578
+S'2 1/2 cups self-rising flour'
+p579
+aS'3 tablespoons sugar'
+p580
+aS'1 can or bottle (12 ounces) warm beer'
+p581
+aS'1 heaping tablespoon chopped fresh rosemary'
+p582
+aS'3/4 cup grated Parmesan'
+p583
+aS' Salted butter, for serving and for greasing the loaf pan'
+p584
+asg23
+S'http://foodnetwork.sndimg.com/content/dam/images/food/fullset/2015/9/9/1/VB0104H_Crazy-Easy-Quickbread_s4x3.jpg.rend.sni12col.landscape.jpeg'
+p585
+sg25
+g574
+sg26
+S'http://www.foodnetwork.com/recipes/valerie-bertinelli/crazy-easy-quickbread.html'
+p586
+sg28
+S'1 loaf (8 servings)'
+p587
+sg30
+S'Easy'
+p588
+sg32
+S'30 min'
+p589
+sg34
+S'Special equipment: one 8 1/2-by-4 1/2-by-2 1/2-inch glass loaf panPreheat the oven to 375 degrees F; generously grease the loaf pan with butter.Whisk together the flour, sugar, beer, rosemary and Parmesan in a large bowl until evenly incorporated yet slightly lumpy. Transfer to the prepared loaf pan. Bake until golden and a skewer inserted into the center comes out clean, 45 minutes. Unmold onto a rack and let cool. Cut into 1-inch slices and serve with butter.'
+p590
+sg36
+(lp591
+S'Parmesan Cheese'
+p592
+aS'Side Dish'
+p593
+assS"Valerie's Pumpkin Pie"
+p594
+(dp595
+g5
+S'5 hr 35 min'
+p596
+sg7
+S'1 hr 40 min'
+p597
+sg9
+(lp598
+S'2 1/2 cups all-purpose flour, plus more for flouring the rolling pin and surface'
+p599
+aS'1 tablespoon granulated sugar'
+p600
+aS'1 teaspoon kosher salt'
+p601
+aS'3/4 cup (1 1/2 sticks) unsalted butter, cut up'
+p602
+aS'6 to 8 tablespoons ice water'
+p603
+aS'1 3/4 cups canned solid-pack pumpkin puree'
+p604
+aS'1 1/4 cups heavy cream'
+p605
+aS'1/3 cup plus 2 tablespoons firmly packed light brown sugar'
+p606
+aS'2 1/2 teaspoons ground cinnamon'
+p607
+aS'1 1/2 teaspoons ground nutmeg'
+p608
+aS'1 teaspoon ground ginger'
+p609
+aS'1/2 teaspoon ground cloves'
+p610
+aS'1/4 teaspoon kosher salt'
+p611
+aS'2 tablespoons bourbon'
+p612
+aS'2 tablespoons vanilla extract'
+p613
+aS'2 large eggs, lightly beaten'
+p614
+aS' Cinnamon-Buttermilk Whipped Cream, recipe follows, for serving'
+p615
+aS'1 cup cold heavy cream'
+p616
+aS'1/2 cup cold buttermilk'
+p617
+aS'2 tablespoons sugar'
+p618
+aS'1/2 teaspoon ground cinnamon'
+p619
+asg23
+S'http://foodnetwork.sndimg.com/content/dam/images/food/fullset/2015/11/12/2/VB0202H_Valeries-Pumpkin-Pie_s4x3.jpg.rend.sni12col.landscape.jpeg'
+p620
+sg25
+g594
+sg26
+S'http://www.foodnetwork.com/recipes/valerie-bertinelli/valeries-pumpkin-pie.html'
+p621
+sg28
+S'6 to 8 servings'
+p622
+sg30
+S'Intermediate'
+p623
+sg61
+S'3 hr 20 min'
+p624
+sg32
+S'35 min'
+p625
+sg34
+S'Adapted from "One Dish at a Time: Delicious Recipes and Stories from My Italian-American Childhood and Beyond" by Valerie Bertinelli (c) Rodale 2012. Provided courtesy of Valerie Bertinelli. All rights reserved.'
+p626
+sg36
+(lp627
+S'Pumpkin'
+p628
+aS'Dessert'
+p629
+aS'Pie'
+p630
+assS"Dom's Salsa and Guacamole"
+p631
+(dp632
+g5
+S'25 min'
+p633
+sg9
+(lp634
+S'5 to 6 Roma tomatoes, diced'
+p635
+aS'8 to 10 scallions, chopped to just past where they turn green'
+p636
+aS'1 cup loosely packed fresh cilantro leaves and stems, finely chopped'
+p637
+aS'2 teaspoons red wine vinegar'
+p638
+aS'1 to 2 cloves garlic, finely chopped to almost a paste'
+p639
+aS' Zest of 1 lime and juice of 2 limes'
+p640
+aS'1/2 jalapeno chile pepper, seeded and finely chopped'
+p641
+aS'1/2 teaspoon kosher salt'
+p642
+aS'1/2 teaspoon ground white pepper'
+p643
+aS'1 ripe avocado, roughly mashed'
+p644
+asg30
+S'Easy'
+p645
+sg25
+g631
+sg26
+S'http://www.foodnetwork.com/recipes/valerie-bertinelli/doms-salsa-and-guacamole.html'
+p646
+sg28
+S'8 servings (about 2 cups)'
+p647
+sg61
+S'10 min'
+p648
+sg32
+S'15 min'
+p649
+sg34
+S'Combine the tomatoes, scallions, cilantro, red wine vinegar, garlic, lime zest and juice (to taste) and chile pepper (to taste) in a medium serving bowl. Add the salt and pepper. Stir to combine. Let sit at room temperature for 10 minutes, then stir again.Divide the salsa into 2 bowls. Serve one as traditional salsa. To the other bowl, add the avocado and mix to combine.'
+p650
+sg36
+(lp651
+S'Avocado'
+p652
+aS'Appetizer'
+p653
+aS'Salsa'
+p654
+assS'Pureed Artichoke Crostini with Lime Salt'
+p655
+(dp656
+g5
+S'25 min'
+p657
+sg7
+S'10 min'
+p658
+sg9
+(lp659
+S'1 tablespoon olive oil'
+p660
+aS'12 ounces frozen artichoke hearts, thawed and patted dry'
+p661
+aS'2 cups baby spinach'
+p662
+aS'3 cloves garlic, 2 chopped, 1 left whole'
+p663
+aS'2 tablespoons plus 1 teaspoon freshly squeezed lemon juice'
+p664
+aS'1/4 cup grated Parmigiano-Reggiano'
+p665
+aS'3 tablespoons crumbled feta cheese'
+p666
+aS'2 tablespoons fresh flat-leaf parsley leaves'
+p667
+aS'1/4 teaspoon kosher salt'
+p668
+aS' Freshly ground black pepper'
+p669
+aS'2 tablespoons sea salt flakes'
+p670
+aS'1 lime, zested'
+p671
+aS'1 baguette, sliced into 16 rounds and toasted'
+p672
+aS'4 radishes, very thinly sliced, for garnish'
+p673
+asg23
+S'http://foodnetwork.sndimg.com/content/dam/images/food/fullset/2015/8/22/0/VB0107H_Pureed-Artichoke-Crostini-with-Lime-Salt_s4x3.jpg.rend.sni12col.landscape.jpeg'
+p674
+sg25
+g655
+sg26
+S'http://www.foodnetwork.com/recipes/valerie-bertinelli/pureed-artichoke-crostini-with-lime-salt.html'
+p675
+sg28
+S'8 servings'
+p676
+sg30
+S'Easy'
+p677
+sg32
+S'15 min'
+p678
+sg34
+S'Heat the oil in a medium saute pan over medium heat. Add the artichokes, spinach, chopped garlic and 1 teaspoon of the lemon juice and saute until the spinach begins to wilt and the garlic becomes fragrant, 5 to 7 minutes. Remove from the heat and transfer to a food processor. Add the Parmigiano-Reggiano, feta, parsley and the remaining 2 tablespoons lemon juice and pulse until smooth. Add the kosher salt and season to taste with pepper.In a small bowl, combine the sea salt flakes and lime zest with your fingers. Set aside.Rub the remaining whole garlic clove onto one side of each slice of bread. Divide the artichoke mixture equally among the slices, place on a platter and serve; or, spoon into a serving bowl and serve with the bread slices on the side. Garnish with the radishes and lime salt.'
+p679
+sg36
+(lp680
+S'Artichoke'
+p681
+aS'Appetizer'
+p682
+assS'Roasted Red Pepper Hummus'
+p683
+(dp684
+g5
+S'15 min'
+p685
+sg9
+(lp686
+S' Two 15-ounce cans chickpeas, drained and rinsed'
+p687
+aS'1/2 cup roasted red peppers (jarred in water or oil both work)'
+p688
+aS'3 tablespoons tahini'
+p689
+aS'1 clove garlic, chopped'
+p690
+aS'3 to 4 tablespoons lemon juice'
+p691
+aS' Kosher salt'
+p692
+aS'1/4 cup olive oil'
+p693
+aS' Pita chips, celery and carrot sticks and halved radishes, for serving'
+p694
+aS' Pita chips, celery and carrot sticks and halved radishes, for serving'
+p695
+asg23
+S'http://foodnetwork.sndimg.com/content/dam/images/food/fullset/2015/8/22/0/VB0108H_Red-Pepper-Hummus_s4x3.jpg.rend.sni12col.landscape.jpeg'
+p696
+sg25
+g683
+sg26
+S'http://www.foodnetwork.com/recipes/valerie-bertinelli/roasted-red-pepper-hummus.html'
+p697
+sg28
+S'4 to 6 servings'
+p698
+sg30
+S'Easy'
+p699
+sg32
+S'15 min'
+p700
+sg34
+S'In a food processor, combine the chickpeas, roasted red peppers, tahini, garlic, lemon juice and 1 teaspoon salt. Pulse a few times to chop up the chickpeas. With the motor running, pour in the olive oil and process until a smooth paste forms. Transfer to a serving bowl and serve with pita chips, celery sticks, carrots sticks and radishes.'
+p701
+sg36
+(lp702
+S'Bell Pepper'
+p703
+aS'Appetizer'
+p704
+aS'Hummus'
+p705
+assS'Chicken Cutlets with Spicy Arugula'
+p706
+(dp707
+g5
+S'55 min'
+p708
+sg7
+S'10 min'
+p709
+sg9
+(lp710
+S'4 chicken cutlets, 4 to 5 ounces each'
+p711
+aS' Kosher salt and freshly ground black pepper'
+p712
+aS'2 large eggs'
+p713
+aS'2 cups panko breadcrumbs'
+p714
+aS'1/4 cup grated Parmesan, plus Parmesan shavings, for serving'
+p715
+aS'2 teaspoons Italian seasoning'
+p716
+aS'1/2 teaspoon dried basil'
+p717
+aS' Canola oil, for frying'
+p718
+aS' Spicy Arugula, recipe follows'
+p719
+aS' Lemon wedges, for serving'
+p720
+aS'1 1/2 tablespoons freshly-squeezed lemon juice (about 1/2 lemon)'
+p721
+aS'1 tablespoon chopped shallots'
+p722
+aS' Heaping 1/2 teaspoon Dijon mustard'
+p723
+aS' Kosher salt and freshly ground black pepper'
+p724
+aS'1/4 cup extra-virgin olive oil'
+p725
+aS'4 ounces arugula'
+p726
+asg23
+S'http://foodnetwork.sndimg.com/content/dam/images/food/fullset/2015/8/21/0/VB0101H_Chicken-Cutlets-with-Spicy-Arugula_s4x3.jpg.rend.sni12col.landscape.jpeg'
+p727
+sg25
+g706
+sg26
+S'http://www.foodnetwork.com/recipes/valerie-bertinelli/chicken-cutlets-with-spicy-arugula.html'
+p728
+sg28
+S'4 servings'
+p729
+sg30
+S'Easy'
+p730
+sg61
+S'20 min'
+p731
+sg32
+S'25 min'
+p732
+sg34
+S'Put the lemon juice, shallots, Dijon mustard and some salt and pepper in a small bowl. Slowly whisk in the olive oil. Taste and adjust the seasoning as needed.Put the arugula in another bowl. Drizzle some of the dressing around the sides of the bowl. Toss to lightly coat the arugula; taste and season with additional salt and pepper if needed.'
+p733
+sg36
+(lp734
+S'Chicken'
+p735
+aS'Main Dish'
+p736
+assS'Italian Flag Salad'
+p737
+(dp738
+g5
+S'15 min'
+p739
+sg9
+(lp740
+S'1/2 cup olive oil'
+p741
+aS'1/2 cup red wine vinegar'
+p742
+aS'1 tablespoon crumbled goat cheese'
+p743
+aS'1/2 small shallot, minced'
+p744
+aS' Kosher salt and freshly ground black pepper'
+p745
+aS'5 ounces spring lettuce mix'
+p746
+aS'1 head romaine, chopped (about 4 cups)'
+p747
+aS'2 cups cherry tomatoes, halved'
+p748
+aS'1 cup sliced radishes'
+p749
+aS'1 cup pecans'
+p750
+aS'3 tablespoons crumbled goat cheese'
+p751
+asg23
+S'http://foodnetwork.sndimg.com/content/dam/images/food/fullset/2015/8/22/0/VB0108H_Spring-Salad_s4x3.jpg.rend.sni12col.landscape.jpeg'
+p752
+sg25
+g737
+sg26
+S'http://www.foodnetwork.com/recipes/valerie-bertinelli/italian-flag-salad.html'
+p753
+sg28
+S'8 servings'
+p754
+sg30
+S'Easy'
+p755
+sg32
+S'15 min'
+p756
+sg34
+S'To make the dressing: Combine the olive oil, vinegar, goat cheese, shallot, 1/4 teaspoon salt and some freshly ground black pepper in a jar. Tightly close the lid and shake until thoroughly combined. Set aside.To make the salad: Combine the spring mix, romaine, tomatoes, radishes, pecans and goat cheese in a large bowl. Pour over the dressing and toss to combine. Adjust seasoning as needed. Serve immediately.'
+p757
+sg36
+(lp758
+S'Goat Cheese'
+p759
+aS'Side Dish'
+p760
+aS'Salad'
+p761
+assS'Pasta Alle Vongole'
+p762
+(dp763
+g5
+S'25 min'
+p764
+sg7
+S'15 min'
+p765
+sg9
+(lp766
+S'2 tablespoons extra-virgin olive oil'
+p767
+aS'1 clove garlic, minced'
+p768
+aS'1/8 teaspoon red pepper flakes'
+p769
+aS'1/3 cup dry white wine'
+p770
+aS'1 dozen littleneck clams, scrubbed'
+p771
+aS'1/4 teaspoon dried oregano'
+p772
+aS'1 tablespoon unsalted butter'
+p773
+aS' Kosher salt and freshly ground black pepper'
+p774
+aS'4 ounces linguine'
+p775
+aS'1/2 cup loosely packed fresh flat-leaf parsley, chopped'
+p776
+asg23
+S'http://foodnetwork.sndimg.com/content/dam/images/food/fullset/2015/11/15/1/VB0211H_Pasta-alle-Vongole_s4x3.jpg.rend.sni12col.landscape.jpeg'
+p777
+sg25
+g762
+sg26
+S'http://www.foodnetwork.com/recipes/valerie-bertinelli/pasta-alle-vongole.html'
+p778
+sg28
+S'1 large or 2 small servings'
+p779
+sg30
+S'Easy'
+p780
+sg32
+S'10 min'
+p781
+sg34
+S'Adapted from "One Dish at a Time: Delicious Recipes and Stories from My Italian-American Childhood and Beyond" by Valerie Bertinelli (c) Rodale 2012. Provided courtesy of Valerie Bertinelli. All rights reserved.'
+p782
+sg36
+(lp783
+S'Clam'
+p784
+aS'Main Dish'
+p785
+aS'Pasta Dishes'
+p786
+assS'Roasted Cauliflower Steaks'
+p787
+(dp788
+g5
+S'40 min'
+p789
+sg7
+S'25 min'
+p790
+sg9
+(lp791
+S'2 heads cauliflower'
+p792
+aS' Extra-virgin olive oil, for drizzling'
+p793
+aS' Kosher salt and freshly ground pepper'
+p794
+aS'2 tablespoons pine nuts'
+p795
+aS'1/4 cup golden raisins'
+p796
+aS'1 tablespoon unsalted butter'
+p797
+aS'1/4 cup fresh parsley, torn'
+p798
+asg23
+S'http://foodnetwork.sndimg.com/content/dam/images/food/fullset/2016/1/27/2/FNM_030116-Roasted-Cauliflower-Steaks-Recipe_s4x3.jpg.rend.sni12col.landscape.jpeg'
+p799
+sg25
+g787
+sg26
+S'http://www.foodnetwork.com/recipes/valerie-bertinelli/roasted-cauliflower-steaks.html'
+p800
+sg28
+S'4 to 6 servings'
+p801
+sg30
+S'Easy'
+p802
+sg32
+S'15 min'
+p803
+sg34
+S'Preheat the oven to 425 degrees F. Cut off the cauliflower stems, then place the heads cut-side down and slice into 1/2-inch-thick steaks. Arrange on a baking sheet in a single layer. Drizzle with olive oil and sprinkle with salt and pepper on both sides. Transfer to the oven and bake until golden brown, 20 to 25 minutes, flipping after the first 10 minutes.Meanwhile, add the pine nuts to a dry medium saute pan and toast over medium heat until golden brown, about 3 minutes. Add the raisins and butter and season with salt. Cook, tossing, until the butter has melted and coats the pine nuts and raisins. Off the heat, stir in the parsley.Transfer the roasted cauliflower to a serving platter. Pour the pine nut-raisin mixture over the top. Season with salt.Photograph by Con Poulos'
+p804
+sg36
+(lp805
+S'Cauliflower'
+p806
+aS'Roasting'
+p807
+assS'Kale Chips, Three Ways'
+p808
+(dp809
+g5
+S'50 min'
+p810
+sg7
+S'30 min'
+p811
+sg9
+(lp812
+S'6 cups tightly packed kale leaves (from 1 bunch), center stems and any other thick ribs removed, each torn into several pieces'
+p813
+aS'1 to 2 tablespoons olive oil'
+p814
+aS' Kosher salt and freshly ground black pepper'
+p815
+aS'1/4 cup grated Parmigiano-Reggiano or Pecorino Romano cheese'
+p816
+aS"1/4 cup pine nuts, toasted (see Cook's Note)"
+p817
+aS'1 teaspoon seafood seasoning, such as Old Bay'
+p818
+aS'1/8 teaspoon cayenne'
+p819
+aS' Zest of 1 lemon'
+p820
+asg23
+S'http://foodnetwork.sndimg.com/content/dam/images/food/fullset/2015/8/19/0/VB0110H_Kale-Chips-Three-Ways_s4x3.jpg.rend.sni12col.landscape.jpeg'
+p821
+sg25
+g808
+sg26
+S'http://www.foodnetwork.com/recipes/valerie-bertinelli/kale-chips-three-ways.html'
+p822
+sg28
+S'6 servings (about 3 cups)'
+p823
+sg30
+S'Easy'
+p824
+sg61
+S'10 min'
+p825
+sg32
+S'10 min'
+p826
+sg34
+S"Cook\\'s Note: To toast pine nuts on the stove top, put them in a dry skillet over medium heat and cook, stirring, until golden and fragrant. To toast them in the oven, spread in a single layer on a baking sheet and roast at 350 degrees F until golden and fragrant."
+p827
+sg36
+(lp828
+S'Snack'
+p829
+aS'Chips'
+p830
+assS'Greens with Polenta Croutons'
+p831
+(dp832
+g5
+S'2 hr 30 min'
+p833
+sg7
+S'1 hr 10 min'
+p834
+sg9
+(lp835
+S' Olive oil, for greasing the pan'
+p836
+aS' Kosher salt'
+p837
+aS'1 cup instant polenta'
+p838
+aS'1 tablespoon unsalted butter'
+p839
+aS'1/2 cup grated cheese, such as Parmigiano-Reggiano'
+p840
+aS'1 tablespoon fresh rosemary, chopped'
+p841
+aS'2 tablespoons balsamic vinegar'
+p842
+aS'1 teaspoon Dijon mustard'
+p843
+aS' Kosher salt and freshly ground black pepper'
+p844
+aS'1/4 cup extra-virgin olive oil'
+p845
+aS'10 cups (5 ounces) mixed baby greens'
+p846
+aS'1/2 cup cherry tomatoes, halved'
+p847
+aS'2 tablespoons dried cranberries or currants'
+p848
+aS'1/3 cup crumbled Roquefort cheese'
+p849
+asg23
+S'http://foodnetwork.sndimg.com/content/dam/images/food/fullset/2016/1/7/0/VB0203H_Greens-with-Polenta-Croutons_s4x3.jpg.rend.sni12col.landscape.jpeg'
+p850
+sg25
+g831
+sg26
+S'http://www.foodnetwork.com/recipes/valerie-bertinelli/greens-with-polenta-croutons.html'
+p851
+sg28
+S'6 servings'
+p852
+sg30
+S'Easy'
+p853
+sg61
+S'1 hr'
+p854
+sg32
+S'20 min'
+p855
+sg34
+S'Adapted from "One Dish at a Time: Delicious Recipes and Stories from My Italian-American Childhood and Beyond" by Valerie Bertinelli \\xa9 Rodale 2012. Provided courtesy of Valerie Bertinelli. All rights reserved.'
+p856
+sg36
+(lp857
+S'Side Dish'
+p858
+aS'Salad'
+p859
+assS'BBQ Chicken Kabobs with Tequila Lime Cilantro'
+p860
+(dp861
+g5
+S'2 hr 30 min'
+p862
+sg7
+S'15 min'
+p863
+sg9
+(lp864
+S'1/2 cup fresh lime juice'
+p865
+aS'1/2 cup chopped fresh cilantro leaves and stems, plus more chopped leaves, for serving'
+p866
+aS'1/3 cup canola oil'
+p867
+aS'1 tablespoon tequila'
+p868
+aS'2 teaspoons kosher salt'
+p869
+aS'1/2 teaspoon crushed red pepper flakes'
+p870
+aS'2 cloves garlic, chopped'
+p871
+aS' Freshly ground black pepper'
+p872
+aS'3 to 4 boneless, skinless chicken breasts, cut into twenty-four 1-inch pieces'
+p873
+aS'2 zucchini, cut into 1/2-inch rounds'
+p874
+aS'1 red bell pepper, cut into 1-inch pieces'
+p875
+aS'1 yellow bell pepper, cut into 1-inch pieces'
+p876
+asg23
+S'http://foodnetwork.sndimg.com/content/dam/images/food/fullset/2015/8/22/0/VB0109H_BBQ-Chicken-Kabobs-with-Tequila-Lime-Cilantro_s4x3.jpg.rend.sni12col.landscape.jpeg'
+p877
+sg25
+g860
+sg26
+S'http://www.foodnetwork.com/recipes/valerie-bertinelli/bbq-chicken-kabobs-with-tequila-lime-cilantro.html'
+p878
+sg28
+S'6 skewers'
+p879
+sg30
+S'Easy'
+p880
+sg61
+S'2 hr'
+p881
+sg32
+S'15 min'
+p882
+sg34
+S'Special equipment: 6 wooden skewersIn a large ziptop bag, add the lime juice, cilantro, oil, tequila, salt, red pepper flakes, garlic and some black pepper. Mix together and then add the chicken. Let the chicken marinate for 2 hours. During the last 20 minutes, soak the wooden skewers in water.Preheat a grill to medium heat.Remove the chicken from the marinade and pat dry (discard the marinade). Alternate threading the chicken, zucchini and bell peppers on each skewer. Cook the kabobs, turning after grill marks form, until the chicken is cooked through and the vegetables are charred at the edges, 12 to 15 minutes. Sprinkle with the remaining chopped cilantro before serving.'
+p883
+sg36
+(lp884
+S'Chicken'
+p885
+aS'Main Dish'
+p886
+assS"Tom's Special Negroni"
+p887
+(dp888
+g5
+S'5 min'
+p889
+sg9
+(lp890
+S"1 ounce gin, such as Hendrick's"
+p891
+aS'1 ounce bitter orange liqueur, such as Campari'
+p892
+aS'1 ounce sweet vermouth, such as Carpano Antica or Noilly Prat'
+p893
+aS'1 ounce freshly squeezed orange juice'
+p894
+aS' Wide strip of orange peel, for garnish'
+p895
+asg23
+S'http://foodnetwork.sndimg.com/content/dam/images/food/fullset/2015/9/21/0/VB0107H_Toms-Special-Negroni_s4x3.jpg.rend.sni12col.landscape.jpeg'
+p896
+sg25
+g887
+sg26
+S'http://www.foodnetwork.com/recipes/valerie-bertinelli/toms-special-negroni.html'
+p897
+sg28
+S'1 serving'
+p898
+sg30
+S'Easy'
+p899
+sg32
+S'5 min'
+p900
+sg36
+(lp901
+S'Oranges'
+p902
+aS'Mixed Drinks'
+p903
+assS'Grilled Chicken Vegetable Soup'
+p904
+(dp905
+g5
+S'50 min'
+p906
+sg7
+S'40 min'
+p907
+sg9
+(lp908
+S' Extra-virgin olive oil'
+p909
+aS'12 to 14 ounces boneless, skinless chicken breast'
+p910
+aS' Kosher salt and freshly ground black pepper'
+p911
+aS'1/4 cup pearl barley'
+p912
+aS'4 cups reduced-sodium chicken broth'
+p913
+aS'1 bay leaf'
+p914
+aS'1 carrot, finely chopped'
+p915
+aS'1 rib celery, finely chopped'
+p916
+aS'1 small zucchini, finely chopped'
+p917
+asg23
+S'http://foodnetwork.sndimg.com/content/dam/images/food/fullset/2015/11/22/0/VB0205H_Grilled-Chicken-and-Veggie-Soup_s4x3.jpg.rend.sni12col.landscape.jpeg'
+p918
+sg25
+g904
+sg26
+S'http://www.foodnetwork.com/recipes/valerie-bertinelli/grilled-chicken-vegetable-soup.html'
+p919
+sg28
+S'6 servings'
+p920
+sg30
+S'Easy'
+p921
+sg32
+S'10 min'
+p922
+sg34
+S'Adapted from "One Dish at a Time: Delicious Recipes and Stories from My Italian-American Childhood and Beyond" by Valerie Bertinelli (c) Rodale 2012. Provided courtesy of Valerie Bertinelli. All rights reserved.'
+p923
+sg36
+(lp924
+S'Chicken'
+p925
+aS'Main Dish'
+p926
+aS'Soup'
+p927
+assS'Sicilian Love Cake'
+p928
+(dp929
+g5
+S'2 hr 30 min'
+p930
+sg7
+S'1 hr'
+p931
+sg9
+(lp932
+S'1 box chocolate cake mix, plus the ingredients called for in the directions'
+p933
+aS' Canola oil, for preparing the pan'
+p934
+aS'28 ounces ricotta cheese (3 1/2 cups)'
+p935
+aS'4 ounces mascarpone (1/2 cup)'
+p936
+aS'3 large eggs'
+p937
+aS'3/4 cup sugar'
+p938
+aS'1/8 teaspoon kosher salt'
+p939
+aS'10 ounces mascarpone (1 1/4 cups)'
+p940
+aS'1 cup whole milk'
+p941
+aS' One 3.9-ounce box instant chocolate pudding mix'
+p942
+aS'1 tablespoon sugar'
+p943
+asg23
+S'http://foodnetwork.sndimg.com/content/dam/images/food/fullset/2015/8/22/0/VB0108H_Sicilian-Love-Cake_s4x3.jpg.rend.sni12col.landscape.jpeg'
+p944
+sg25
+g928
+sg26
+S'http://www.foodnetwork.com/recipes/valerie-bertinelli/sicilian-love-cake.html'
+p945
+sg28
+S'12 servings'
+p946
+sg30
+S'Intermediate'
+p947
+sg61
+S'1 hr'
+p948
+sg32
+S'30 min'
+p949
+sg34
+S'Adapted from "One Dish at a Time: Delicious Recipes and Stories from My Italian-American Childhood and Beyond" by Valerie Bertinelli \\xa9 Rodale 2012. Provided courtesy of Valerie Bertinelli. All rights reserved.'
+p950
+sg36
+(lp951
+S'Chocolate'
+p952
+aS'Dessert'
+p953
+aS'Cake'
+p954
+assS'Cinnamon-Buttermilk Whipped Cream'
+p955
+(dp956
+g5
+S'5 min'
+p957
+sg9
+(lp958
+S'1 cup cold heavy cream'
+p959
+aS'1/2 cup cold buttermilk'
+p960
+aS'2 tablespoons sugar'
+p961
+aS'1/2 teaspoon ground cinnamon'
+p962
+asg23
+S'http://foodnetwork.sndimg.com/content/dam/images/food/fullset/2015/11/12/2/VB0202H_Whipped-Cream_s4x3.jpg.rend.sni12col.landscape.jpeg'
+p963
+sg25
+g955
+sg26
+S'http://www.foodnetwork.com/recipes/valerie-bertinelli/cinnamon-buttermilk-whipped-cream.html'
+p964
+sg28
+S'6 servings'
+p965
+sg30
+S'Easy'
+p966
+sg32
+S'5 min'
+p967
+sg36
+(lp968
+S'Buttermilk'
+p969
+aS'Dessert'
+p970
+assS'Butter Lettuce Salad with Hazelnuts and Bacon Bits'
+p971
+(dp972
+g5
+S'15 min'
+p973
+sg9
+(lp974
+S'1 tablespoon white balsamic vinegar'
+p975
+aS'3 tablespoons extra-virgin olive oil'
+p976
+aS'1 tablespoon chopped fresh chives'
+p977
+aS' Kosher salt and freshly ground black pepper'
+p978
+aS'1 head butter lettuce, separated into leaves'
+p979
+aS'2 thin slices bacon or pancetta, cooked until crisp and broken into bite-size pieces'
+p980
+aS'2 hard-boiled eggs, halved and lightly salted and peppered'
+p981
+aS'1/4 cup toasted hazelnuts, roughly chopped'
+p982
+aS'1 1/2 ounces Roquefort or other blue cheese, crumbled'
+p983
+asg30
+S'Easy'
+p984
+sg25
+g971
+sg26
+S'http://www.foodnetwork.com/recipes/valerie-bertinelli/butter-lettuce-salad-with-hazelnuts-and-bacon-bits.html'
+p985
+sg28
+S'2 servings for lunch or 4 servings as a side'
+p986
+sg32
+S'15 min'
+p987
+sg34
+S'Whisk to combine the vinegar, oil, chives and salt and pepper to taste in a bowl.Toss the lettuce with the dressing in a large salad bowl. Divide the lettuce between 2 large bowls or plates. Divide the bacon, eggs, nuts and cheese between the 2 plates, layering them in that order.'
+p988
+sg36
+(lp989
+S'Bacon'
+p990
+aS'Side Dish'
+p991
+aS'Salad'
+p992
+assS'Lynn\'s "Sick" Brownies Bites'
+p993
+(dp994
+g5
+S'40 min'
+p995
+sg7
+S'20 min'
+p996
+sg9
+(lp997
+S' Cooking spray, for coating the baking pan'
+p998
+aS'1 2/3 cups graham cracker crumbs'
+p999
+aS'2/3 cup shredded coconut'
+p1000
+aS'2/3 cup chopped walnuts'
+p1001
+aS' One 14-ounce can sweetened condensed milk'
+p1002
+aS'6 ounces semisweet chocolate chips'
+p1003
+aS' Big pinch kosher salt'
+p1004
+aS" Confectioners' sugar, for rolling"
+p1005
+asg23
+S'http://foodnetwork.sndimg.com/content/dam/images/food/fullset/2015/8/22/0/VB0109H_Lynns-Sick-Brownies-Bites_s4x3.jpg.rend.sni12col.landscape.jpeg'
+p1006
+sg25
+g993
+sg26
+S'http://www.foodnetwork.com/recipes/valerie-bertinelli/lynns-sick-brownies-bites.html'
+p1007
+sg28
+S'18 to 20 servings'
+p1008
+sg30
+S'Easy'
+p1009
+sg61
+S'10 min'
+p1010
+sg32
+S'10 min'
+p1011
+sg34
+S"Preheat the oven to 375 degrees F. Coat an 8-by-8-inch baking pan with cooking spray.Combine the graham crackers, coconut, walnuts, condensed milk, chocolate chips and salt in a medium bowl. Stir with a wooden spoon until thoroughly combined. Transfer the mixture to the prepared pan and press to the edges.Bake until the chocolate melts and the top is golden, 15 to 20 minutes. Stir the hot mixture in the pan until the chocolate is incorporated throughout. Press back out to the edges and set aside until cool enough to handle.Spread the confectioners\\' sugar on a dinner plate. Scoop out the brownie mixture by the tablespoon and shape into balls. While still warm, roll each ball in the sugar to coat. The bonbons will keep, tightly covered, for 2 days."
+p1012
+sg36
+(lp1013
+S'Chocolate'
+p1014
+aS'Dessert'
+p1015
+aS'Brownie'
+p1016
+assS'Cherry Coconut Scuffins'
+p1017
+(dp1018
+g5
+S'45 min'
+p1019
+sg7
+S'15 min'
+p1020
+sg9
+(lp1021
+S'3 cups all-purpose flour'
+p1022
+aS'1 teaspoon baking powder'
+p1023
+aS'1/2 teaspoon baking soda'
+p1024
+aS'1/2 teaspoon fine salt'
+p1025
+aS'1 1/2 cups unrefined coconut sugar'
+p1026
+aS'1 cup coconut oil, at room temperature'
+p1027
+aS'2 large eggs'
+p1028
+aS'1 cup fat-free plain Greek yogurt'
+p1029
+aS'1 teaspoon almond extract'
+p1030
+aS'1 1/2 cups dried cherries, roughly chopped'
+p1031
+aS'3/4 cup sweetened shredded coconut'
+p1032
+asg23
+S'http://foodnetwork.sndimg.com/content/dam/images/food/fullset/2015/8/19/0/VB0105H_Cherry-Coconut-Scuffins_s4x3.jpg.rend.sni12col.landscape.jpeg'
+p1033
+sg25
+g1017
+sg26
+S'http://www.foodnetwork.com/recipes/valerie-bertinelli/cherry-coconut-scuffins.html'
+p1034
+sg28
+S'48 mini muffins'
+p1035
+sg30
+S'Easy'
+p1036
+sg61
+S'10 min'
+p1037
+sg32
+S'20 min'
+p1038
+sg34
+S'Special equipment: two 24-cup mini muffin tins or four 12-cup mini muffin tins; mini muffin liners and a small cookie scoopPreheat the oven to 350 degrees F. Prepare two 24-cup mini muffin tins with muffin liners.In a medium bowl, combine the flour, baking powder, baking soda and fine salt. Set aside. In a bowl of a stand mixer fitted with the paddle attachment, add the coconut sugar and oil. Beat on high until well combined, about 4 minutes. Add the eggs one at a time, beating after each addition. Add the yogurt and almond extract and beat on medium-low to incorporate. With the mixer on the lowest speed, add the dry ingredients, and mix just until the batter comes together. Fold in the cherries and 1/2 cup of the coconut.Using a small scoop, fill the prepare muffin tins about three-quarters of the way full. Sprinkle the remaining coconut over the muffins. Bake until a toothpick comes out clean and the coconut is toasted on top, 10 to 15 minutes. Place on a wire rack to cool for 10 minutes before serving.'
+p1039
+sg36
+(lp1040
+S'Cherry'
+p1041
+aS'Breakfast'
+p1042
+aS'Muffin'
+p1043
+assS'Creme de Menthe Sundae with Homemade Chocolate Sauce'
+p1044
+(dp1045
+g5
+S'1 hr 20 min'
+p1046
+sg7
+S'10 min'
+p1047
+sg9
+(lp1048
+S'8 scoops vanilla ice cream'
+p1049
+aS' Homemade Chocolate Sauce, recipe follows'
+p1050
+aS' Creme de menthe syrup, for drizzling'
+p1051
+aS'1/2 cup raspberries'
+p1052
+aS'3 tablespoons honey'
+p1053
+aS'1/2 cup Dutch-process cocoa powder'
+p1054
+aS' Pinch kosher salt'
+p1055
+aS'1 teaspoon vanilla'
+p1056
+asg23
+S'http://foodnetwork.sndimg.com/content/dam/images/food/fullset/2015/9/10/1/KC0704_Creme-de-Menthe-Sundae-with-Homemade-Chocolate-Sauce_s4x3.jpg.rend.sni12col.landscape.jpeg'
+p1057
+sg25
+S'Creme de Menthe Sundae with Homemade Chocolate Sauce'
+p1058
+sg26
+S'http://www.foodnetwork.com/recipes/valerie-bertinelli/creme-de-menthe-sundae-with-homemade-chocolate-sauce0.html'
+p1059
+sg28
+S'4 servings'
+p1060
+sg30
+S'Easy'
+p1061
+sg61
+S'1 hr'
+p1062
+sg32
+S'10 min'
+p1063
+sg34
+S'Put 3/4 cup water and the honey in a saucepan and bring to a boil over medium heat, stirring so that the honey dissolves; remove from the heat.Add the cocoa powder and salt to a heatproof bowl. Add a few tablespoons of the honey-water mixture to the cocoa powder. Whisk to create a thick but smooth liquid. Add the cocoa mixture back to the remaining honey-water mixture in the pan. Bring the whole mixture up to a simmer and let cook until slightly thickened, about 3 more minutes. Stir in the vanilla. Let cool completely, then refrigerate (the sauce thickens as it cools and chills).'
+p1064
+sg36
+(lp1065
+S'Chocolate'
+p1066
+aS'Dessert'
+p1067
+assS'Chocolate-Ginger Mousse Cones'
+p1068
+(dp1069
+g5
+S'55 min'
+p1070
+sg7
+S'15 min'
+p1071
+sg9
+(lp1072
+S'8 ounces bittersweet chocolate'
+p1073
+aS'3 cups heavy cream, chilled'
+p1074
+aS'1 1/3 cups all-purpose flour'
+p1075
+aS'2/3 cup sugar'
+p1076
+aS'1/2 cup (1 stick) unsalted butter, melted and cooled slightly'
+p1077
+aS'1/2 cup whole milk'
+p1078
+aS'3 tablespoons ground ginger'
+p1079
+aS'2 teaspoons baking powder'
+p1080
+aS'1/4 teaspoon ground cinnamon'
+p1081
+aS'1/4 teaspoon ground cloves'
+p1082
+aS' Pinch of kosher salt'
+p1083
+aS'2 large eggs'
+p1084
+aS'1 teaspoon vanilla extract'
+p1085
+aS' Cooking spray'
+p1086
+asg23
+S'http://foodnetwork.sndimg.com/content/dam/images/food/fullset/2015/11/15/1/VB0210H_Chocolate-Mousse-Cones_s4x3.jpg.rend.sni12col.landscape.jpeg'
+p1087
+sg25
+g1068
+sg26
+S'http://www.foodnetwork.com/recipes/valerie-bertinelli/chocolate-ginger-mousse-cones.html'
+p1088
+sg28
+S'15 servings'
+p1089
+sg30
+S'Easy'
+p1090
+sg61
+S'10 min'
+p1091
+sg32
+S'30 min'
+p1092
+sg34
+S'Adapted from "One Dish at a Time: Delicious Recipes and Stories from My Italian-American Childhood and Beyond" by Valerie Bertinelli (c) Rodale 2012. Provided courtesy of Valerie Bertinelli. All rights reserved.'
+p1093
+sg36
+(lp1094
+S'Chocolate'
+p1095
+aS'Dessert'
+p1096
+assS"Tom's Green Beans with Shallots"
+p1097
+(dp1098
+g5
+S'1 hr 20 min'
+p1099
+sg7
+S'10 min'
+p1100
+sg9
+(lp1101
+S'12 ounces green beans, trimmed'
+p1102
+aS'1 tablespoon red wine vinegar'
+p1103
+aS'1 teaspoon Dijon mustard'
+p1104
+aS'1 shallot, minced'
+p1105
+aS' Kosher salt and freshly ground black pepper'
+p1106
+aS'1/4 cup extra-virgin olive oil'
+p1107
+asg23
+S'http://foodnetwork.sndimg.com/content/dam/images/food/fullset/2015/11/8/1/VB0208H_Green-Beans-with-Shallots_s4x3.jpg.rend.sni12col.landscape.jpeg'
+p1108
+sg25
+g1097
+sg26
+S'http://www.foodnetwork.com/recipes/valerie-bertinelli/toms-green-beans-with-shallots.html'
+p1109
+sg28
+S'4 to 6 servings'
+p1110
+sg30
+S'Easy'
+p1111
+sg61
+S'1 hr'
+p1112
+sg32
+S'10 min'
+p1113
+sg34
+S'Adapted from "One Dish at a Time: Delicious Recipes and Stories from My Italian-American Childhood and Beyond" by Valerie Bertinelli (c) Rodale 2012. Provided courtesy of Valerie Bertinelli. All rights reserved.'
+p1114
+sg36
+(lp1115
+S'Green Bean'
+p1116
+aS'Side Dish'
+p1117
+assS'Affogato'
+p1118
+(dp1119
+g5
+S'5 min'
+p1120
+sg9
+(lp1121
+S'2 scoops vanilla ice cream'
+p1122
+aS'1 shot freshly brewed espresso'
+p1123
+aS' Chocolate-covered almonds, for topping'
+p1124
+asg23
+S'http://foodnetwork.sndimg.com/content/dam/images/food/fullset/2015/8/22/0/VB0106H_Helens-Black-Pepper-Walnut-Biscotti-and-Affogato_s4x3.jpg.rend.sni12col.landscape.jpeg'
+p1125
+sg25
+g1118
+sg26
+S'http://www.foodnetwork.com/recipes/valerie-bertinelli/affogato.html'
+p1126
+sg28
+S'1 serving'
+p1127
+sg30
+S'Easy'
+p1128
+sg32
+S'5 min'
+p1129
+sg36
+(lp1130
+S'Coffee'
+p1131
+aS'Dessert'
+p1132
+assS"Valerie's Homemade Pizza"
+p1133
+(dp1134
+g5
+S'1 hr 40 min'
+p1135
+sg7
+S'10 min'
+p1136
+sg9
+(lp1137
+S'1 packet active dry yeast'
+p1138
+aS'3/4 cup warm water'
+p1139
+aS'2 teaspoons honey'
+p1140
+aS' Pinch sugar'
+p1141
+aS'1 cup all-purpose flour, plus more for flouring'
+p1142
+aS'1/2 cup whole-wheat flour'
+p1143
+aS'1/2 cup bread flour'
+p1144
+aS'1 teaspoon kosher salt'
+p1145
+aS'2 tablespoons olive oil, plus more for coating the bowl'
+p1146
+aS' Favorite pizza toppings, as desired'
+p1147
+aS' Canola oil, for coating the grill grates'
+p1148
+asg23
+S'http://foodnetwork.sndimg.com/content/dam/images/food/fullset/2015/8/19/0/VB0110H_Valeries-Homemade-Pizza_s4x3.jpg.rend.sni12col.landscape.jpeg'
+p1149
+sg25
+g1133
+sg26
+S'http://www.foodnetwork.com/recipes/valerie-bertinelli/valeries-homemade-pizza.html'
+p1150
+sg28
+S'4 pizzas'
+p1151
+sg30
+S'Easy'
+p1152
+sg61
+S'1 hr 10 min'
+p1153
+sg32
+S'20 min'
+p1154
+sg34
+S'In a small bowl, combine the yeast with the warm water, honey and sugar. Let the mixture sit until it begins to foam, about 10 minutes.In a large bowl, combine the all-purpose flour, whole-wheat flour, bread flour and salt and then make a well in the center. Add the yeast mixture and the olive oil. Using a fork, incorporate the wet ingredients with the dry ingredients until a dough forms. On a lightly floured surface, continue to work and then knead the dough until it is smooth and elastic, about 4 minutes.Lightly coat a clean bowl with olive oil and then add the dough, turning once to coat the dough in oil. Cover and set in a warm place until it has doubled in size, about 1 hour.Prepare a grill for medium-high heat; make sure the grill grates are clean. Have your pizza toppings standing by.Cut the dough in quarters, shape into balls and work with 1 ball at a time. Stretch each dough ball into a 9- to 10-inch circle by hand or roll into a bigger (and thinner) circle with a rolling pin.With a towel soaked in canola oil, coat the grill grates lightly in oil. Add the dough rounds and cook until grill marks form and the dough stiffens, 1 to 2 minutes. Flip the crusts and cook for an additional minute.Remove the crusts to an inverted baking sheet (so they slide off easily). Load the crusts with the desired toppings. Return to the grill, cover and cook the pizzas until the toppings are warmed and the cheese is melted, 2 to 4 more minutes. Remove carefully, cut and serve.'
+p1155
+sg36
+(lp1156
+S'Main Dish'
+p1157
+aS'Pizza'
+p1158
+assS'Peppered Beef Tenderloin'
+p1159
+(dp1160
+g5
+S'1 hr 5 min'
+p1161
+sg7
+S'35 min'
+p1162
+sg9
+(lp1163
+S'6 tablespoons mixed peppercorns (black, white, green, pink)'
+p1164
+aS'1 cup loosely packed fresh flat-leaf parsley, finely chopped, plus additional parsley for garnish'
+p1165
+aS'3 tablespoons Dijon mustard'
+p1166
+aS'2 tablespoons unsalted butter, at room temperature'
+p1167
+aS' Kosher salt'
+p1168
+aS'2 1/2 pounds center-cut beef tenderloin, trimmed and tied if uneven'
+p1169
+aS' Savory Horseradish Panna Cotta, recipe follows, optional'
+p1170
+aS' Cooking spray'
+p1171
+aS'1 cup sour cream'
+p1172
+aS'3 tablespoons Dijon mustard'
+p1173
+aS'2 tablespoons prepared horseradish'
+p1174
+aS' Kosher salt'
+p1175
+aS'1 3/4 cups half-and-half'
+p1176
+aS'2 teaspoons gelatin (from a .25-ounce package)'
+p1177
+aS'2 tablespoons thinly sliced fresh chives'
+p1178
+asg23
+S'http://foodnetwork.sndimg.com/content/dam/images/food/fullset/2015/11/15/1/VB0203H_Peppered-Beef-Tenderloin-and-Horseradish-Panna-Cotta_s4x3.jpg.rend.sni12col.landscape.jpeg'
+p1179
+sg25
+g1159
+sg26
+S'http://www.foodnetwork.com/recipes/valerie-bertinelli/peppered-beef-tenderloin.html'
+p1180
+sg28
+S'6 to 8 servings'
+p1181
+sg30
+S'Easy'
+p1182
+sg61
+S'10 min'
+p1183
+sg32
+S'20 min'
+p1184
+sg34
+S'Adapted from "One Dish at a Time: Delicious Recipes and Stories from My Italian-American Childhood and Beyond" by Valerie Bertinelli \\xa9 Rodale 2012. Provided courtesy of Valerie Bertinelli. All rights reserved.'
+p1185
+sg36
+(lp1186
+S'Beef'
+p1187
+aS'Main Dish'
+p1188
+aS'Roast'
+p1189
+assS"Lamb Shepherd's Pie"
+p1190
+(dp1191
+g5
+S'1 hr 30 min'
+p1192
+sg7
+S'1 hr 5 min'
+p1193
+sg9
+(lp1194
+S'3 cloves garlic, chopped'
+p1195
+aS'1 bay leaf'
+p1196
+aS'1 carrot, finely chopped'
+p1197
+aS'1 rib celery, finely chopped'
+p1198
+aS'1 yellow onion, finely diced 1 tablespoon extra-virgin olive oil'
+p1199
+aS'1 pound ground lamb'
+p1200
+aS'1 tablespoon dry mustard'
+p1201
+aS' Kosher salt and freshly ground black pepper'
+p1202
+aS'3 tablespoons tomato paste'
+p1203
+aS'1 tablespoon fennel seeds'
+p1204
+aS'1/2 cup canned tomato puree'
+p1205
+aS'2 tablespoons chopped fresh mint'
+p1206
+aS'2 tablespoons chopped fresh sage'
+p1207
+aS'2 pounds russet potatoes, peeled and cut into quarters, or 2 1/2 cups cooked mashed potatoes'
+p1208
+aS'1/2 cup whole milk'
+p1209
+aS'3 tablespoons unsalted butter'
+p1210
+asg23
+S'http://foodnetwork.sndimg.com/content/dam/images/food/fullset/2015/11/15/1/VB0212H_Lamb-Shepherds-Pie_s4x3.jpg.rend.sni12col.landscape.jpeg'
+p1211
+sg25
+g1190
+sg26
+S'http://www.foodnetwork.com/recipes/valerie-bertinelli/lamb-shepherds-pie.html'
+p1212
+sg28
+S'6 to 8 servings'
+p1213
+sg30
+S'Easy'
+p1214
+sg32
+S'25 min'
+p1215
+sg34
+S'Recipe adapted from "One Dish at a Time: Delicious Recipes and Stories from My Italian-American Childhood and Beyond" by Valerie Bertinelli (c) Rodale 2012. Provided courtesy of Valerie Bertinelli. All rights reserved.'
+p1216
+sg36
+(lp1217
+S'Lamb'
+p1218
+aS'Main Dish'
+p1219
+aS'Shepherds Pie'
+p1220
+assS'Goat Cheese and Asparagus Crostini'
+p1221
+(dp1222
+g5
+S'40 min'
+p1223
+sg7
+S'20 min'
+p1224
+sg9
+(lp1225
+S'12 spears asparagus, trimmed'
+p1226
+aS' Extra-virgin olive oil, for drizzling'
+p1227
+aS' Kosher salt and freshly ground black pepper'
+p1228
+aS'12 slices baguette, cut on the diagonal'
+p1229
+aS'1 clove garlic'
+p1230
+aS'6 ounces goat cheese'
+p1231
+aS'1 cup cherry tomatoes, halved'
+p1232
+asg23
+S'http://foodnetwork.sndimg.com/content/dam/images/food/fullset/2015/11/15/1/VB0212H_Goat-Cheese-Crostinis_s4x3.jpg.rend.sni12col.landscape.jpeg'
+p1233
+sg25
+g1221
+sg26
+S'http://www.foodnetwork.com/recipes/valerie-bertinelli/goat-cheese-and-asparagus-crostini.html'
+p1234
+sg28
+S'4 servings'
+p1235
+sg30
+S'Easy'
+p1236
+sg32
+S'20 min'
+p1237
+sg34
+S'Preheat a grill pan over medium-high heat and preheat the broiler.Drizzle the asparagus with some of the olive oil. Toss to coat and then sprinkle with salt and pepper. Place on the grill pan and cook until tender and grill marks form, 3 to 5 minutes per side, depending on the thickness of the asparagus. Remove, let cool slightly and cut into 2- to 3-inch pieces, about the size of the bread.Brush the bread on both sides generously with oil and place on a baking sheet. Rub the garlic all over one side of each slice. Broil until golden and crispy, 2 minutes per side. Remove and let cool slightly.Slather some of the goat cheese on the garlicky side of each piece of bread, then top each with 2 to 3 pieces of the grilled asparagus and a few of the cherry tomatoes. Return to the oven just until the cheese is melted and warmed, about 2 minutes.'
+p1238
+sg36
+(lp1239
+S'Goat Cheese'
+p1240
+aS'Appetizer'
+p1241
+assS'Individual Pear Crumbles with Maple Yogurt'
+p1242
+(dp1243
+g5
+S'50 min'
+p1244
+sg7
+S'35 min'
+p1245
+sg9
+(lp1246
+S'3 firm-ripe medium Bosc or Bartlett pears, peeled, cored and cut into 1/2-inch pieces'
+p1247
+aS' Squeeze lemon juice'
+p1248
+aS'2 tablespoons light brown sugar'
+p1249
+aS'1/2 teaspoon ground cinnamon'
+p1250
+aS'1/2 teaspoon vanilla extract'
+p1251
+aS'2 teaspoons plus 1/2 cup all-purpose flour'
+p1252
+aS'1/2 cup rolled oats'
+p1253
+aS'1/2 cup finely chopped pecans'
+p1254
+aS'1/4 teaspoon freshly grated nutmeg'
+p1255
+aS'1/8 teaspoon ground cloves'
+p1256
+aS' Pinch kosher salt'
+p1257
+aS'4 tablespoons unsalted butter, softened'
+p1258
+aS'1 cup low-fat plain Greek yogurt'
+p1259
+aS'2 tablespoons maple syrup'
+p1260
+aS'1/2 teaspoon finely grated orange zest, plus 1 tablespoon juice'
+p1261
+asg23
+S'http://foodnetwork.sndimg.com/content/dam/images/food/fullset/2015/11/22/0/VB0205H_Pear-Crumble-with-Maple-Yogurt_s4x3.jpg.rend.sni12col.landscape.jpeg'
+p1262
+sg25
+g1242
+sg26
+S'http://www.foodnetwork.com/recipes/valerie-bertinelli/individual-pear-crumbles-with-maple-yogurt.html'
+p1263
+sg28
+S'3 servings'
+p1264
+sg30
+S'Easy'
+p1265
+sg32
+S'15 min'
+p1266
+sg34
+S'Special equipment: 3 mini-pie plates or ramekinsPreheat the oven to 375 degrees F.For the pear crumbles: Toss the pears, lemon juice, brown sugar, cinnamon, vanilla and 2 teaspoons of the flour together in a medium bowl. Divide the mixture between 3 mini pie plates.Stir together the remaining 1/2 cup flour, oats, pecans, nutmeg, cloves and salt in a medium mixing bowl. Add the butter and, with fingers, blend it into the dry ingredients until fully incorporated. Squeeze the mixture into clumps, then divide it among the pie plates, spreading it to cover the pears.Set the pie plates on a rimmed baking sheet and transfer to the oven. Bake until the fruit is bubbling and the crumble mixture is golden brown, about 35 minutes.For the maple yogurt: Stir together the yogurt, maple syrup, orange zest and juice until well mixed.Serve the warm crumbles with a dollop of the maple yogurt.'
+p1267
+sg36
+(lp1268
+S'Pear'
+p1269
+aS'Dessert'
+p1270
+assS'Blueberry Tart'
+p1271
+(dp1272
+g5
+S'1 hr 20 min'
+p1273
+sg7
+S'1 hr'
+p1274
+sg9
+(lp1275
+S' Cooking spray'
+p1276
+aS'1 cup all-purpose flour, plus 1 tablespoon'
+p1277
+aS'1/3 cup granulated sugar, plus 1 1/2 tablespoons'
+p1278
+aS'1/4 teaspoon kosher salt'
+p1279
+aS'1/2 cup (1 stick) unsalted butter, cut into pieces'
+p1280
+aS'2 egg yolks'
+p1281
+aS'4 cups blueberries'
+p1282
+aS'1 lemon, zest and 1 tablespoon juice'
+p1283
+aS'1/2 teaspoon ground cinnamon'
+p1284
+aS'1/4 teaspoon ground nutmeg'
+p1285
+aS" Confectioners' sugar, for dusting"
+p1286
+asg23
+S'http://foodnetwork.sndimg.com/content/dam/images/food/fullset/2015/11/15/1/VB0203H_Blueberry-Tart_s4x3.jpg.rend.sni12col.landscape.jpeg'
+p1287
+sg25
+g1271
+sg26
+S'http://www.foodnetwork.com/recipes/valerie-bertinelli/blueberry-tart.html'
+p1288
+sg28
+S'8 servings'
+p1289
+sg30
+S'Easy'
+p1290
+sg32
+S'20 min'
+p1291
+sg34
+S'Adapted from "One Dish at a Time: Delicious Recipes and Stories from My Italian-American Childhood and Beyond" by Valerie Bertinelli \\xa9 Rodale 2012. Provided courtesy of Valerie Bertinelli. All rights reserved.'
+p1292
+sg36
+(lp1293
+S'Blueberry'
+p1294
+aS'Dessert'
+p1295
+assS'Quiche Valerie'
+p1296
+(dp1297
+g5
+S'2 hr 45 min'
+p1298
+sg7
+S'1 hr 10 min'
+p1299
+sg9
+(lp1300
+S'2 1/4 cups all-purpose flour, plus more for dusting'
+p1301
+aS'3/4 cup (1 1/2 sticks) unsalted butter, cubed'
+p1302
+aS'1 tablespoon sugar'
+p1303
+aS'1 teaspoon kosher salt'
+p1304
+aS'6 to 8 tablespoons ice water'
+p1305
+aS'1 tablespoon canola oil'
+p1306
+aS'2 cups small mushrooms, sliced'
+p1307
+aS'1 1/2 cups mixed veggies, such as raw spinach leaves and cooked broccoli and asparagus'
+p1308
+aS'6 large eggs, lightly beaten'
+p1309
+aS'1 1/4 cups light cream'
+p1310
+aS'1 tablespoon chopped fresh parsley'
+p1311
+aS'2 teaspoons chopped fresh thyme'
+p1312
+aS'1/4 teaspoon ground nutmeg'
+p1313
+aS'1/4 teaspoon kosher salt'
+p1314
+aS'5 to 6 grinds black peppercorns'
+p1315
+aS'1/2 cup grated Gruyere cheese'
+p1316
+aS'1/4 cup grated white Cheddar'
+p1317
+aS'1/4 cup grated Parmigiano-Reggiano'
+p1318
+asg23
+S'http://foodnetwork.sndimg.com/content/dam/images/food/fullset/2015/8/4/1/VB0102H_Quiche-Valerie_s4x3.jpg.rend.sni12col.landscape.jpeg'
+p1319
+sg25
+g1296
+sg26
+S'http://www.foodnetwork.com/recipes/valerie-bertinelli/quiche-valerie.html'
+p1320
+sg28
+S'8 servings'
+p1321
+sg30
+S'Easy'
+p1322
+sg61
+S'1 hr 15 min'
+p1323
+sg32
+S'20 min'
+p1324
+sg34
+S"Cook\\'s Notes: This recipe makes a double portion of dough. If you only need enough dough for a single crust, wrap the extra ball of dough in two layers of plastic wrap, place in a resealable plastic bag and freeze for another use."
+p1325
+sg36
+(lp1326
+S'Vegetables'
+p1327
+aS'Main Dish'
+p1328
+aS'Quiche'
+p1329
+assS'Savory Horseradish Panna Cotta'
+p1330
+(dp1331
+g5
+S'4 hr 20 min'
+p1332
+sg7
+S'5 min'
+p1333
+sg9
+(lp1334
+S' Cooking spray'
+p1335
+aS'1 cup sour cream'
+p1336
+aS'3 tablespoons Dijon mustard'
+p1337
+aS'2 tablespoons prepared horseradish'
+p1338
+aS' Kosher salt'
+p1339
+aS'1 3/4 cups half-and-half'
+p1340
+aS'2 teaspoons gelatin (from a .25-ounce package)'
+p1341
+aS'2 tablespoons thinly sliced fresh chives'
+p1342
+asg23
+S'http://foodnetwork.sndimg.com/content/dam/images/food/fullset/2015/11/15/1/VB0203H_Peppered-Beef-Tenderloin-and-Horseradish-Panna-Cotta_s4x3.jpg.rend.sni12col.landscape.jpeg'
+p1343
+sg25
+g1330
+sg26
+S'http://www.foodnetwork.com/recipes/valerie-bertinelli/savory-horseradish-panna-cotta.html'
+p1344
+sg28
+S'6 servings'
+p1345
+sg30
+S'Easy'
+p1346
+sg61
+S'4 hr'
+p1347
+sg32
+S'15 min'
+p1348
+sg34
+S'Special equipment: Six 4- to 6-ounce ramekinsSpray six 4- to 6-ounce ramekins with cooking spray. Stir together the sour cream, Dijon, horseradish and 1 teaspoon salt in a small bowl. Heat the half-and-half in a small saucepan over medium-high heat until it just barely comes to a simmer.Meanwhile, put the gelatin in a large bowl, add 3 tablespoons warm water and stir until completely dissolved. Gradually pour in the warm half-and-half while whisking constantly.Add a splash of the half-and-half mixture to the sour cream mixture and stir to loosen, then add the sour cream mixture to the large bowl with the half-and-half mixture, whisking gently until thoroughly combined.Pour the mixture into the ramekins (the ramekins will not be full) and refrigerate until set, at least 4 hours. The panna cottas can be kept refrigerated, covered with plastic wrap, up to 2 daysWhen ready to serve, run a thin knife along the edge of each ramekin and invert the pana cottas onto plates. Sprinkle with the chives and serve immediately.'
+p1349
+sg36
+(lp1350
+S'Dairy'
+p1351
+aS'Gelatin'
+p1352
+assS'Butterscotch Love Cake'
+p1353
+(dp1354
+g5
+S'2 hr 45 min'
+p1355
+sg7
+S'1 hr'
+p1356
+sg9
+(lp1357
+S'2 tablespoons unsalted butter'
+p1358
+aS'1/2 cup light brown sugar'
+p1359
+aS'1/2 cup heavy cream'
+p1360
+aS'1 teaspoon vanilla extract'
+p1361
+aS' Nonstick cooking spray'
+p1362
+aS'1 box yellow cake mix'
+p1363
+aS'3 1/2 cups ricotta cheese'
+p1364
+aS'1/2 cup mascarpone'
+p1365
+aS'3 large eggs'
+p1366
+aS'3/4 cup sugar'
+p1367
+aS'1/8 teaspoon kosher salt'
+p1368
+aS'1 1/4 cups mascarpone (10 ounces)'
+p1369
+aS' One 3.9-ounce package butterscotch pudding mix'
+p1370
+aS'1 tablespoon sugar'
+p1371
+aS'1 cup whole milk'
+p1372
+asg23
+S'http://foodnetwork.sndimg.com/content/dam/images/food/fullset/2015/11/8/1/VB0206H_Butterscotch-Love-Cake_s4x3.jpg.rend.sni12col.landscape.jpeg'
+p1373
+sg25
+g1353
+sg26
+S'http://www.foodnetwork.com/recipes/valerie-bertinelli/butterscotch-love-cake.html'
+p1374
+sg28
+S'12 servings'
+p1375
+sg30
+S'Intermediate'
+p1376
+sg61
+S'1 hr 30 min'
+p1377
+sg32
+S'15 min'
+p1378
+sg34
+S'Preheat the oven according to cake mix package instructions. Coat a 9-by-13-inch baking dish with cooking spray.For the butterscotch sauce: Melt the butter in a medium skillet over medium heat. Add the brown sugar and stir to coat. Cook, stirring, until the butter gets frothy, 2 minutes. Add the cream and cook, whisking, until slightly thickened, 5 minutes. Cool to room temperature and then stir in the vanillaFor the batter: Prepare the batter according to cake mix box instructions and pour into the prepared baking dish. Drizzle in the cooled butterscotch sauce and mix to swirl. Set aside.For the filling: Combine the ricotta, mascarpone, eggs, sugar and salt in a stand mixer fitted with the whisk attachment. Whisk until smooth. Gently pour the filling onto the cake batter so the top is completely white.Bake until a skewer inserted in the center of the cake comes out clean and the yellow cake layer has risen to the top of the baking dish, about 50 minutes. Let the cake cool before frosting.For the frosting: Just before serving, combine the mascarpone, butterscotch pudding mix, sugar and milk in a stand mixer and mix until smooth. Using an offset spatula, spread the frosting evenly over the entire cake. Serve.'
+p1379
+sg36
+(lp1380
+ssS'Salted Caramel Chocolate Chip Cookies'
+p1381
+(dp1382
+g5
+S'55 min'
+p1383
+sg7
+S'30 min'
+p1384
+sg9
+(lp1385
+S'3 cups all-purpose flour'
+p1386
+aS'1 teaspoon baking powder'
+p1387
+aS'1/2 teaspoon baking soda'
+p1388
+aS'1/4 teaspoon fine salt'
+p1389
+aS'1 cup light brown sugar'
+p1390
+aS'1/2 cup granulated sugar'
+p1391
+aS'2 sticks butter, softened'
+p1392
+aS'2 large eggs'
+p1393
+aS'1 1/2 teaspoons vanilla extract'
+p1394
+aS'3/4 cups semi-sweet chocolate chips'
+p1395
+aS'1 cup caramel bits or caramel candies, chopped'
+p1396
+aS'1 1/2 teaspoons flaky sea salt'
+p1397
+asg23
+S'http://foodnetwork.sndimg.com/content/dam/images/food/fullset/2015/11/15/1/VB0209H_Salted-Caramel-Chocolate-Chip-Cookies_s4x3.jpg.rend.sni12col.landscape.jpeg'
+p1398
+sg25
+g1381
+sg26
+S'http://www.foodnetwork.com/recipes/valerie-bertinelli/salted-caramel-chocolate-chip-cookies.html'
+p1399
+sg28
+S'about 36 cookies'
+p1400
+sg30
+S'Intermediate'
+p1401
+sg61
+S'15 min'
+p1402
+sg32
+S'10 min'
+p1403
+sg34
+S'Preheat the oven to 375 degrees F; position racks in the upper and lower thirds of the oven. Line two baking sheets with parchment paper.Whisk the flour, baking powder, baking soda and fine salt together in a bowl.With an electric mixer, beat the brown sugar, granulated sugar and butter together in a large bowl until light and fluffy, 3 minutes. Add the eggs, one at a time, beating well after each addition. Add the vanilla extract and beat to combine. Add the flour mixture and beat until just incorporated. Stir in the chocolate chips and caramel bits.Scoop heaping tablespoons of the dough onto the baking sheets, leaving about 2 inches of space between the cookies (you will have cookie dough left over). Sprinkle each cookie with a pinch of sea salt.Bake the cookies until golden brown, rotating the position of the baking sheets halfway through, 13 minutes. Transfer the cookies to a rack to cool. Meanwhile, cool the baking sheets and repeat with the remaining cookie dough.'
+p1404
+sg36
+(lp1405
+S'Chocolate'
+p1406
+aS'Dessert'
+p1407
+aS'Cookie'
+p1408
+assS'Italian Tuna Salad'
+p1409
+(dp1410
+g5
+S'15 min'
+p1411
+sg9
+(lp1412
+S'3 tablespoons mayonnaise'
+p1413
+aS'1 tablespoon capers, chopped'
+p1414
+aS'1 tablespoon sweet pickle relish'
+p1415
+aS'1 1/2 teaspoons Dijon mustard'
+p1416
+aS'2 slices jarred sweet and hot cherry peppers, chopped'
+p1417
+aS'1 to 3 kalamata or nicoise olives, pitted and chopped'
+p1418
+aS'1 hard-boiled egg, chopped'
+p1419
+aS'1 7 -ounce jar Italian tuna packed in oil, drained'
+p1420
+aS' Kosher salt and freshly ground black pepper'
+p1421
+aS' White bread, such as Wonder Bread, crusts removed and quartered, for serving'
+p1422
+aS' Sesame crackers, for serving'
+p1423
+asg23
+S'http://foodnetwork.sndimg.com/content/dam/images/food/fullset/2015/8/4/1/VB0102H_Italian-Tuna-Salad_s4x3.jpg.rend.sni12col.landscape.jpeg'
+p1424
+sg25
+g1409
+sg26
+S'http://www.foodnetwork.com/recipes/valerie-bertinelli/italian-tuna-salad.html'
+p1425
+sg28
+S'4 to 6 servings'
+p1426
+sg30
+S'Easy'
+p1427
+sg32
+S'15 min'
+p1428
+sg36
+(lp1429
+S'Tuna'
+p1430
+aS'Main Dish'
+p1431
+aS'Sandwich'
+p1432
+assS'Thursday Turkey Meat Loaf'
+p1433
+(dp1434
+g5
+S'1 hr 45 min'
+p1435
+sg7
+S'1 hr'
+p1436
+sg9
+(lp1437
+S'2 slices soft white sandwich bread, torn into small pieces (about 2 cups)'
+p1438
+aS'1/2 cup whole milk'
+p1439
+aS'1 1/2 pounds ground turkey'
+p1440
+aS'2 large eggs, lightly beaten'
+p1441
+aS'1/4 cup grated Parmigiano-Reggiano cheese'
+p1442
+aS'8 thin slices pancetta, finely chopped'
+p1443
+aS'1/2 onion, finely chopped'
+p1444
+aS'3 cloves garlic, chopped'
+p1445
+aS'1/4 cup ketchup, plus more for drizzling'
+p1446
+aS'1 cup loosely packed flat-leaf parsley leaves, chopped'
+p1447
+aS'1/2 teaspoon dried oregano'
+p1448
+aS'1/4 cup Italian-seasoned dry breadcrumbs'
+p1449
+aS'1/4 teaspoon kosher salt'
+p1450
+aS' Freshly ground black pepper'
+p1451
+asg23
+S'http://foodnetwork.sndimg.com/content/dam/images/food/fullset/2015/11/15/1/VB0213H_Thursday-Turkey-Meatloaf_s4x3.jpg.rend.sni12col.landscape.jpeg'
+p1452
+sg25
+g1433
+sg26
+S'http://www.foodnetwork.com/recipes/valerie-bertinelli/thursday-turkey-meat-loaf.html'
+p1453
+sg28
+S'6 to 8 servings'
+p1454
+sg30
+S'Easy'
+p1455
+sg61
+S'20 min'
+p1456
+sg32
+S'25 min'
+p1457
+sg34
+S'Adapted from "One Dish at a Time: Delicious Recipes and Stories from My Italian-American Childhood and Beyond" by Valerie Bertinelli (c) Rodale 2012. Provided courtesy of Valerie Bertinelli. All rights reserved.'
+p1458
+sg36
+(lp1459
+S'Turkey'
+p1460
+aS'Main Dish'
+p1461
+aS'Meatloaf'
+p1462
+assS"Valerie's Pumpkin Pudding (for Wolfie)"
+p1463
+(dp1464
+g5
+S'25 min'
+p1465
+sg7
+S'15 min'
+p1466
+sg9
+(lp1467
+S'4 cups whole milk'
+p1468
+aS' One 15-ounce can pumpkin puree (do not use pumpkin pie mix), about 1 1/2 cups'
+p1469
+aS'1 teaspoon ground cinnamon'
+p1470
+aS'1/2 teaspoon ground allspice'
+p1471
+aS'1/2 teaspoon ground cloves'
+p1472
+aS'1 teaspoon ground ginger'
+p1473
+aS'1 1/4 cup sugar'
+p1474
+aS'1/3 cup cornstarch'
+p1475
+aS'1/2 teaspoon salt'
+p1476
+aS'5 large egg yolks'
+p1477
+aS'1 teaspoon vanilla extract'
+p1478
+aS'2 tablespoons unsalted butter'
+p1479
+aS'8 to 12 ginger snap cookies'
+p1480
+asg23
+S'http://foodnetwork.sndimg.com/content/dam/images/food/fullset/2015/11/15/1/VB0213H_Pumpkin-Pudding_s4x3.jpg.rend.sni12col.landscape.jpeg'
+p1481
+sg25
+g1463
+sg26
+S'http://www.foodnetwork.com/recipes/valerie-bertinelli/valeries-pumpkin-pudding-for-wolfie.html'
+p1482
+sg28
+S'6 servings'
+p1483
+sg30
+S'Easy'
+p1484
+sg32
+S'10 min'
+p1485
+sg34
+S'In a medium saucepan, combine three cups of the milk, the pumpkin puree, cinnamon, allspice, cloves and ginger. Whisk to combine and then set over medium-low heat and bring to a gentle simmer.Whisk together the sugar, cornstarch and salt in a large bowl. Whisk in the egg yolks and the remaining 1 cup milk.Whisk half of the hot milk-pumpkin mixture into the egg mixture until smooth, then gradually whisk the egg-milk-pumpkin mixture back into the saucepan. Continue to cook, now over medium heat, whisking constantly, until the mixture boils. Continue to cook, whisking constantly, until it has thickened, 3 to 4 minutes. Remove from the heat and stir in the vanilla and butter.To assemble, layer the cookies and pudding mixture in a serving dish or parfait glasses. Cover the pudding with plastic wrap and refrigerate until cold (at least 2 hours).'
+p1486
+sg36
+(lp1487
+S'Pumpkin'
+p1488
+aS'Dessert'
+p1489
+aS'Pudding'
+p1490
+assS"Dominic's Salsa"
+p1491
+(dp1492
+g5
+S'30 min'
+p1493
+sg9
+(lp1494
+S'5 to 6 Roma tomatoes, diced'
+p1495
+aS'8 to 10 scallions, whites and light green parts, chopped'
+p1496
+aS'1/2 jalapeno pepper, seeds removed, finely chopped'
+p1497
+aS'1 to 2 cloves garlic, finely chopped almost to a paste'
+p1498
+aS'1 cup loosely packed cilantro, chopped'
+p1499
+aS' Juice of 1 to 2 limes'
+p1500
+aS'2 teaspoons red wine vinegar'
+p1501
+aS'1/2 teaspoon kosher salt'
+p1502
+aS'1/2 teaspoon ground white pepper'
+p1503
+asg23
+S'http://foodnetwork.sndimg.com/content/dam/images/food/fullset/2015/12/20/1/VB0205H_Dominics-Salsa_s4x3.jpg.rend.sni12col.landscape.jpeg'
+p1504
+sg25
+g1491
+sg26
+S'http://www.foodnetwork.com/recipes/valerie-bertinelli/dominics-salsa.html'
+p1505
+sg28
+S'8 servings (about 2 cups)'
+p1506
+sg30
+S'Easy'
+p1507
+sg61
+S'10 min'
+p1508
+sg32
+S'20 min'
+p1509
+sg34
+S'Adapted from "One Dish at a Time: Delicious Recipes and Stories from My Italian-American Childhood and Beyond" by Valerie Bertinelli (c) Rodale 2012. Provided courtesy of Valerie Bertinelli. All rights reserved.'
+p1510
+sg36
+(lp1511
+S'Tomato'
+p1512
+aS'Appetizer'
+p1513
+aS'Salsa'
+p1514
+assS'Rosemary Gin Fizz'
+p1515
+(dp1516
+g5
+S'15 min'
+p1517
+sg7
+S'5 min'
+p1518
+sg9
+(lp1519
+S'3/4 cup sugar'
+p1520
+aS'4 rosemary sprigs'
+p1521
+aS'1/4 cup gin'
+p1522
+aS'1 tablespoon fresh lemon juice'
+p1523
+aS'1 tablespoon fresh lime juice'
+p1524
+aS' About 1/4 cup seltzer'
+p1525
+aS'1 small rosemary sprig'
+p1526
+asg23
+S'http://foodnetwork.sndimg.com/content/dam/images/food/fullset/2015/11/15/1/VB0212H_Rosemary-Gin-Fizz_s4x3.jpg.rend.sni12col.landscape.jpeg'
+p1527
+sg25
+g1515
+sg26
+S'http://www.foodnetwork.com/recipes/valerie-bertinelli/rosemary-gin-fizz.html'
+p1528
+sg28
+S'1 drink'
+p1529
+sg30
+S'Easy'
+p1530
+sg32
+S'10 min'
+p1531
+sg34
+S'Special equipment: Cocktail shakerFor the rosemary simple syrup: Combine the sugar, 3/4 cup water and the rosemary sprigs in a small saucepan over medium heat. Bring to a simmer and cook, stirring and muddling the rosemary with a wooden spoon, until the sugar has completely dissolved, about 1 minute. Take off the heat and cool to room temperature. Strain into a small container. The syrup can be kept refrigerated in an airtight container up to 2 weeks.For the rosemary gin fizz: Combine the gin, lemon juice, lime juice and 2 tablespoons simple syrup in a cocktail shaker filled with ice. Shake vigorously, then strain into a rocks glass filled with ice. Top off with the seltzer and garnish with the rosemary sprig.'
+p1532
+sg36
+(lp1533
+S'Gin'
+p1534
+aS'Beverage'
+p1535
+aS'Mixed Drinks'
+p1536
+assS'English and Italian Finger Sandwiches'
+p1537
+(dp1538
+g5
+S'15 min'
+p1539
+sg9
+(lp1540
+S'1/4 cup extra-virgin olive oil'
+p1541
+aS'2 teaspoons red wine vinegar'
+p1542
+aS'1/2 teaspoon dried oregano'
+p1543
+aS'1/2 teaspoon kosher salt'
+p1544
+aS' Freshly ground black pepper'
+p1545
+aS' One 14- to 16-ounce loaf Italian bread (from a bakery), sliced into 24 thin slices'
+p1546
+aS'1/3 cup roasted red peppers'
+p1547
+aS'1/3 pound thinly sliced salami'
+p1548
+aS'1/3 pound thinly sliced prosciutto di Parma'
+p1549
+aS'1/3 pound thinly sliced mortadella'
+p1550
+aS'1/2 cucumber, peeled if waxy, thinly sliced'
+p1551
+aS' Fresh basil leaves, as needed'
+p1552
+aS'4 to 5 pickled pepperoncini, sliced'
+p1553
+asg23
+S'http://foodnetwork.sndimg.com/content/dam/images/food/fullset/2015/8/22/0/VB0107H_Italian-Finger-Sandwiches_s4x3.jpg.rend.sni12col.landscape.jpeg'
+p1554
+sg25
+g1537
+sg26
+S'http://www.foodnetwork.com/recipes/valerie-bertinelli/english-and-italian-finger-sandwiches.html'
+p1555
+sg28
+S'12 servings'
+p1556
+sg30
+S'Easy'
+p1557
+sg32
+S'15 min'
+p1558
+sg34
+S'Stir together the oil, vinegar, oregano, salt and some pepper in a small bowl. On a work surface, spread out the bread and brush the oil and vinegar mixture onto all of the slices.Layer half of the bread slices with the red peppers, salami, prosciutto, mortadella, cucumber slices, basil and pepperoncini. Top with the remaining bread slices. Using a serrated knife, cut away the crusts from each sandwich. Cut each sandwich into thirds. Place them on a tray and serve.'
+p1559
+sg36
+(lp1560
+S'Lunch'
+p1561
+aS'Sandwich'
+p1562
+assS'Chocolate Scuffins'
+p1563
+(dp1564
+g5
+S'50 min'
+p1565
+sg7
+S'15 min'
+p1566
+sg9
+(lp1567
+S' Nonstick cooking spray'
+p1568
+aS'3/4 cup all-purpose flour'
+p1569
+aS'1/3 cup cocoa powder'
+p1570
+aS'1 teaspoon baking powder'
+p1571
+aS'1/4 teaspoon baking soda'
+p1572
+aS'1/8 teaspoon kosher salt'
+p1573
+aS'1/2 cup coconut oil, at room temperature'
+p1574
+aS'1/2 cup granulated sugar'
+p1575
+aS'1 large egg'
+p1576
+aS'1/2 teaspoon vanilla extract'
+p1577
+aS'3/4 cup whole milk'
+p1578
+aS'1/3 cup milk chocolate chips'
+p1579
+aS'3/4 cup walnuts, chopped'
+p1580
+aS" Confectioners' sugar for dusting"
+p1581
+asg23
+S'http://foodnetwork.sndimg.com/content/dam/images/food/fullset/2015/11/15/1/VB0210H_Chocolate-Scuffins_s4x3.jpg.rend.sni12col.landscape.jpeg'
+p1582
+sg25
+g1563
+sg26
+S'http://www.foodnetwork.com/recipes/valerie-bertinelli/chocolate-scuffins.html'
+p1583
+sg28
+S'24 mini muffins'
+p1584
+sg30
+S'Easy'
+p1585
+sg61
+S'20 min'
+p1586
+sg32
+S'15 min'
+p1587
+sg34
+S"Special equipment: a 24-cup mini-muffin tinPreheat the oven to 350 degrees F. Spray a 24-cup mini-muffin tin with cooking spray.Whisk together the flour, cocoa, baking powder, baking soda and salt in a medium bowl.Whisk together the coconut oil and granulated sugar in a large bowl until well combined. Add the egg and vanilla extract and whisk until well mixed. Whisk in the milk, then add the flour mixture and whisk until just incorporated. Stir in the chocolate chips and walnuts.Divide the batter evenly among the muffin cups. Bake until a wooden toothpick inserted into the center of the scuffins comes out clean, about 15 minutes. Cool in the tin on a cooling rack for 5 minutes and then remove from the tin and let cool completely. Dust with confectioners\\' sugar before serving."
+p1588
+sg36
+(lp1589
+S'Chocolate'
+p1590
+aS'Brunch'
+p1591
+aS'Muffin'
+p1592
+assS'Tomato Bruschetta Valerie Style'
+p1593
+(dp1594
+g5
+S'25 min'
+p1595
+sg7
+S'5 min'
+p1596
+sg9
+(lp1597
+S'3 to 6 fat cloves garlic, chopped as finely as you like'
+p1598
+aS'2 large heirloom tomatoes, chopped, with their seeds and juice'
+p1599
+aS'10 leaves fresh basil, thinly sliced'
+p1600
+aS'1 ounce kalamata olives (about 8), pitted and quartered'
+p1601
+aS'1 tablespoon balsamic vinegar'
+p1602
+aS'1 tablespoon extra-virgin olive oil, plus more for the bread'
+p1603
+aS' Kosher salt and freshly ground black pepper'
+p1604
+aS'1 baguette, sliced diagonally into 12 to 16 rounds'
+p1605
+asg23
+S'http://foodnetwork.sndimg.com/content/dam/images/food/fullset/2015/8/21/0/VB0101H_Tomato-Bruschetta-Valerie-Style_s4x3.jpg.rend.sni12col.landscape.jpeg'
+p1606
+sg25
+g1593
+sg26
+S'http://www.foodnetwork.com/recipes/valerie-bertinelli/tomato-bruschetta-valerie-style.html'
+p1607
+sg28
+S'4 to 6 servings'
+p1608
+sg30
+S'Easy'
+p1609
+sg32
+S'20 min'
+p1610
+sg34
+S'Dump the garlic, tomatoes with their seeds and juice, basil, olives, balsamic vinegar, olive oil and some salt and pepper into a mixing bowl. Stir it up and let it sit until ready to serve.Heat a grill pan over high heat. Brush both sides of the bread slices with some olive oil and grill until grill marks form, about 2 minutes; flip and grill on the other side, another 2 to 3 minutes. Arrange the bread on a serving platter and mound a heaping tablespoon of bruschetta mixture on top of each piece. Put any remaining tomato mixture in a small serving bowl and serve with the bruschetta.'
+p1611
+sg36
+(lp1612
+S'Tomato'
+p1613
+aS'Appetizer'
+p1614
+aS'Bruschetta'
+p1615
+assS'Rumaki Teriyaki'
+p1616
+(dp1617
+g5
+S'1 hr 23 min'
+p1618
+sg7
+S'8 min'
+p1619
+sg9
+(lp1620
+S'1/3 cup teriyaki sauce, plus additional for basting'
+p1621
+aS'1 clove garlic, chopped'
+p1622
+aS'1/4 pound chicken livers, trimmed, rinsed and cut into 24 (1/2-inch) pieces'
+p1623
+aS'12 canned whole water chestnuts, drained and halved'
+p1624
+aS'12 slices bacon, halved crosswise'
+p1625
+asg23
+S'http://foodnetwork.sndimg.com/content/dam/images/food/fullset/2015/11/5/0/VB0201_Rumaki-Teriyaki_s4x3.jpg.rend.sni12col.landscape.jpeg'
+p1626
+sg25
+g1616
+sg26
+S'http://www.foodnetwork.com/recipes/valerie-bertinelli/rumaki-teriyaki.html'
+p1627
+sg28
+S'12 servings'
+p1628
+sg30
+S'Intermediate'
+p1629
+sg61
+S'1 hr'
+p1630
+sg32
+S'15 min'
+p1631
+sg34
+S'Adapted from "One Dish at a Time: Delicious Recipes and Stories from My Italian-American Childhood and Beyond" by Valerie Bertinelli \\xa9 Rodale 2012. Provided courtesy of Valerie Bertinelli. All rights reserved.'
+p1632
+sg36
+(lp1633
+S'Chicken'
+p1634
+aS'Appetizer'
+p1635
+assS'Italian Spritz'
+p1636
+(dp1637
+g5
+S'5 min'
+p1638
+sg9
+(lp1639
+S'3 ounces Aperol'
+p1640
+aS'3 ounces prosecco'
+p1641
+aS'3 ounces sparkling water'
+p1642
+aS' Orange and lime slices, for garnish'
+p1643
+asg23
+S'http://images.scrippsnetworks.com/up/tp/Scripps_-_Food_Category_Prod/352/415/0242770_480x360.jpg'
+p1644
+sg25
+g1636
+sg26
+S'http://www.foodnetwork.com/recipes/valerie-bertinelli/italian-spritz.html'
+p1645
+sg28
+S'1 serving'
+p1646
+sg30
+S'Easy'
+p1647
+sg32
+S'5 min'
+p1648
+sg36
+(lp1649
+S'Prosecco'
+p1650
+aS'Mixed Drinks'
+p1651
+assS'Festive Salad with Tomatoes, Basil and Mozzarella in a Creamy Vinaigrette'
+p1652
+(dp1653
+g5
+S'15 min'
+p1654
+sg9
+(lp1655
+S'5 tablespoons extra-virgin olive oil'
+p1656
+aS'3 tablespoons Champagne vinegar'
+p1657
+aS'1 tablespoon minced shallots'
+p1658
+aS'1 teaspoon Dijon mustard'
+p1659
+aS'1 clove garlic, chopped'
+p1660
+aS' Kosher salt and freshly ground black pepper'
+p1661
+aS'3 ounces mixed field greens'
+p1662
+aS'1 head romaine lettuce, chopped'
+p1663
+aS' Kosher salt and freshly ground black pepper'
+p1664
+aS'1 pint cherry tomatoes, halved'
+p1665
+aS'8 .5 ounces small mozzarella balls (boccancini)'
+p1666
+aS'3 tablespoons pine nuts, toasted'
+p1667
+aS'15 fresh basil leaves, sliced'
+p1668
+asg23
+S'http://foodnetwork.sndimg.com/content/dam/images/food/fullset/2015/12/1/3/VB0103_Festive-Salad_s4x3.jpg.rend.sni12col.landscape.jpeg'
+p1669
+sg25
+g1652
+sg26
+S'http://www.foodnetwork.com/recipes/valerie-bertinelli/festive-salad-with-tomatoes-basil-and-mozzarella-in-a-creamy-vinaigrette.html'
+p1670
+sg28
+S'8 to 10 servings'
+p1671
+sg30
+S'Easy'
+p1672
+sg32
+S'15 min'
+p1673
+sg34
+S'For the dressing: In a jar with a lid, combine the oil, Champagne vinegar, shallots, mustard, garlic and 1/2 teaspoon each salt and pepper. Tightly close the lid and shake so the dressing is well combined.For the salad: Put the mixed greens and romaine in a large bowl. Add enough dressing so that each leaf is lightly coated when tossed. Sprinkle with additional salt and pepper. Transfer the lettuce to a serving platter or bowl.Scatter the tomatoes and mozzarella balls over the salad along with the pine nuts and finally the basil leaves. Serve immediately.'
+p1674
+sg36
+(lp1675
+S'Tomato'
+p1676
+aS'Side Dish'
+p1677
+aS'Salad'
+p1678
+assS'Lemon Blueberry Cheesecake'
+p1679
+(dp1680
+g5
+S'35 min'
+p1681
+sg9
+(lp1682
+S'2 pints blueberries'
+p1683
+aS'1 tablespoon granulated sugar'
+p1684
+aS'1 tablespoon lemon zest plus 2 tablespoons lemon juice'
+p1685
+aS'1 pint (2 cups) heavy cream'
+p1686
+aS'3 tablespoons powdered sugar'
+p1687
+aS'2 teaspoons vanilla bean paste'
+p1688
+aS' One 8-ounce block cream cheese, softened'
+p1689
+aS'1 cup prepared lemon curd'
+p1690
+aS' Zest of 1 lemon plus 2 tablespoons lemon juice'
+p1691
+aS'10 to 12 amaretti cookies, crushed'
+p1692
+aS'2 cups prepared lemon curd'
+p1693
+aS' Lemon zest, for garnish'
+p1694
+asg23
+S'http://foodnetwork.sndimg.com/content/dam/images/food/fullset/2015/8/19/0/VB0110H_Lemon-Blueberry-Cheesecake_s4x3.jpg.rend.sni12col.landscape.jpeg'
+p1695
+sg25
+g1679
+sg26
+S'http://www.foodnetwork.com/recipes/valerie-bertinelli/lemon-blueberry-cheesecake.html'
+p1696
+sg28
+S'10 servings'
+p1697
+sg30
+S'Easy'
+p1698
+sg61
+S'5 min'
+p1699
+sg32
+S'30 min'
+p1700
+sg34
+S'For the blueberry mash: Measure out 1/2 cup of the blueberries and reserve for garnish. Combine the remaining blueberries with the granulated sugar and lemon zest and juice in a bowl. With a potato masher, crush the berries and set aside for 5 minutes.For the whipped cream: Whip the cream with an electric mixer until foamy. Add the powdered sugar and vanilla bean paste and whip to soft peaks. Set aside.For the cheesecake filling: In the bowl of a stand mixer fitted with the paddle attachment, add the cream cheese, lemon curd and lemon zest and juice and mix until combined. Fold half of the whipped cream into the cream cheese mixture. (Save the remaining whipped cream for assembly.)To assemble: In each dessert bowl or martini glass, add a layer of cheesecake filling, blueberry mash, crushed cookies and lemon curd. Repeat until each glass is filled, then top with a dollop of the reserved whipped cream. Garnish with the remaining crushed cookies, a few of the reserved blueberries and more lemon zest.'
+p1701
+sg36
+(lp1702
+S'Lemon'
+p1703
+aS'Dessert'
+p1704
+aS'Cheesecake'
+p1705
+assS'Sweet and Salty Pepitas'
+p1706
+(dp1707
+g5
+S'40 min'
+p1708
+sg7
+S'20 min'
+p1709
+sg9
+(lp1710
+S' Vegetable oil, for the baking sheet'
+p1711
+aS'2 tablespoons unsalted butter'
+p1712
+aS'2 1/2 cups fresh pumpkin seeds (pepitas), cleaned of any large chunks of pumpkin, but some pulp is okay'
+p1713
+aS'2 tablespoons sugar'
+p1714
+aS'1/2 teaspoon ground cinnamon'
+p1715
+aS'1/2 teaspoon ground ginger'
+p1716
+aS'1/4 teaspoon ground allspice'
+p1717
+aS'1/4 teaspoon ground cloves'
+p1718
+aS' Kosher salt'
+p1719
+asg23
+S'http://foodnetwork.sndimg.com/content/dam/images/food/fullset/2015/11/12/2/VB0202H_Sweet-and-Salty-Pepitas_s4x3.jpg.rend.sni12col.landscape.jpeg'
+p1720
+sg25
+g1706
+sg26
+S'http://www.foodnetwork.com/recipes/valerie-bertinelli/sweet-and-salty-pepitas.html'
+p1721
+sg28
+S'2 1/2 cups'
+p1722
+sg30
+S'Easy'
+p1723
+sg61
+S'15 min'
+p1724
+sg32
+S'5 min'
+p1725
+sg34
+S'Preheat the oven to 400 degrees F. Line a rimmed baking sheet with foil and lightly oil the foil.Melt the butter in a saute pan over medium heat. Add the pepitas, toss to coat in the butter and then add the sugar, cinnamon, ginger, allspice, cloves and 1 teaspoon salt. Spread the pepitas on the prepared baking sheet in 1 layer and bake, stirring once or twice, until golden brown all over, 12 to 15 minutes. Let cool completely.'
+p1726
+sg36
+(lp1727
+S'Snack'
+p1728
+assS'Baked Branzino with Citrus Gremolata'
+p1729
+(dp1730
+g5
+S'25 min'
+p1731
+sg7
+S'15 min'
+p1732
+sg9
+(lp1733
+S'2 tablespoons olive oil, plus more for the pan'
+p1734
+aS' Six 3- to 4-ounce branzino fillets, bones removed'
+p1735
+aS' Kosher salt and freshly ground black pepper'
+p1736
+aS'2 lemons'
+p1737
+aS'2 oranges'
+p1738
+aS'1/2 cup flat-leaf parsley, finely chopped'
+p1739
+aS'1 tablespoon good-quality extra-virgin olive oil'
+p1740
+aS' Pinch crushed red pepper flakes'
+p1741
+asg23
+S'http://foodnetwork.sndimg.com/content/dam/images/food/fullset/2015/11/15/1/VB0204H_Branzino-Fillets_s4x3.jpg.rend.sni12col.landscape.jpeg'
+p1742
+sg25
+g1729
+sg26
+S'http://www.foodnetwork.com/recipes/valerie-bertinelli/baked-branzino-with-citrus-gremolata.html'
+p1743
+sg28
+S'4 servings'
+p1744
+sg30
+S'Easy'
+p1745
+sg32
+S'10 min'
+p1746
+sg34
+S'Preheat the oven to 375 degrees F. Generously grease a large rimmed baking sheet with olive oil.Arrange the fillets on the baking sheet in one layer. Drizzle the 2 tablespoons of olive oil over the fish and season with salt and black pepper. Bake until the fish is flaky and just fully cooked through, about 12 minutes.Meanwhile, finely grate the zest of 1 lemon and 1 orange into a small bowl and add the parsley, good olive oil, red pepper flakes, a pinch of salt, a few grinds of black pepper, juice of half the lemon and juice of half the orange. Stir gently to combine.Slice the remaining lemon and orange. Serve the fish topped with the gremolata and citrus slices.'
+p1747
+sg36
+(lp1748
+S'Fish'
+p1749
+aS'Main Dish'
+p1750
+assS'Deep-Fried Turkey'
+p1751
+(dp1752
+g5
+S'2 hr 25 min'
+p1753
+sg7
+S'45 min'
+p1754
+sg9
+(lp1755
+S' One 12-pound turkey'
+p1756
+aS' Kosher salt and freshly ground black pepper'
+p1757
+aS' Vegetable or peanut oil, for frying'
+p1758
+asg23
+S'http://foodnetwork.sndimg.com/content/dam/images/food/fullset/2015/11/12/2/VB0202H_Deep-Fried-Turkey_s4x3.jpg.rend.sni12col.landscape.jpeg'
+p1759
+sg25
+g1751
+sg26
+S'http://www.foodnetwork.com/recipes/valerie-bertinelli/deep-fried-turkey.html'
+p1760
+sg28
+S'8 servings'
+p1761
+sg30
+S'Intermediate'
+p1762
+sg61
+S'1 hr 30 min'
+p1763
+sg32
+S'10 min'
+p1764
+sg34
+S"Special equipment: a countertop indoor turkey fryer and an instant-read thermometerLet the turkey come to room temperature, then pat it dry thoroughly and season it generously with salt and pepper inside and out.Fill a countertop indoor turkey fryer with the indicated amount of oil according to the manufacturer\\'s instructions (see Cook\\'s Note) and heat to 400 degrees F. Carefully lower the turkey into the fryer and cook for 35 to 45 minutes. An instant-read thermometer inserted into the thigh should register approximately 165 degrees F. Transfer the turkey to a cutting board and let rest 30 minutes before carving.Cook\\'s Note: To measure the amount of oil needed to fry the turkey, put the turkey in the fryer, add water to top of turkey and mark the water line with a crayon or marker. Remove the turkey and the water line will indicate how much oil will be needed to fry your turkey. Having too much oil can cause a fire. The pot should not be more than 3/4 full or the oil could overflow when the turkey is added. Dry the fryer before adding the oil."
+p1765
+sg36
+(lp1766
+S'Turkey'
+p1767
+aS'Main Dish'
+p1768
+aS'Deep Frying'
+p1769
+assS'Italian Slow Cooker Beef Sandwiches with Giardiniera Aioli'
+p1770
+(dp1771
+g5
+S'8 hr 15 min'
+p1772
+sg7
+S'8 hr'
+p1773
+sg9
+(lp1774
+S'4 pounds boneless beef chuck roast, quartered'
+p1775
+aS'2 red, orange or yellow bell peppers, seeded and sliced'
+p1776
+aS'1 small onion, halved and thinly sliced'
+p1777
+aS'2 cloves garlic, chopped'
+p1778
+aS' One 15-ounce can diced tomatoes with basil and oregano'
+p1779
+aS'2 teaspoons Italian Seasoning, recipe follows'
+p1780
+aS'1/2 teaspoon whole fennel seeds'
+p1781
+aS' Kosher salt and freshly ground black pepper'
+p1782
+aS'1 large egg'
+p1783
+aS'2 cloves garlic, finely grated'
+p1784
+aS'1 teaspoon Dijon mustard'
+p1785
+aS'1/2 cup extra-virgin olive oil'
+p1786
+aS'1/2 cup vegetable oil'
+p1787
+aS' One 16-ounce jar giardiniera, drained'
+p1788
+aS' Kosher salt and freshly ground black pepper'
+p1789
+aS' Four 12- to 14-inch loaves French bread, halved crosswise, split and lightly toasted'
+p1790
+aS'3 tablespoons dried basil'
+p1791
+aS'3 tablespoons dried marjoram'
+p1792
+aS'3 tablespoons dried oregano'
+p1793
+aS'3 tablespoons dried parsley'
+p1794
+aS'1 tablespoon granulated garlic'
+p1795
+aS'1 teaspoon dried rosemary'
+p1796
+aS'1 teaspoon dried thyme'
+p1797
+aS'1/4 teaspoon red pepper flakes'
+p1798
+asg23
+S'http://foodnetwork.sndimg.com/content/dam/images/food/fullset/2015/11/15/1/VB0209H_Italian-Slow-Cooker-Beef-Sandwiches_s4x3.jpg.rend.sni12col.landscape.jpeg'
+p1799
+sg25
+g1770
+sg26
+S'http://www.foodnetwork.com/recipes/valerie-bertinelli/italian-slow-cooker-beef-sandwiches-with-giardiniera-aioli.html'
+p1800
+sg28
+S'8 sandwiches'
+p1801
+sg30
+S'Easy'
+p1802
+sg32
+S'15 min'
+p1803
+sg34
+S'Contains Raw Eggs: The Food Network Kitchen suggest caution in consuming raw and lightly cooked eggs due to the slight risk of salmonella or other food-borne illness. To reduce this risk, we recommend you use only fresh, properly refrigerated, clean grade A or AA eggs with intact shells, and avoid contact between the yolks or whites and the shell. For recipes that call for eggs that are raw or undercooked when the dish is served, use shell eggs that have been treated to destroy salmonella, by pasteurization or another approved method.'
+p1804
+sg36
+(lp1805
+S'Beef'
+p1806
+aS'Main Dish'
+p1807
+aS'Sandwich'
+p1808
+assS'Eggs Benedict Rx'
+p1809
+(dp1810
+g5
+S'20 min'
+p1811
+sg7
+S'10 min'
+p1812
+sg9
+(lp1813
+S'2 thin slices deli ham'
+p1814
+aS'2 tablespoons distilled white vinegar'
+p1815
+aS'2 large eggs'
+p1816
+aS'1/3 cup dry white wine'
+p1817
+aS'2 tablespoons lemon juice'
+p1818
+aS'3 tablespoons unsalted butter, cut into small pieces'
+p1819
+aS' Kosher salt and freshly ground black pepper'
+p1820
+aS'2 whole-wheat 100-calorie English muffins, halved and toasted'
+p1821
+aS'1 tablespoon chopped fresh chives'
+p1822
+asg23
+S'http://foodnetwork.sndimg.com/content/dam/images/food/fullset/2015/11/8/1/VB0206H_Eggs-Benedict_s4x3.jpg.rend.sni12col.landscape.jpeg'
+p1823
+sg25
+g1809
+sg26
+S'http://www.foodnetwork.com/recipes/valerie-bertinelli/eggs-benedict-rx.html'
+p1824
+sg28
+S'1 serving'
+p1825
+sg30
+S'Easy'
+p1826
+sg32
+S'10 min'
+p1827
+sg34
+S'Adapted from "One Dish at a Time: Delicious Recipes and Stories from My Italian-American Childhood and Beyond" by Valerie Bertinelli (c) Rodale 2012. Provided courtesy of Valerie Bertinelli. All rights reserved.'
+p1828
+sg36
+(lp1829
+S'Eggs'
+p1830
+aS'Breakfast'
+p1831
+assS'Roasted Beets with Herbs'
+p1832
+(dp1833
+g5
+S'45 min'
+p1834
+sg7
+S'35 min'
+p1835
+sg9
+(lp1836
+S'2 bunches baby beets, peeled and halved'
+p1837
+aS' Olive oil, for roasting'
+p1838
+aS' Kosher salt and freshly ground black pepper'
+p1839
+aS'1 tablespoon chopped fresh parsley'
+p1840
+aS'1 tablespoon chopped fresh tarragon'
+p1841
+asg23
+S'http://foodnetwork.sndimg.com/content/dam/images/food/fullset/2015/8/21/0/VB0101H_Roasted-Beets-with-Herbs_s4x3.jpg.rend.sni12col.landscape.jpeg'
+p1842
+sg25
+g1832
+sg26
+S'http://www.foodnetwork.com/recipes/valerie-bertinelli/roasted-beets-with-herbs.html'
+p1843
+sg28
+S'4 servings'
+p1844
+sg30
+S'Easy'
+p1845
+sg32
+S'10 min'
+p1846
+sg34
+S'Preheat the oven to 375 degrees F. Toss the beets in enough olive oil to thoroughly coat. Season with some salt and pepper.Spread the beets on a large baking sheet without crowding. Roast until browned around the edges and fork-tender, about 35 minutes. Toss them with the parsley and tarragon and serve.'
+p1847
+sg36
+(lp1848
+S'Beets'
+p1849
+aS'Side Dish'
+p1850
+assS"Helen's Black Pepper Walnut Biscotti"
+p1851
+(dp1852
+g5
+S'2 hr 35 min'
+p1853
+sg7
+S'55 min'
+p1854
+sg9
+(lp1855
+S'2 3/4 cups all-purpose flour'
+p1856
+aS'1/2 teaspoon baking soda'
+p1857
+aS'1/2 teaspoon baking powder'
+p1858
+aS'1 tablespoon freshly ground black pepper'
+p1859
+aS' Pinch kosher salt'
+p1860
+aS'1/2 cup (1 stick) unsalted butter, softened'
+p1861
+aS'1 cup sugar'
+p1862
+aS'3 large eggs, at room temperature'
+p1863
+aS'2 teaspoons grated orange zest'
+p1864
+aS'1 1/2 teaspoons vanilla extract'
+p1865
+aS'1/4 teaspoon almond extract'
+p1866
+aS"1 1/2 cups chopped walnuts, lightly toasted (see Cook's Note)"
+p1867
+asg23
+S'http://foodnetwork.sndimg.com/content/dam/images/food/fullset/2015/8/22/0/VB0106H_Helens-Black-Pepper-Walnut-Biscotti-and-Affogato_s4x3.jpg.rend.sni12col.landscape.jpeg'
+p1868
+sg25
+g1851
+sg26
+S'http://www.foodnetwork.com/recipes/valerie-bertinelli/helens-black-pepper-walnut-biscotti.html'
+p1869
+sg28
+S'30 biscotti'
+p1870
+sg30
+S'Easy'
+p1871
+sg61
+S'1 hr 20 min'
+p1872
+sg32
+S'20 min'
+p1873
+sg34
+S"Cook\\'s Note: To toast the walnuts on the stove top, put them in a dry skillet over medium heat and cook, stirring, until golden and fragrant. To toast them in the oven, spread in a single layer on a baking sheet and roast at 350 degrees F until golden and fragrant."
+p1874
+sg36
+(lp1875
+S'Dessert'
+p1876
+assS'Berries with Limoncello and Basil'
+p1877
+(dp1878
+g5
+S'40 min'
+p1879
+sg9
+(lp1880
+S'1/2 pint blackberries, rinsed and dried'
+p1881
+aS'1/2 pint blueberries, rinsed and dried'
+p1882
+aS'1/2 pint raspberries, rinsed and dried'
+p1883
+aS'1/2 pint strawberries, rinsed and dried, stemmed and quartered'
+p1884
+aS'4 shots limoncello, chilled'
+p1885
+aS'6 fresh basil leaves, cut into ribbons'
+p1886
+asg23
+S'http://foodnetwork.sndimg.com/content/dam/images/food/fullset/2015/9/9/1/VB0104H_Berries-with-Limoncello-and-Basil_s4x3.jpg.rend.sni12col.landscape.jpeg'
+p1887
+sg25
+g1877
+sg26
+S'http://www.foodnetwork.com/recipes/valerie-bertinelli/berries-with-limoncello-and-basil.html'
+p1888
+sg28
+S'6 servings'
+p1889
+sg30
+S'Easy'
+p1890
+sg61
+S'30 min'
+p1891
+sg32
+S'10 min'
+p1892
+sg34
+S'Lightly mix together the blackberries, blueberries, raspberries and strawberries in a large bowl. Portion the berries into 6 small dessert bowls or glasses. Add a shot of limoncello to each. Refrigerate for at least 30 minutes and up to 4 hours to allow the berries to macerate in the liquid.Just before serving, garnish with basil.'
+p1893
+sg36
+(lp1894
+S'Dessert'
+p1895
+assS'Lemon-Vanilla Whipped Cream'
+p1896
+(dp1897
+g5
+S'5 min'
+p1898
+sg9
+(lp1899
+S'1 1/2 cups heavy cream, chilled'
+p1900
+aS'2 tablespoons sugar'
+p1901
+aS'1 1/2 teaspoons vanilla extract'
+p1902
+aS'1/2 teaspoon grated lemon zest'
+p1903
+asg30
+S'Easy'
+p1904
+sg25
+g1896
+sg26
+S'http://www.foodnetwork.com/recipes/valerie-bertinelli/lemon-vanilla-whipped-cream.html'
+p1905
+sg28
+S'6 servings'
+p1906
+sg32
+S'5 min'
+p1907
+sg36
+(lp1908
+S'Lemon'
+p1909
+aS'Dessert'
+p1910
+assS'Neapolitan Holiday Cookies'
+p1911
+(dp1912
+g5
+S'11 hr 15 min'
+p1913
+sg7
+S'15 min'
+p1914
+sg9
+(lp1915
+S' Cooking spray'
+p1916
+aS'8 ounces almond paste'
+p1917
+aS'1 cup (2 sticks) unsalted butter, softened'
+p1918
+aS'1 cup sugar'
+p1919
+aS'4 large eggs, separated'
+p1920
+aS'2 cups all-purpose flour'
+p1921
+aS'20 drops red food coloring'
+p1922
+aS'12 drops green food coloring'
+p1923
+aS'1/4 cup seedless raspberry jam'
+p1924
+aS'1/4 cup apricot preserves'
+p1925
+aS'6 ounces dark chocolate chips'
+p1926
+asg23
+S'http://foodnetwork.sndimg.com/content/dam/images/food/fullset/2015/12/1/3/VB0103_Neapolitan-Holiday-Cookies_s4x3.jpg.rend.sni12col.landscape.jpeg'
+p1927
+sg25
+g1911
+sg26
+S'http://www.foodnetwork.com/recipes/valerie-bertinelli/neapolitan-holiday-cookies.html'
+p1928
+sg28
+S'7 dozen cookies'
+p1929
+sg30
+S'Intermediate'
+p1930
+sg61
+S'10 hr'
+p1931
+sg32
+S'1 hr'
+p1932
+sg34
+S'Special equipment: 3 quarter-sheet pans or three 13-by-9-by-2-inch jelly roll pansPreheat the oven to 350 degrees F. Coat 3 quarter-sheet pans (or three 13-by-9-by-2-inch jelly roll pans) with cooking spray. Line each pan with parchment paper and coat the paper with cooking spray as well.Place the almond paste in the bowl of a stand mixer. Break it up into small pieces with a fork. Fit the mixer with the paddle attachment and add the butter and sugar to the bowl. Beat the mixture on high speed until light and fluffy, about 7 minutes. Reduce the speed to medium, add the egg yolks, and beat until incorporated. Turn the mixer off and stir in the flour with a wooden spoon until well combined. Transfer the mixture to a medium bowl.Clean the mixer bowl thoroughly and fit the mixer with the whisk attachment. Beat the egg whites on high speed until stiff peaks form. Fold the egg whites into the batter until thoroughly blended.Transfer 1 1/2 cups of the batter to a medium bowl, then transfer another 1 1/2 cups of the batter to a second medium bowl. Add the red food coloring to one of the bowls and stir until the batter is tinted throughout. Add the green food coloring to the second bowl and stir until the batter is tinted throughout. Scrape each of the three batters into one of the prepared pans, using the spatula to spread the batter to the edges. Bake, rotating and switching the positions of the pans halfway through, until the edges are golden, 12 to 14 minutes. Let cool in the pans for about 5 minutes, then invert onto cooling racks and allow to cool completely.To assemble, place the green layer on a large cutting board or a large inverted baking sheet lined with wax paper. Spread the raspberry jam evenly over the top. Place the yellow layer on top and spread with the apricot preserves. If there are large chunks of apricots, remove and chop them up to make them more spreadable. Top with the red layer. Cover with plastic wrap and place a heavy cutting board on top to weight it down. Refrigerate overnight.Place the chocolate chips in a microwaveable bowl and melt in the microwave on low power about 2 minutes. Spread the chocolate on top of the cooled cake and let dry slightly. Trim the rim of the cake with a serrated knife to make clean edges. Cut the cake crosswise into twelve 1-inch-wide strips, then cut lengthwise into 1 1/4-inch strips. The cookies will keep, covered, up to 1 week.'
+p1933
+sg36
+(lp1934
+S'Chocolate'
+p1935
+aS'Dessert'
+p1936
+aS'Cookie'
+p1937
+assS'Chicken Salad with Apples and Grapes'
+p1938
+(dp1939
+g5
+S'15 min'
+p1940
+sg9
+(lp1941
+S'1/4 cup low-fat plain yogurt'
+p1942
+aS'1/4 cup low-fat buttermilk'
+p1943
+aS'1 tablespoon mayonnaise'
+p1944
+aS'2 tablespoons cider vinegar'
+p1945
+aS'1 teaspoon curry powder'
+p1946
+aS'1 clove garlic, chopped'
+p1947
+aS'1/2 teaspoon kosher salt'
+p1948
+aS' Freshly ground black pepper'
+p1949
+aS'2 cups grilled chicken, roughly chopped'
+p1950
+aS'1/2 Granny Smith apple, skin on, cored and chopped into large cubes'
+p1951
+aS'3/4 cup red grapes, halved'
+p1952
+aS'1 cup loosely packed watercress or flat-leaf parsley, chopped'
+p1953
+aS'4 large leaves romaine lettuce'
+p1954
+aS'1/4 cup raw almonds, chopped'
+p1955
+asg23
+S'http://foodnetwork.sndimg.com/content/dam/images/food/fullset/2015/11/22/0/VB0205H_Chicken-Salad-with-Grapes-and-Apples_s4x3.jpg.rend.sni12col.landscape.jpeg'
+p1956
+sg25
+g1938
+sg26
+S'http://www.foodnetwork.com/recipes/valerie-bertinelli/chicken-salad-with-apples-and-grapes.html'
+p1957
+sg28
+S'4 servings'
+p1958
+sg30
+S'Easy'
+p1959
+sg32
+S'15 min'
+p1960
+sg34
+S'Adapted from "One Dish at a Time: Delicious Recipes and Stories from My Italian-American Childhood and Beyond" by Valerie Bertinelli (c) Rodale 2012. Provided courtesy of Valerie Bertinelli. All rights reserved.'
+p1961
+sg36
+(lp1962
+S'Apple'
+p1963
+aS'Side Dish'
+p1964
+assS'Breakfast Fajitas'
+p1965
+(dp1966
+g5
+S'35 min'
+p1967
+sg7
+S'15 min'
+p1968
+sg9
+(lp1969
+S' Four 8-inch flour tortillas'
+p1970
+aS'1/2 teaspoon olive oil'
+p1971
+aS'1 red bell pepper, cored, seeded and sliced into 1/2-inch strips'
+p1972
+aS'1 yellow onion, cut in half, sliced 1/2-inch thick'
+p1973
+aS'1 cup cremini mushrooms, sliced'
+p1974
+aS'1 1/2 teaspoons Fajita Spice Mix, recipe follows, or packaged seasoning mix'
+p1975
+aS'4 egg whites, whisked together'
+p1976
+aS' Salt and freshly ground black pepper'
+p1977
+aS"1/2 to 1 cup Dominic's Salsa, for serving, recipe follows"
+p1978
+aS' Hot sauce, for serving, optional'
+p1979
+aS' Fat-free sour cream, for serving, optional'
+p1980
+aS'2 tablespoons chili powder'
+p1981
+aS'2 teaspoons ground cumin'
+p1982
+aS'2 teaspoons garlic powder'
+p1983
+aS'1 teaspoon onion powder'
+p1984
+aS'1 teaspoon brown sugar'
+p1985
+aS'1 teaspoon paprika'
+p1986
+aS'1/2 teaspoon cayenne'
+p1987
+aS'1/2 teaspoon kosher salt'
+p1988
+aS'1/4 teaspoon cornmeal'
+p1989
+aS' Freshly ground black pepper'
+p1990
+aS'5 to 6 Roma tomatoes, diced'
+p1991
+aS'8 to 10 scallions, whites and light green parts, chopped'
+p1992
+aS'1/2 jalapeno pepper, seeds removed, finely chopped'
+p1993
+aS'1 to 2 cloves garlic, finely chopped almost to a paste'
+p1994
+aS'1 cup loosely packed cilantro, chopped'
+p1995
+aS' Juice of 1 to 2 limes'
+p1996
+aS'2 teaspoons red wine vinegar'
+p1997
+aS'1/2 teaspoon kosher salt'
+p1998
+aS'1/2 teaspoon ground white pepper'
+p1999
+asg23
+S'http://foodnetwork.sndimg.com/content/dam/images/food/fullset/2015/11/22/0/VB0205H_Egg-White-Breakfast-Fajita_s4x3.jpg.rend.sni12col.landscape.jpeg'
+p2000
+sg25
+g1965
+sg26
+S'http://www.foodnetwork.com/recipes/valerie-bertinelli/breakfast-fajitas.html'
+p2001
+sg28
+S'2 to 4 servings'
+p2002
+sg30
+S'Easy'
+p2003
+sg32
+S'20 min'
+p2004
+sg34
+S'Adapted from "One Dish at a Time: Delicious Recipes and Stories from My Italian-American Childhood and Beyond" by Valerie Bertinelli (c) Rodale 2012. Provided courtesy of Valerie Bertinelli. All rights reserved.'
+p2005
+sg36
+(lp2006
+S'Eggs'
+p2007
+aS'Breakfast'
+p2008
+aS'Fajita'
+p2009
+assS'Spicy Margarita with Jalapeno and Ginger'
+p2010
+(dp2011
+g5
+S'25 min'
+p2012
+sg7
+S'5 min'
+p2013
+sg9
+(lp2014
+S'2 tablespoons sea salt flakes'
+p2015
+aS' Zest of 1 lime, 3/4 ounce lime juice plus 1 lime wedge'
+p2016
+aS'1 teaspoon minced jalapeno'
+p2017
+aS'3 slices fresh ginger (each the size of a half dollar)'
+p2018
+aS'2 ounces blanco tequila (white or silver)'
+p2019
+aS'3/4 ounce orange liqueur, such as Cointreau'
+p2020
+aS'1/4 ounce Simple Syrup, recipe follows'
+p2021
+aS'1 cup sugar'
+p2022
+asg30
+S'Easy'
+p2023
+sg25
+g2010
+sg26
+S'http://www.foodnetwork.com/recipes/valerie-bertinelli/spicy-margarita-with-jalapeno-and-ginger.html'
+p2024
+sg28
+S'1 cocktail'
+p2025
+sg61
+S'10 min'
+p2026
+sg32
+S'10 min'
+p2027
+sg34
+S'Crush together the sea salt flakes and lime zest in a small bowl. Rim a margarita glass by rubbing a lime wedge around the edge of the glass and then dipping it in the lime salt.Muddle the jalapeno and ginger with a few ice cubes in a cocktail shaker. Then add the tequila, lime juice, orange liqueur and Simple Syrup. Shake and strain into the margarita glass filled with ice.'
+p2028
+sg36
+(lp2029
+S'Jalapeno'
+p2030
+aS'Margarita'
+p2031
+assS"Valerie's Gravy for Fried Turkey"
+p2032
+(dp2033
+g5
+S'45 min'
+p2034
+sg7
+S'40 min'
+p2035
+sg9
+(lp2036
+S'3 cups turkey stock'
+p2037
+aS' Turkey neck and gizzards from 1 turkey (no liver)'
+p2038
+aS'2 sprigs fresh thyme'
+p2039
+aS'1 bay leaf'
+p2040
+aS'1 shallot, halved'
+p2041
+aS'3 tablespoons hot oil from  '
+p2042
+aS'3 tablespoons all-purpose flour'
+p2043
+aS' Kosher salt and freshly ground black pepper'
+p2044
+aS' Freshly squeezed lemon juice, as needed'
+p2045
+aS'2 tablespoons cold unsalted butter'
+p2046
+asg23
+S'http://foodnetwork.sndimg.com/content/dam/images/food/fullset/2015/11/12/2/VB0202H_Valeries-Gravy_s4x3.jpg.rend.sni12col.landscape.jpeg'
+p2047
+sg25
+g2032
+sg26
+S'http://www.foodnetwork.com/recipes/valerie-bertinelli/valeries-gravy-for-fried-turkey.html'
+p2048
+sg28
+S'1 1/2 cups'
+p2049
+sg30
+S'Easy'
+p2050
+sg32
+S'5 min'
+p2051
+sg34
+S'In a saucepan, add the turkey stock, turkey neck, gizzards, thyme, bay leaf and shallot. Bring to a boil, reduce to a simmer and simmer for 30 minutes. Strain out the solids. If a chunky gravy is desired, chop the gizzards and return them to the simmered stock in the saucepan. Keep warm.In a straight-sided saute pan, add the hot oil and flour and cook over medium-high to high heat until the mixture is light brown in color (for a dark gravy, cook the flour to a deeper brown color). Add 2 cups of the warm stock, whisking constantly, and cook until the gravy thickens and bubbles. Add more warm stock if a thinner consistency is desired. Reduce the heat to low and add salt and pepper to taste (this will depend on how salty the stock is). Add a squeeze of lemon juice and taste again for seasoning. Keep warm until ready to serve, adding more warm stock as needed.Just before serving, remove from the heat and swirl in the butter until melted. Pour into a gravy boat and serve.'
+p2052
+sg36
+(lp2053
+S'Turkey'
+p2054
+assS'Grilled Romaine with Balsamic Dressing'
+p2055
+(dp2056
+g5
+S'15 min'
+p2057
+sg7
+S'5 min'
+p2058
+sg9
+(lp2059
+S'1/4 cup extra-virgin olive oil'
+p2060
+aS'3 tablespoons balsamic vinegar'
+p2061
+aS'3 tablespoons crumbled Gorgonzola'
+p2062
+aS'6 leaves fresh basil, chopped'
+p2063
+aS'1 clove garlic, chopped'
+p2064
+aS' Kosher salt and freshly ground black pepper'
+p2065
+aS'2 romaine hearts, halved lengthwise'
+p2066
+aS' Canola oil, for brushing'
+p2067
+aS'1/4 cup crumbled Gorgonzola, for garnish'
+p2068
+aS'4 leaves fresh basil, torn, for garnish'
+p2069
+asg23
+S'http://foodnetwork.sndimg.com/content/dam/images/food/fullset/2015/8/4/1/VB0102H_Grilled-Romaine-with-Balsamic-Dressing_s4x3.jpg.rend.sni12col.landscape.jpeg'
+p2070
+sg25
+g2055
+sg26
+S'http://www.foodnetwork.com/recipes/valerie-bertinelli/grilled-romaine-with-balsamic-dressing.html'
+p2071
+sg28
+S'4 servings'
+p2072
+sg30
+S'Easy'
+p2073
+sg32
+S'10 min'
+p2074
+sg34
+S'For the balsamic dressing: In a blender, combine the olive oil, balsamic vinegar, Gorgonzola, basil, garlic, a pinch each of salt and pepper and 2 tablespoons water. Blend until the dressing is creamy and the garlic and basil are finely chopped.For the grilled romaine: Preheat a grill or grill pan to medium heat.Lightly brush the cut sides of the romaine with the canola oil. Place the romaine on the grill cut-side down and cook until grill marks form and the leaves are slightly charred, 1 to 3 minutes. Arrange on a platter cut-side up.Drizzle the romaine with the dressing. Sprinkle with the Gorgonzola and torn basil and serve.'
+p2075
+sg36
+(lp2076
+S'Lettuce'
+p2077
+aS'Side Dish'
+p2078
+aS'Salad Dressing'
+p2079
+assS'Slow Cooker Red Beans and Rice'
+p2080
+(dp2081
+g5
+S'8 hr 15 min'
+p2082
+sg7
+S'8 hr'
+p2083
+sg9
+(lp2084
+S'1 pound dried red beans'
+p2085
+aS'1/2 pound andouille sausage, chopped'
+p2086
+aS'3 ribs celery, chopped'
+p2087
+aS'1 smoked ham shank'
+p2088
+aS'1 medium onion, chopped'
+p2089
+aS'1 large green bell pepper, chopped'
+p2090
+aS'1 tablespoon chili powder'
+p2091
+aS'1 teaspoon ground cumin'
+p2092
+aS'1 teaspoon garlic powder'
+p2093
+aS'1/2 teaspoon cayenne'
+p2094
+aS'1/2 teaspoon onion powder'
+p2095
+aS'1/2 teaspoon paprika'
+p2096
+aS'1/2 teaspoon brown sugar'
+p2097
+aS' Kosher salt'
+p2098
+aS'4 cups chicken stock'
+p2099
+aS'8 cups cooked long-grain white rice, for serving'
+p2100
+aS'4 scallions, chopped'
+p2101
+asg23
+S'http://foodnetwork.sndimg.com/content/dam/images/food/fullset/2015/11/15/1/VB0207H_Red-Beans-and-Rice_s4x3.jpg.rend.sni12col.landscape.jpeg'
+p2102
+sg25
+g2080
+sg26
+S'http://www.foodnetwork.com/recipes/valerie-bertinelli/slow-cooker-red-beans-and-rice.html'
+p2103
+sg28
+S'8 to 10 servings'
+p2104
+sg30
+S'Easy'
+p2105
+sg32
+S'15 min'
+p2106
+sg34
+S'In a slow cooker, combine the beans, andouille, celery, ham shank, onions, bell peppers, chili powder, cumin, garlic powder, cayenne, onion powder, paprika, brown sugar and 2 teaspoons salt. Add the chicken stock and 2 cups water and stir to mix.Cook on the high setting until the beans are tender, 6 to 8 hours. Season with salt. Serve with rice, topped with scallions.'
+p2107
+sg36
+(lp2108
+S'Beans And Legumes'
+p2109
+aS'Side Dish'
+p2110
+aS'Slow Cooker'
+p2111
+assS'Beef and Potato Hash'
+p2112
+(dp2113
+g5
+S'8 hr 40 min'
+p2114
+sg7
+S'8 hr 20 min'
+p2115
+sg9
+(lp2116
+S'2 tablespoons unsalted butter'
+p2117
+aS'4 scallions, chopped'
+p2118
+aS'1 pound Yukon gold potatoes, peeled and cut into 1/4-inch dice'
+p2119
+aS' Kosher salt and freshly ground black pepper'
+p2120
+aS'2 cups shredded beef from Italian Slow Cooker Beef Sandwiches with Giardiniera Aioli (recipe follows), chopped'
+p2121
+aS'3 tablespoons chopped flat-leaf parsley'
+p2122
+aS'4 pounds boneless beef chuck roast, quartered'
+p2123
+aS'2 red, orange or yellow bell peppers, seeded and sliced'
+p2124
+aS'1 small onion, halved and thinly sliced'
+p2125
+aS'2 cloves garlic, chopped'
+p2126
+aS' One 15-ounce can diced tomatoes with basil and oregano'
+p2127
+aS'2 teaspoons Italian seasoning'
+p2128
+aS'1/2 teaspoon whole fennel seeds'
+p2129
+aS' Kosher salt and freshly ground black pepper'
+p2130
+asg23
+S'http://foodnetwork.sndimg.com/content/dam/images/food/fullset/2015/11/15/1/VB0209H_Breakfast-Potato-Hash_s4x3.jpg.rend.sni12col.landscape.jpeg'
+p2131
+sg25
+g2112
+sg26
+S'http://www.foodnetwork.com/recipes/valerie-bertinelli/beef-and-potato-hash.html'
+p2132
+sg28
+S'2 to 3 servings'
+p2133
+sg32
+S'20 min'
+p2134
+sg34
+S'Combine the chuck, bell peppers, onions, garlic, tomatoes, Italian seasoning, fennel seeds, 2 1/2 teaspoons salt, and some pepper in a slow cooker. Cook on the low setting for 8 hours. Use a ladle to remove some of the excess fat from the surface, then coarsely shred the beef with two forks. Season with salt and pepper.Yield: 8 servings'
+p2135
+sg36
+(lp2136
+S'Beef'
+p2137
+aS'Side Dish'
+p2138
+assS'Kale and Quinoa Salad'
+p2139
+(dp2140
+g5
+S'55 min'
+p2141
+sg9
+(lp2142
+S'1/2 to 1 bunch lacinato kale (also called Tuscan kale), washed, stems removed and leaves cut into 1-inch strips'
+p2143
+aS'3 tablespoons red wine vinegar'
+p2144
+aS' Kosher salt and freshly ground black pepper'
+p2145
+aS'3 to 4 tablespoons extra-virgin olive oil'
+p2146
+aS'1 cup cooked white quinoa'
+p2147
+aS'1 cup cherry tomatoes, halved'
+p2148
+aS'1/4 cup crumbled goat cheese'
+p2149
+aS'1/4 cup toasted pine nuts'
+p2150
+asg23
+S'http://foodnetwork.sndimg.com/content/dam/images/food/fullset/2015/8/19/0/VB0105H_Kale-and-Quinoa-Salad_s4x3.jpg.rend.sni12col.landscape.jpeg'
+p2151
+sg25
+g2139
+sg26
+S'http://www.foodnetwork.com/recipes/valerie-bertinelli/kale-and-quinoa-salad.html'
+p2152
+sg28
+S'4 to 6 servings'
+p2153
+sg30
+S'Easy'
+p2154
+sg61
+S'20 min'
+p2155
+sg32
+S'35 min'
+p2156
+sg34
+S'Steep the kale in hot water in a large bowl until it turns slightly brighter, 1 to 2 minutes. Remove and pat dry.In a small bowl, combine the vinegar and a pinch of salt and freshly ground pepper. While whisking, slowly drizzle in the olive oil.Pour half the dressing over the kale in a large bowl. Massage the kale leaves with your hands. Add the quinoa, tomatoes and more dressing and toss together with 2 spoons. Mix in the goat cheese and pine nuts. Transfer the salad to a serving dish. Allow to sit for 20 minutes before serving.'
+p2157
+sg36
+(lp2158
+S'Quinoa'
+p2159
+aS'Side Dish'
+p2160
+aS'Salad'
+p2161
+assS'Cauliflower Crust Pizza'
+p2162
+(dp2163
+g5
+S'35 min'
+p2164
+sg7
+S'20 min'
+p2165
+sg9
+(lp2166
+S'1 small head cauliflower, chopped (5 to 6 cups)'
+p2167
+aS'1 cup grated Parmesan'
+p2168
+aS'1/2 teaspoon dried Italian seasoning'
+p2169
+aS'1 clove garlic, minced'
+p2170
+aS'1/2 teaspoon kosher salt'
+p2171
+aS' Freshly ground black pepper'
+p2172
+aS'1 egg'
+p2173
+aS'1 1/2 cups shredded low-moisture mozzarella'
+p2174
+aS'1/2 cup marinara sauce'
+p2175
+aS'1/4 cup fresh basil leaves, torn'
+p2176
+asg23
+S'http://images.scrippsnetworks.com/up/tp/Scripps_-_Food_Category_Prod/777/467/0243734_480x360.jpg'
+p2177
+sg25
+g2162
+sg26
+S'http://www.foodnetwork.com/recipes/valerie-bertinelli/cauliflower-crust-pizza.html'
+p2178
+sg28
+S'4 to 6 servings'
+p2179
+sg30
+S'Intermediate'
+p2180
+sg32
+S'15 min'
+p2181
+sg34
+S'Special equipment: a pizza stone and peel or two rimless baking sheetsPlace a pizza stone or rimless baking sheet in the oven; preheat to 475 degrees F.Add the cauliflower to a food processor; pulse until finely ground, about the consistency of couscous. Pour the cauliflower onto a clean kitchen towel (I like flour sack towels for this) and squeeze out as much liquid as possible.To a large bowl, add the cauliflower, Parmesan, Italian seasoning, garlic, salt, some black pepper and the egg. Mix until the mixture holds together when pinched.Line a pizza peel or a second rimless baking sheet with parchment paper; liberally brush with olive oil. Spread the cauliflower mixture into a 12-inch-wide circle on the parchment. Slide the parchment onto the preheated pizza stone or baking sheet. Bake until the cauliflower crust is barely golden and darker at the edges, about 15 minutes.Remove the crust from the oven, sprinkle with the mozzarella and spread the marinara sauce over the top (this keeps the crust dry). Slide the pizza back onto the pizza stone or baking sheet and bake until bubbly and browned in spots, about 4 minutes.Scatter the basil over the top. Slice and serve.'
+p2182
+sg36
+(lp2183
+S'Cauliflower'
+p2184
+aS'Main Dish'
+p2185
+aS'Pizza'
+p2186
+assS'Lasagna alla Besciamella'
+p2187
+(dp2188
+g5
+S'3 hr 30 min'
+p2189
+sg7
+S'2 hr 20 min'
+p2190
+sg9
+(lp2191
+S'3 tablespoons extra-virgin olive oil'
+p2192
+aS'1 yellow onion, finely chopped'
+p2193
+aS'2 cloves garlic, pushed through a press'
+p2194
+aS'1 pound ground beef'
+p2195
+aS'2 links sweet Italian sausage, casings removed'
+p2196
+aS'2 links hot Italian sausage, casings removed'
+p2197
+aS'2 teaspoons kosher salt'
+p2198
+aS'1 teaspoon dried basil'
+p2199
+aS'1 teaspoon Italian seasoning'
+p2200
+aS'1 teaspoon dried oregano'
+p2201
+aS' Freshly ground black pepper'
+p2202
+aS' Three 26.5-ounce boxes strained tomatoes, such as Pomi'
+p2203
+aS'1 cup dry red wine'
+p2204
+aS'3 cups whole milk'
+p2205
+aS'1 stick (8 tablespoons) unsalted butter'
+p2206
+aS'1/2 cup all-purpose flour'
+p2207
+aS'1/8 teaspoon ground nutmeg'
+p2208
+aS' Kosher salt and freshly ground white pepper'
+p2209
+aS'1 pound no-cook lasagna noodles, such as Barilla'
+p2210
+aS'2 1/4 cups finely grated Parmigiano-Reggiano cheese'
+p2211
+aS' One 8-ounce package part-skim low-moisture shredded mozzarella'
+p2212
+asg23
+S'http://foodnetwork.sndimg.com/content/dam/images/food/fullset/2015/12/1/3/VB0103_Lasagna-alla-Besciamella_s4x3.jpg.rend.sni12col.landscape.jpeg'
+p2213
+sg25
+g2187
+sg26
+S'http://www.foodnetwork.com/recipes/valerie-bertinelli/lasagna-alla-besciamella.html'
+p2214
+sg28
+S'8 to 10 servings'
+p2215
+sg30
+S'Intermediate'
+p2216
+sg61
+S'20 min'
+p2217
+sg32
+S'50 min'
+p2218
+sg34
+S'To make the meat ragu: Heat the oil in a Dutch oven over medium-low heat. Add the onion and garlic and saute until soft and fragrant, about 8 minutes. Add the ground beef, sausage, salt, basil, Italian seasoning, oregano and pepper to taste and increase the heat to high. Cook, breaking up the meat with a wooden spoon, until browned all over. Add the tomatoes. Pour some of the wine into the empty tomato boxes to rinse out the last bits of tomatoes and add to the pot, along with the remaining wine. Bring the mixture to a boil. Reduce the heat and simmer, partially covered, until the sauce thickens and the flavors come together, about 1 hour. Add a healthy amount of black pepper.To make the besciamella: Heat the milk in a small saucepan over medium heat until just simmering, then turn off the heat. Meanwhile, melt the butter in a medium heavy-bottomed saucepan over medium-high heat. Add the flour to the butter and cook, whisking constantly, until the mixture thickens and then loosens again, about 2 minutes. Add the hot milk, whisking constantly. Bring to a boil. Add the nutmeg and salt and pepper to taste. Reduce the heat to low and continue to cook, whisking almost constantly, for 2 minutes. Remove from the heat and use immediately.To make the lasagna: Preheat the oven to 350 degrees F.Spread an even layer of the meat ragu over the bottom of a 9-by-13-inch baking dish. Arrange 3 lasagna noodles over the sauce lengthwise across the short side of the pan. Avoid overlapping or allowing them to touch the sides of the pan because they will expand as they cook. Press down slightly to let the sauce spread around them. Cover with one-quarter of the besciamella and sprinkle with one-third of the Parmigiano-Reggiano. Add another layer of ragu. Add 3 more noodles, arranging them in the opposite direction from the first layer and breaking 1 of the noodles in half if necessary to fit. Add one-quarter of the besciamella and half of the mozzarella. Make a third layer of ragu, noodles (alternating directions again), besciamella and one-third of the Parmigiano-Reggiano. Add another layer of ragu, then the remaining mozzarella, noodles (alternating the noodles again), besciamella and ragu.Cover the pan with foil and bake until heated through, about 35 minutes. Remove the foil and continue baking until the top is brown and bubbling, about 20 minutes more. During the last 10 minutes of baking, scatter the remaining Parmigiano-Reggiano all over. Let the lasagna stand for 10 minutes before serving.'
+p2219
+sg36
+(lp2220
+S'Meat'
+p2221
+aS'Main Dish'
+p2222
+aS'Lasagna'
+p2223
+assS'Prosciutto Bruschetta'
+p2224
+(dp2225
+g5
+S'16 min'
+p2226
+sg7
+S'6 min'
+p2227
+sg9
+(lp2228
+S'8 slices crusty sourdough bread, cut on the diagonal from a 1-pound loaf'
+p2229
+aS' Extra-virgin olive oil'
+p2230
+aS'1 clove garlic'
+p2231
+aS'8 thin slices fresh mozzarella'
+p2232
+aS'8 thin slices prosciutto'
+p2233
+aS'8 fresh basil leaves'
+p2234
+asg23
+S'http://foodnetwork.sndimg.com/content/dam/images/food/fullset/2015/11/8/1/VB0206H_Prosciutto-Bruschetta_s4x3.jpg.rend.sni12col.landscape.jpeg'
+p2235
+sg25
+g2224
+sg26
+S'http://www.foodnetwork.com/recipes/valerie-bertinelli/prosciutto-bruschetta.html'
+p2236
+sg28
+S'8 servings'
+p2237
+sg30
+S'Easy'
+p2238
+sg61
+S'5 min'
+p2239
+sg32
+S'5 min'
+p2240
+sg34
+S'Adapted from "One Dish at a Time: Delicious Recipes and Stories from My Italian-American Childhood and Beyond" by Valerie Bertinelli (c) Rodale 2012. Provided courtesy of Valerie Bertinelli. All rights reserved.'
+p2241
+sg36
+(lp2242
+S'Bread'
+p2243
+aS'Appetizer'
+p2244
+aS'Bruschetta'
+p2245
+assS'Berry Kir Royale'
+p2246
+(dp2247
+g5
+S'5 min'
+p2248
+sg9
+(lp2249
+S'1 pint raspberries'
+p2250
+aS'1 to 2 tablespoons creme de cassis'
+p2251
+aS' Prosecco, chilled, for serving'
+p2252
+asg23
+S'http://foodnetwork.sndimg.com/content/dam/images/food/fullset/2015/12/1/3/VB0103_Berry-Kir-Royale_s4x3.jpg.rend.sni12col.landscape.jpeg'
+p2253
+sg25
+g2246
+sg26
+S'http://www.foodnetwork.com/recipes/valerie-bertinelli/berry-kir-royale.html'
+p2254
+sg28
+S'4 servings'
+p2255
+sg30
+S'Easy'
+p2256
+sg32
+S'5 min'
+p2257
+sg36
+(lp2258
+S'Raspberry'
+p2259
+aS'Beverage'
+p2260
+aS'Mixed Drinks'
+p2261
+assS'Southwestern Egg Rolls with Salsa Dipping Sauce'
+p2262
+(dp2263
+g5
+S'40 min'
+p2264
+sg7
+S'20 min'
+p2265
+sg9
+(lp2266
+S' Nonstick cooking spray'
+p2267
+aS'2 1/2 cups shredded Mexican blend cheese'
+p2268
+aS'2 cups frozen corn, thawed'
+p2269
+aS' One 15-ounce can black beans, rinsed and drained'
+p2270
+aS' One 10-ounce package frozen chopped spinach, thawed and squeezed dry'
+p2271
+aS' One 4-ounce can diced green chiles, drained'
+p2272
+aS'4 scallions, chopped'
+p2273
+aS'1 teaspoon ground cumin'
+p2274
+aS'1/2 teaspoon chili powder'
+p2275
+aS'1/4 teaspoon cayenne pepper'
+p2276
+aS'1 1/2 teaspoons kosher salt'
+p2277
+aS' One 16-ounce package egg roll wrappers'
+p2278
+aS'1 egg, slightly beaten'
+p2279
+aS'5 plum tomatoes, quartered'
+p2280
+aS'1 small clove garlic, minced'
+p2281
+aS'1/2 jalapeno, seeded and finely chopped'
+p2282
+aS'3 scallions, white and light green parts only, finely chopped'
+p2283
+aS'1 cup loosely packed cilantro leaves and stems, finely chopped'
+p2284
+aS' Juice of 1/2 lime'
+p2285
+aS'2 teaspoons kosher salt'
+p2286
+asg23
+S'http://foodnetwork.sndimg.com/content/dam/images/food/fullset/2015/11/5/0/VB0201_Southwest-Eggrolls-with-Salsa-Dipping-Sauce_s4x3.jpg.rend.sni12col.landscape.jpeg'
+p2287
+sg25
+g2262
+sg26
+S'http://www.foodnetwork.com/recipes/valerie-bertinelli/southwestern-egg-rolls-with-salsa-dipping-sauce.html'
+p2288
+sg28
+S'about 16 egg rolls'
+p2289
+sg30
+S'Intermediate'
+p2290
+sg32
+S'20 min'
+p2291
+sg34
+S'For the egg rolls: Preheat the oven to 425 degrees F. Spray a rimmed baking sheet generously with cooking spray.In a large bowl, combine the cheese, corn, beans, spinach, chiles, scallions, cumin, chili powder, cayenne and salt. Stir together, making sure to break up the clumps of spinach.Have a small bowl of water ready for moistening your fingers.Lay one egg roll wrapper out on a work surface and moisten the edges with your finger. Scoop 1/4 cup of the filling into the center of the wrapper; mound into a 1-inch wide log arranged diagonally across the wrapper, with about an inch of space to the corners. Fold the corners over the filling, gently pressing down on either side to secure the fold. Then, starting at one of the unfolded corners, gently but firmly roll up the egg roll. Place on the prepared baking sheet and repeat until all of the filling has been used.Brush the tops and sides of the egg rolls generously with beaten egg. Bake until golden brown all over, 15 to 20 minutes.For the salsa: Meanwhile, pulse the tomatoes, garlic and jalapeno in a food processor until the tomatoes are almost smooth. Add the scallions, cilantro, lime juice and salt; pulse just to combine.Serve the egg rolls with the salsa on the side, for dipping.'
+p2292
+sg36
+(lp2293
+S'Beans And Legumes'
+p2294
+aS'Appetizer'
+p2295
+assS'Buttery Manhattan'
+p2296
+(dp2297
+g5
+S'4 hr 15 min'
+p2298
+sg9
+(lp2299
+S'2 ounces Butter-Infused Bourbon, recipe follows'
+p2300
+aS'2 ounces sweet vermouth'
+p2301
+aS' Dash spiced cherry or regular bitters, such as Angostura'
+p2302
+aS'1 strip orange zest'
+p2303
+aS'1 regular or Italian maraschino cherry, such as Luxardo cherries'
+p2304
+aS' One 750-milliliter bottle good-quality bourbon'
+p2305
+aS'2 sticks (16 tablespoons) unsalted butter'
+p2306
+asg23
+S'http://foodnetwork.sndimg.com/content/dam/images/food/fullset/2015/11/15/1/VB0204H_Manhattans_s4x3.jpg.rend.sni12col.landscape.jpeg'
+p2307
+sg25
+g2296
+sg26
+S'http://www.foodnetwork.com/recipes/valerie-bertinelli/buttery-manhattan.html'
+p2308
+sg28
+S'1 drink'
+p2309
+sg30
+S'Easy'
+p2310
+sg32
+S'4 hr 15 min'
+p2311
+sg34
+S'Combine the bourbon and butter in a medium saucepan over medium heat and cook until the butter melts. Transfer to a container and freeze until the butter has solidified. Remove the large piece of bourbon-infused butter and reserve, refrigerated in an airtight container, for cooking. Strain the bourbon through a fine-meshed sieve and coffee filter to remove any remaining particles of butter. Return the butter-infused bourbon to its original bottle and keep frozen to use in cocktails for up to one month.Yield: about 3 cups of bourbon and 12 tablespoons butter'
+p2312
+sg36
+(lp2313
+S'Bourbon'
+p2314
+aS'Beverage'
+p2315
+aS'Mixed Drinks'
+p2316
+assS'Classic Panzanella'
+p2317
+(dp2318
+g5
+S'50 min'
+p2319
+sg7
+S'15 min'
+p2320
+sg9
+(lp2321
+S'5 cups cubed good-quality crusty bread (about half of a 7-inch round loaf)'
+p2322
+aS'6 medium-ripe tomatoes, cored and cut into 3/4-inch pieces'
+p2323
+aS' Kosher salt and freshly ground black pepper'
+p2324
+aS'6 tablespoon extra-virgin olive oil'
+p2325
+aS'3 tablespoons sherry vinegar'
+p2326
+aS'1/4 cup thinly sliced red onion'
+p2327
+aS'1 cup basil leaves, torn'
+p2328
+asg23
+S'http://foodnetwork.sndimg.com/content/dam/images/food/fullset/2015/11/15/1/VB0204H_Panzanella_s4x3.jpg.rend.sni12col.landscape.jpeg'
+p2329
+sg25
+g2317
+sg26
+S'http://www.foodnetwork.com/recipes/valerie-bertinelli/classic-panzanella.html'
+p2330
+sg28
+S'4 to 6 servings'
+p2331
+sg30
+S'Easy'
+p2332
+sg61
+S'20 min'
+p2333
+sg32
+S'15 min'
+p2334
+sg34
+S'Preheat the oven to 325 degrees F. Arrange the bread cubes on a rimmed baking sheet in a single layer. Bake until dried out but not toasted, 10 to 15 minutes. Cool.Meanwhile, put the tomatoes in a colander and toss them with 1 teaspoon salt. Let stand 20 minutes, discard any juices that drain out.Whisk the olive oil and vinegar together in a large bowl. Add the bread, tomatoes, onion, and basil and toss to coat thoroughly. Season with salt and pepper and serve immediately.'
+p2335
+sg36
+(lp2336
+S'Bread'
+p2337
+aS'Side Dish'
+p2338
+aS'Salad'
+p2339
+assS'Baked Salmon with Honey Mustard Sauce'
+p2340
+(dp2341
+g5
+S'25 min'
+p2342
+sg7
+S'15 min'
+p2343
+sg9
+(lp2344
+S' Four 6- to 7-ounce salmon fillets, skin-on'
+p2345
+aS'1/2 cup low-fat mayonnaise'
+p2346
+aS'1/4 cup Dijon mustard'
+p2347
+aS'1/4 cup honey'
+p2348
+aS'2 tablespoons finely chopped chives, plus additional for garnish'
+p2349
+aS' Kosher salt and freshly ground white pepper'
+p2350
+asg23
+S'http://foodnetwork.sndimg.com/content/dam/images/food/fullset/2015/9/9/1/VB0104H_Baked-Salmon-with-Honey-Mustard-Sauce_s4x3.jpg.rend.sni12col.landscape.jpeg'
+p2351
+sg25
+g2340
+sg26
+S'http://www.foodnetwork.com/recipes/valerie-bertinelli/baked-salmon-with-honey-mustard-sauce.html'
+p2352
+sg28
+S'4 servings'
+p2353
+sg30
+S'Easy'
+p2354
+sg32
+S'10 min'
+p2355
+sg34
+S'Preheat the oven to 375 degrees F. Line a large baking sheet with a nonstick silicone liner, and lay the salmon, skin side down, on top. Set aside.Combine the mayonnaise, mustard, honey and chives in a medium bowl and stir to thoroughly combine. Reserve half of the sauce. Spoon the remaining sauce over the fish, spreading it evenly all over the top and sides of each fillet. Sprinkle with salt and pepper.Roast just until the fish is opaque in the center, 7 minutes. Increase the oven to broil. Broil the fish for 6 to 7 minutes, but keep your eye on it to avoid overcooking. Garnish with chives and serve with the reserved sauce.'
+p2356
+sg36
+(lp2357
+S'Salmon'
+p2358
+aS'Main Dish'
+p2359
+assS'Deviled Eggs, Three Ways'
+p2360
+(dp2361
+g5
+S'40 min'
+p2362
+sg7
+S'5 min'
+p2363
+sg9
+(lp2364
+S'12 large eggs, in their shells'
+p2365
+aS' Greens, for lining the serving platter'
+p2366
+aS'2 tablespoons mayonnaise'
+p2367
+aS'1 tablespoon capers, chopped, plus more for garnish'
+p2368
+aS'2 teaspoons spicy brown mustard'
+p2369
+aS'2 sweet gherkins, finely chopped'
+p2370
+aS' Kosher salt and freshly ground black pepper'
+p2371
+aS'2 tablespoons mayonnaise'
+p2372
+aS'1 teaspoon prepared wasabi'
+p2373
+aS' Kosher salt and freshly ground black pepper'
+p2374
+aS' Pickled ginger, for garnish'
+p2375
+aS'3 cucumber slices, cut into quarters, for garnish'
+p2376
+aS'2 tablespoons mayonnaise'
+p2377
+aS'1 teaspoon sesame oil'
+p2378
+aS'1 teaspoon toasted sesame seeds, plus more for garnish'
+p2379
+aS'1/2 small carrot, finely chopped'
+p2380
+aS' Kosher salt and freshly ground black pepper'
+p2381
+asg23
+S'http://foodnetwork.sndimg.com/content/dam/images/food/fullset/2015/8/22/0/VB0107H_Deviled-Eggs-Three-Ways_s4x3.jpg.rend.sni12col.landscape.jpeg'
+p2382
+sg25
+g2360
+sg26
+S'http://www.foodnetwork.com/recipes/valerie-bertinelli/deviled-eggs-three-ways.html'
+p2383
+sg28
+S'24 deviled eggs (12 servings)'
+p2384
+sg30
+S'Easy'
+p2385
+sg61
+S'15 min'
+p2386
+sg32
+S'20 min'
+p2387
+sg34
+S'For the hard-boiled eggs: Fill a large, deep saucepan with a tight-fitting lid with 2 inches of cold water. Place the eggs in it and bring to a boil over medium-high heat. Immediately turn off the heat and cover with the lid. Let sit for 12 minutes. Transfer to a colander and rinse under cold water.Once cooled, peel the eggs and slice in half lengthwise. Scoop out the yolks and place 4 yolks in each of 3 bowls. Mash well with a fork.Line a large serving platter with the greens.For the pickles and capers: Add the mayonnaise, chopped capers, mustard and gherkins to one of the bowls of yolks and mash together until thoroughly incorporated. Season with salt and pepper. Divide the filling among 8 egg halves. Top each with some capers and place on the platter.For the wasabi and ginger: Add the mayonnaise and wasabi to the second bowl of yolks and mash together. Season with salt and pepper. Divide the filling among 8 egg halves. Top each with a slice of pickled ginger and a small piece of cucumber and place on the platter.For the sesame carrot: Add the mayonnaise, sesame oil, sesame seeds and carrot to the remaining bowl of yolks and mash together. Season with salt and pepper. Divide the filling among the remaining 8 egg halves. Top each with more sesame seeds and place on the platter.'
+p2388
+sg36
+(lp2389
+S'Eggs'
+p2390
+aS'Appetizer'
+p2391
+assS'Ham, Apple and Cheddar Sliders'
+p2392
+(dp2393
+g5
+S'20 min'
+p2394
+sg9
+(lp2395
+S'1/4 cup dill pickle relish'
+p2396
+aS'2 tablespoons grainy mustard'
+p2397
+aS'1 tablespoon thinly sliced fresh chives'
+p2398
+aS'1 teaspoon honey'
+p2399
+aS'1/2 to 1 crisp apple, such as Gala or Pink Lady'
+p2400
+aS'1 tablespoon lemon juice'
+p2401
+aS'12 Hawaiian sweet rolls, split'
+p2402
+aS'4 ounces sharp Cheddar, sliced'
+p2403
+aS'8 ounces thinly sliced Black Forest ham'
+p2404
+aS'1 1/2 cups baby arugula'
+p2405
+asg23
+S'http://foodnetwork.sndimg.com/content/dam/images/food/fullset/2015/11/5/0/VB0201_Ham-Apple-and-Cheddar-Sliders_s3x4.jpg.rend.sni12col.landscape.jpeg'
+p2406
+sg25
+g2392
+sg26
+S'http://www.foodnetwork.com/recipes/valerie-bertinelli/ham-apple-and-cheddar-sliders.html'
+p2407
+sg28
+S'12 sliders'
+p2408
+sg30
+S'Easy'
+p2409
+sg32
+S'20 min'
+p2410
+sg34
+S'Stir the relish, mustard, chives and honey together in a small bowl.Cut the apple off its core and thinly slice into half-moons. Toss the apples with the lemon juice to keep them from browning.Spread the rolls on both sides with the relish mixture. Build sandwiches with the Cheddar, apples, ham and arugula.'
+p2411
+sg36
+(lp2412
+S'Ham'
+p2413
+aS'Appetizer'
+p2414
+assS'Mint Cucumber Soup'
+p2415
+(dp2416
+g5
+S'15 min'
+p2417
+sg9
+(lp2418
+S'2 English cucumbers'
+p2419
+aS'1 1/2 cups nonfat (0 percent) plain Greek yogurt'
+p2420
+aS'1/2 cup sour cream, plus more for swirling'
+p2421
+aS'1/4 cup extra-virgin olive oil, plus more for drizzling'
+p2422
+aS'2 tablespoons torn fresh mint leaves, plus more for garnish'
+p2423
+aS'3/4 teaspoon kosher salt'
+p2424
+aS'1/2 clove garlic, pushed through a press'
+p2425
+aS' White pepper, preferably freshly ground'
+p2426
+aS" Sliced almonds, toasted, for garnish (see Cook's Note)"
+p2427
+asg23
+S'http://foodnetwork.sndimg.com/content/dam/images/food/fullset/2015/8/22/0/VB0107H_Mint-Cucumber-Soup_s4x3.jpg.rend.sni12col.landscape.jpeg'
+p2428
+sg25
+g2415
+sg26
+S'http://www.foodnetwork.com/recipes/valerie-bertinelli/mint-cucumber-soup.html'
+p2429
+sg28
+S'4 to 6 servings'
+p2430
+sg30
+S'Easy'
+p2431
+sg32
+S'15 min'
+p2432
+sg34
+S"Cook\\'s Notes: To toast the sliced almonds on the stove top, put them in a dry skillet over medium heat and cook, stirring, until golden and fragrant. To toast them in the oven, spread in a single layer on a baking sheet and roast at 350 degrees F until golden and fragrant."
+p2433
+sg36
+(lp2434
+S'Cucumber'
+p2435
+aS'Appetizer'
+p2436
+aS'Soup'
+p2437
+assS'Pasta with Bacon and Tomatoes'
+p2438
+(dp2439
+g5
+S'55 min'
+p2440
+sg7
+S'30 min'
+p2441
+sg9
+(lp2442
+S' Kosher salt and freshly ground black pepper'
+p2443
+aS'2 pounds plum tomatoes (about 10)'
+p2444
+aS'6 strips thick-cut bacon, chopped'
+p2445
+aS'1 medium onion, halved and thinly sliced'
+p2446
+aS'1/2 cup dry white wine'
+p2447
+aS' Pinch of crushed red pepper flakes'
+p2448
+aS'12 ounces spaghetti'
+p2449
+aS'1/4 cup fresh flat-leaf parsley or basil, chopped'
+p2450
+aS' Grated Parmesan, for serving'
+p2451
+asg23
+S'http://foodnetwork.sndimg.com/content/dam/images/food/fullset/2015/11/15/1/VB0210H_Spaghetti-with-Bacon-and-Onion_s4x3.jpg.rend.sni12col.landscape.jpeg'
+p2452
+sg25
+g2438
+sg26
+S'http://www.foodnetwork.com/recipes/valerie-bertinelli/pasta-with-bacon-and-tomatoes.html'
+p2453
+sg28
+S'4 servings'
+p2454
+sg30
+S'Easy'
+p2455
+sg32
+S'25 min'
+p2456
+sg34
+S'Special equipment: Large pot, slotted spoon, paring knife, large skillet, bowlsBring a large pot of salted water to a boil. Hull the tomatoes and cut a shallow "x" through the skin on the bottom of each. Prepare an ice bath.Put the tomatoes in the boiling water and boil for 30 seconds. Remove with a slotted spoon and submerge in the ice bath. Reserve the pot of boiling water. When the tomatoes are cool, use the back of a paring knife to peel the tomatoes. Cut the tomatoes in half lengthwise and squeeze out and discard the seeds, then chop the tomatoes into approximately 1/2-inch pieces.Put the bacon in a large cold skillet and cook over medium heat, stirring occasionally, until crisp, about 10 minutes. Using a slotted spoon, transfer the bacon to a paper towel-lined plate. Discard all but about 2 tablespoons of the bacon fat from the skillet.Add the onion to the drippings in the skillet and cook over medium heat, stirring occasionally, until soft and pale golden, about 10 minutes. Add the wine and boil until reduced by half, about 3 minutes. Add the chopped tomatoes, red pepper flakes, 1/2 teaspoon salt and pepper to taste, and cook, stirring occasionally, until the tomatoes start to break down, about 5 minutes.Cook the spaghetti according to the package directions in the reserved pot of tomato water until al dente, about 10 minutes. Reserve 1 cup of the cooking water, then drain the pasta. Add the pasta to the skillet with the sauce, along with 1/2 cup of the cooking water and toss to coat. Add more water if necessary for desired consistency. Stir in half the bacon and half the herbs and season with salt and pepper. Divide the pasta and sauce among bowls and top with the remaining bacon and herbs. Serve with Parmesan for topping.'
+p2457
+sg36
+(lp2458
+S'Bacon'
+p2459
+aS'Main Dish'
+p2460
+aS'Pasta Dishes'
+p2461
+assS'Blue Cheese-Stuffed Olives Martini'
+p2462
+(dp2463
+g5
+S'15 min'
+p2464
+sg9
+(lp2465
+S'2 large green olives, pitted'
+p2466
+aS'1 teaspoon good-quality blue cheese, such as Roquefort'
+p2467
+aS'1 teaspoon dry vermouth'
+p2468
+aS'3 ounces vodka (just over 1/3 cup)'
+p2469
+asg23
+S'http://foodnetwork.sndimg.com/content/dam/images/food/fullset/2015/11/15/1/VB0211H_Martini-with-Blue-Cheese-Stuffed-Olives_s4x3.jpg.rend.sni12col.landscape.jpeg'
+p2470
+sg25
+g2462
+sg26
+S'http://www.foodnetwork.com/recipes/valerie-bertinelli/blue-cheese-stuffed-olives-martini.html'
+p2471
+sg28
+S'1 serving'
+p2472
+sg30
+S'Easy'
+p2473
+sg61
+S'10 min'
+p2474
+sg32
+S'5 min'
+p2475
+sg34
+S'Stuff the olives with the blue cheese.Add the vermouth to a martini glass and swirl to coat the glass. Freeze the glass until chilled, about 10 minutes.When ready to serve, add the vodka to a cocktail shaker filled with ice and shake well. Strain the vodka into the prepared martini glass and garnish with the olives.'
+p2476
+sg36
+(lp2477
+S'Vodka'
+p2478
+aS'Beverage'
+p2479
+aS'Martini'
+p2480
+assS'Cream Cheese Crab Spread with Homemade Crostini'
+p2481
+(dp2482
+g5
+S'1 hr 15 min'
+p2483
+sg9
+(lp2484
+S'8 ounces Neufchatel cheese or cream cheese, softened'
+p2485
+aS'1 pound fresh crabmeat, picked over for shells'
+p2486
+aS'4 tablespoons ketchup'
+p2487
+aS'4 tablespoons prepared horseradish'
+p2488
+aS' Juice of 1/2 lemon'
+p2489
+aS'1 teaspoon kosher salt'
+p2490
+aS' Freshly ground black pepper'
+p2491
+aS'2 tablespoons chopped fresh chives'
+p2492
+aS'1 clove garlic'
+p2493
+aS'1 baguette, sliced into 18 rounds and toasted'
+p2494
+asg23
+S'http://foodnetwork.sndimg.com/content/dam/images/food/fullset/2015/8/22/0/VB0106H_Cream-Cheese-Crab-Spread-with-Homemade-Crostini_s4x3.jpg.rend.sni12col.landscape.jpeg'
+p2495
+sg25
+g2481
+sg26
+S'http://www.foodnetwork.com/recipes/valerie-bertinelli/cream-cheese-crab-spread-with-homemade-crostini.html'
+p2496
+sg28
+S'18 servings'
+p2497
+sg30
+S'Easy'
+p2498
+sg61
+S'1 hr'
+p2499
+sg32
+S'15 min'
+p2500
+sg34
+S'Combine the cream cheese and all but 1/2 cup of the crabmeat in a medium bowl. Mix until thoroughly combined. Roll into an 8-inch log and refrigerate until firmed up slightly, about 1 hour. Refrigerate the remaining 1/2 cup crabmeat until serving.Meanwhile, combine the ketchup, horseradish, lemon juice, salt and some pepper in a medium bowl. Taste and adjust to your liking.Place the log on a serving platter. Spoon some of the sauce over it, reserving the remaining sauce in a small bowl to serve on the side. Sprinkle the reserved 1/2 cup crabmeat on top and garnish with the chives. Rub the garlic onto one side of each slice of bread and arrange the bread on the serving platter.'
+p2501
+sg36
+(lp2502
+S'Crab'
+p2503
+aS'Appetizer'
+p2504
+aS'Dip'
+p2505
+assS'Apricot Clafouti'
+p2506
+(dp2507
+g5
+S'1 hr 5 min'
+p2508
+sg7
+S'35 min'
+p2509
+sg9
+(lp2510
+S' Unsalted butter, for greasing the pie plate'
+p2511
+aS'2 large eggs, separated'
+p2512
+aS'1/3 cup plus 2 tablespoons sugar'
+p2513
+aS'3 tablespoons all-purpose flour'
+p2514
+aS'1/2 cup heavy cream'
+p2515
+aS'1 teaspoon vanilla extract'
+p2516
+aS'1/4 teaspoon kosher salt'
+p2517
+aS' Two 15.25-ounce cans apricots, drained and gently rinsed'
+p2518
+aS'1 teaspoon grated lemon zest'
+p2519
+aS' Lemon-Vanilla Whipped Cream, for topping, optional'
+p2520
+aS'1 1/2 cups heavy cream, chilled'
+p2521
+aS'2 tablespoons sugar'
+p2522
+aS'1 1/2 teaspoons vanilla extract'
+p2523
+aS'1/2 teaspoon grated lemon zest'
+p2524
+asg23
+S'http://foodnetwork.sndimg.com/content/dam/images/food/fullset/2015/11/8/1/VB0208H_Apricot-Claufouti_s4x3.jpg.rend.sni12col.landscape.jpeg'
+p2525
+sg25
+g2506
+sg26
+S'http://www.foodnetwork.com/recipes/valerie-bertinelli/apricot-clafouti.html'
+p2526
+sg28
+S'8 servings'
+p2527
+sg30
+S'Intermediate'
+p2528
+sg32
+S'30 min'
+p2529
+sg34
+S'Adapted from "One Dish at a Time: Delicious Recipes and Stories from My Italian-American Childhood and Beyond" by Valerie Bertinelli (c) Rodale 2012. Provided courtesy of Valerie Bertinelli. All rights reserved.'
+p2530
+sg36
+(lp2531
+S'Apricot'
+p2532
+aS'Dessert'
+p2533
+aS'Cake'
+p2534
+assS'Spicy Coconut Shrimp'
+p2535
+(dp2536
+g5
+S'40 min'
+p2537
+sg7
+S'25 min'
+p2538
+sg9
+(lp2539
+S'1 cup dry white wine'
+p2540
+aS'1 tablespoon tomato paste'
+p2541
+aS'4 cups chicken broth'
+p2542
+aS'1 bay leaf'
+p2543
+aS'1 sprig fresh rosemary'
+p2544
+aS'1 sprig fresh thyme'
+p2545
+aS'1 tablespoon fennel seeds'
+p2546
+aS'2 teaspoons cayenne'
+p2547
+aS'1 teaspoon celery seeds'
+p2548
+aS'1/2 teaspoon paprika'
+p2549
+aS' Kosher salt'
+p2550
+aS' Finely grated zest and juice of 1 small lemon'
+p2551
+aS' One 15-ounce can coconut milk'
+p2552
+aS'1 pound shrimp, peeled and deveined'
+p2553
+aS'4 tablespoons (1/2 stick) unsalted butter, cut into tablespoons'
+p2554
+aS'2 tablespoons chopped fresh parsley'
+p2555
+asg23
+S'http://foodnetwork.sndimg.com/content/dam/images/food/fullset/2015/11/8/1/VB0206H_Spicy-Coconut-Shrimp-Soup_s4x3.jpg.rend.sni12col.landscape.jpeg'
+p2556
+sg25
+g2535
+sg26
+S'http://www.foodnetwork.com/recipes/valerie-bertinelli/spicy-coconut-shrimp.html'
+p2557
+sg28
+S'4 servings'
+p2558
+sg30
+S'Easy'
+p2559
+sg32
+S'15 min'
+p2560
+sg34
+S'Whisk the wine and tomato paste together in a medium saucepan to dissolve the paste. Add the chicken broth, bay leaf, rosemary, thyme, fennel seeds, cayenne, celery seeds, paprika and 1 teaspoon salt. Bring to a boil over medium-high heat; reduce the heat and simmer until slightly reduced and very flavorful, about 15 minutes.Strain into a clean pot. Add the lemon zest, lemon juice and coconut milk and bring to a simmer. Add the shrimp; simmer until just cooked through, about 3 minutes. Remove from the heat and stir in the butter until melted. Add salt to taste.Serve in shallow bowls, topped with parsley.'
+p2561
+sg36
+(lp2562
+S'Shrimp'
+p2563
+aS'Appetizer'
+p2564
+assS'Grilled Corn and Bean Salad'
+p2565
+(dp2566
+g5
+S'1 hr'
+p2567
+sg7
+S'15 min'
+p2568
+sg9
+(lp2569
+S'4 fresh or frozen ears of corn, husks removed'
+p2570
+aS' One 15-ounce can black beans, rinsed and drained'
+p2571
+aS' One 15-ounce can chickpeas, rinsed and drained'
+p2572
+aS'1 cup loosely packed fresh cilantro leaves, chopped'
+p2573
+aS'1 green bell pepper, chopped'
+p2574
+aS'1 red bell pepper, chopped'
+p2575
+aS'1/2 red onion, chopped'
+p2576
+aS'1/2 jalapeno or serrano chile pepper, seeded and finely chopped (wear plastic gloves when handling)'
+p2577
+aS'1 teaspoon kosher salt'
+p2578
+aS' Freshly ground black pepper'
+p2579
+aS'1/2 cup freshly squeezed lime juice (from about 2 large or 4 small limes)'
+p2580
+aS'1 tablespoon sugar'
+p2581
+aS'2 teaspoons kosher salt'
+p2582
+aS'1 teaspoon red wine vinegar'
+p2583
+aS'1 teaspoon ground cumin'
+p2584
+aS' Pinch chili powder'
+p2585
+aS'2 cloves garlic, pushed through a press'
+p2586
+aS'1/4 cup extra-virgin olive oil'
+p2587
+aS' Hot sauce, preferably Crystal Hot Sauce'
+p2588
+asg23
+S'http://foodnetwork.sndimg.com/content/dam/images/food/fullset/2015/8/22/0/VB0109H_Grilled-Corn-and-Bean-Salad_s4x3.jpg.rend.sni12col.landscape.jpeg'
+p2589
+sg25
+g2565
+sg26
+S'http://www.foodnetwork.com/recipes/valerie-bertinelli/grilled-corn-and-bean-salad.html'
+p2590
+sg28
+S'12 to 14 servings'
+p2591
+sg30
+S'Easy'
+p2592
+sg61
+S'25 min'
+p2593
+sg32
+S'20 min'
+p2594
+sg34
+S'For the salad: Preheat a grill on high for 5 minutes. Reduce the heat to medium high and grill the corn, with the cover closed and turning occasionally, until some kernels are black, about 12 minutes. Remove and allow the corn to cool slightly.Using a sharp knife, cut off the kernels into a very large, deep serving bowl. (Hold the narrow end of the cob, point the other end into the bowl and cut downward, so that flying kernels are trapped by the bowl itself.) Add the black beans, chickpeas, cilantro, green and red bell peppers, onions, chile peppers, salt and pepper to taste to the bowl and toss.For the dressing: Whisk together the lime juice, sugar, salt, vinegar, cumin, chili powder, garlic and olive oil in a small bowl. Season to taste with hot sauce.Pour the dressing over the salad and toss to thoroughly coat. Let sit at room temperature for 20 minutes, toss again and serve. The salad can be made a day in advance, covered and refrigerated. Bring to room temperature before serving.'
+p2595
+sg36
+(lp2596
+S'Corn'
+p2597
+aS'Side Dish'
+p2598
+aS'Salad'
+p2599
+assS"Valerie's Irish Coffee"
+p2600
+(dp2601
+g5
+S'10 min'
+p2602
+sg9
+(lp2603
+S'2 tablespoons hot water'
+p2604
+aS'1 tablespoon brown sugar'
+p2605
+aS'1 shot Irish whiskey'
+p2606
+aS'2 to 2 1/2 shots hot espresso'
+p2607
+aS' Lemon-Vanilla Whipped Cream, recipe follows'
+p2608
+aS'1 1/2 cups heavy cream, chilled'
+p2609
+aS'2 tablespoons sugar'
+p2610
+aS'1 1/2 teaspoons vanilla extract'
+p2611
+aS'1/2 teaspoon grated lemon zest'
+p2612
+asg23
+S'http://foodnetwork.sndimg.com/content/dam/images/food/fullset/2015/11/8/1/VB0208H_Irish-Coffees_s4x3.jpg.rend.sni12col.landscape.jpeg'
+p2613
+sg25
+g2600
+sg26
+S'http://www.foodnetwork.com/recipes/valerie-bertinelli/valeries-irish-coffee.html'
+p2614
+sg28
+S'1 serving'
+p2615
+sg30
+S'Easy'
+p2616
+sg32
+S'10 min'
+p2617
+sg34
+S'Combine the hot water and brown sugar in a mug. Stir together until the brown sugar is melted. Stir in the whiskey and espresso. Top with several dollops of the whipped cream. Serve immediately with a spoon.'
+p2618
+sg36
+(lp2619
+S'Whisky'
+p2620
+aS'Beverage'
+p2621
+aS'Coffee Drinks'
+p2622
+assS'Avocado Open-Faced Sandwich'
+p2623
+(dp2624
+g5
+S'25 min'
+p2625
+sg9
+(lp2626
+S'1 cup whole-milk ricotta, drained'
+p2627
+aS'1 tablespoon capers, drained, rinsed and crushed'
+p2628
+aS'1 tablespoon extra-virgin olive oil (the good stuff)'
+p2629
+aS' Zest of 1/2 lemon plus 1 tablespoon lemon juice'
+p2630
+aS' Big pinch kosher salt'
+p2631
+aS' Freshly ground black pepper'
+p2632
+aS'1 small shallot, sliced'
+p2633
+aS'2 tablespoons sea salt flakes'
+p2634
+aS' Zest of 1 lemon'
+p2635
+aS'6 slices sourdough bread, toasted'
+p2636
+aS'1 avocado, sliced'
+p2637
+aS'2 to 3 heirloom tomatoes, sliced'
+p2638
+aS'2 tablespoons salted sunflower seeds'
+p2639
+asg23
+S'http://foodnetwork.sndimg.com/content/dam/images/food/fullset/2015/8/19/0/VB0105H_Avocado-Open-Faced-Sandwich_s4x3.jpg.rend.sni12col.landscape.jpeg'
+p2640
+sg25
+g2623
+sg26
+S'http://www.foodnetwork.com/recipes/valerie-bertinelli/avocado-open-faced-sandwich.html'
+p2641
+sg28
+S'6 servings'
+p2642
+sg30
+S'Easy'
+p2643
+sg61
+S'10 min'
+p2644
+sg32
+S'15 min'
+p2645
+sg34
+S'For the ricotta mixture: Add the ricotta, capers, olive oil, lemon zest and juice, salt and some pepper to a bowl. Set aside and allow the flavors to meld.For the layers: Add the shallots to a bowl, cover with ice water and soak for 10 minutes prior to using.Add the sea salt and lemon zest to a bowl and combine with your fingers.To build: Top each slice of bread with some of the ricotta mixture, 2 slices avocado, 3 slices tomato and some shallots, sunflower seeds and lemon salt to finish. Cut diagonally.'
+p2646
+sg36
+(lp2647
+S'Avocado'
+p2648
+aS'Main Dish'
+p2649
+aS'Sandwich'
+p2650
+assS'Watermelon and Mint Spritz for Kids'
+p2651
+(dp2652
+g5
+S'35 min'
+p2653
+sg7
+S'5 min'
+p2654
+sg9
+(lp2655
+S'6 cups watermelon cubes (1/2-inch pieces)'
+p2656
+aS'2 tablespoons lime juice'
+p2657
+aS'1/2 cup Simple Syrup, recipe follows'
+p2658
+aS'4 to 5 fresh mint leaves, plus more for garnish'
+p2659
+aS' Chilled sparkling water, for serving'
+p2660
+aS'1 cup sugar'
+p2661
+asg23
+S'http://foodnetwork.sndimg.com/content/dam/images/food/fullset/2015/8/19/0/VB0110H_Watermelon-and-Mint-Spritz-for-Kids_s4x3.jpg.rend.sni12col.landscape.jpeg'
+p2662
+sg25
+g2651
+sg26
+S'http://www.foodnetwork.com/recipes/valerie-bertinelli/watermelon-and-mint-spritz-for-kids.html'
+p2663
+sg28
+S'6 servings'
+p2664
+sg30
+S'Easy'
+p2665
+sg61
+S'20 min'
+p2666
+sg32
+S'10 min'
+p2667
+sg34
+S'Combine the sugar and 1 cup water in a small saucepan and bring to a boil. Cook, stirring, until the sugar dissolves. Remove from the heat and let cool completely. Keep covered in the refrigerator up to 1 month. Yield: 1 1/2 cups'
+p2668
+sg36
+(lp2669
+S'Watermelon'
+p2670
+aS'Mixed Drinks'
+p2671
+assS'Roasted Broccoli Rabe'
+p2672
+(dp2673
+g5
+S'35 min'
+p2674
+sg7
+S'25 min'
+p2675
+sg9
+(lp2676
+S'1 large bunch broccoli rabe, trimmed and cut into 1 1/2-inch pieces'
+p2677
+aS'1 pint cherry tomatoes'
+p2678
+aS'2 shallots, sliced'
+p2679
+aS' Olive oil'
+p2680
+aS' Kosher salt and freshly ground black pepper'
+p2681
+asg23
+S'http://foodnetwork.sndimg.com/content/dam/images/food/fullset/2015/11/15/1/VB0213H_Broccoli-Rabe_s4x3.jpg.rend.sni12col.landscape.jpeg'
+p2682
+sg25
+g2672
+sg26
+S'http://www.foodnetwork.com/recipes/valerie-bertinelli/roasted-broccoli-rabe.html'
+p2683
+sg28
+S'4 servings'
+p2684
+sg30
+S'Easy'
+p2685
+sg32
+S'10 min'
+p2686
+sg34
+S'Preheat the oven to 375 degrees F. Toss the broccoli rabe, tomatoes and shallots in enough olive oil to thoroughly coat. Sprinkle with some salt and pepper. Spread the vegetables onto 2 large baking sheets (avoid crowding the sheets). Roast until the tomatoes have burst and the broccoli rabe is browned around the edges and cooked through, about 25 minutes. Transfer to a platter or large bowl to serve.'
+p2687
+sg36
+(lp2688
+S'Tomato'
+p2689
+aS'Side Dish'
+p2690
+aS'Roasting'
+p2691
+assS'Roasted Cauliflower Steaks with Golden Raisins and Pine Nuts'
+p2692
+(dp2693
+g5
+S'40 min'
+p2694
+sg7
+S'25 min'
+p2695
+sg9
+(lp2696
+S'2 heads cauliflower, cut vertically into 1/2-inch-thick steaks (4 to 6 steaks total)'
+p2697
+aS' Extra-virgin olive oil, for drizzling'
+p2698
+aS' Kosher salt and freshly ground black pepper'
+p2699
+aS'2 tablespoons pine nuts'
+p2700
+aS'1/4 cup golden raisins'
+p2701
+aS'1 tablespoon butter'
+p2702
+aS'1/4 cup fresh parsley leaves'
+p2703
+asg23
+S'http://foodnetwork.sndimg.com/content/dam/images/food/fullset/2015/9/9/2/VB0104H_Roasted-Cauliflower-Steaks-with-Golden-Raisins-and-Pine-Nuts_s4x3.jpg.rend.sni12col.landscape.jpeg'
+p2704
+sg25
+g2692
+sg26
+S'http://www.foodnetwork.com/recipes/valerie-bertinelli/roasted-cauliflower-steaks-with-golden-raisins-and-pine-nuts.html'
+p2705
+sg28
+S'4 to 6 servings'
+p2706
+sg30
+S'Easy'
+p2707
+sg32
+S'15 min'
+p2708
+sg34
+S'Preheat the oven to 425 degrees F.Place the cauliflower steaks on a baking sheet. Drizzle with olive oil and sprinkle with salt and pepper on both sides. Transfer to the oven and bake until golden brown, 20 to 25 minutes, flipping after the first 10 minutes.Meanwhile, add the pine nuts to a dry medium saute pan and toast over medium heat until brown, about 3 minutes. Add the raisins and the butter, and season with salt. Cook until the butter has melted and coats the pine nuts and raisins. Off the heat, stir in the parsley.Transfer the roasted cauliflower to a serving platter. Pour the pine nut-raisin mixture over the top.'
+p2709
+sg36
+(lp2710
+S'Cauliflower'
+p2711
+aS'Side Dish'
+p2712
+aS'Roasting'
+p2713
+assS'Classic Gooey Brownies'
+p2714
+(dp2715
+g5
+S'1 hr 15 min'
+p2716
+sg7
+S'35 min'
+p2717
+sg9
+(lp2718
+S' Cooking spray'
+p2719
+aS'1 1/2 sticks (12 tablespoons) unsalted butter'
+p2720
+aS'4 ounces unsweetened chocolate'
+p2721
+aS'3 large eggs, room temperature'
+p2722
+aS'1 1/2 cups granulated sugar'
+p2723
+aS'1 teaspoon instant espresso powder'
+p2724
+aS'1 teaspoon vanilla extract'
+p2725
+aS'1 cup all-purpose flour'
+p2726
+aS'1 teaspoon kosher salt'
+p2727
+aS'1 1/2 cups dark chocolate chips'
+p2728
+aS'2 tablespoons buttermilk'
+p2729
+aS'1 tablespoon brewed coffee'
+p2730
+aS"1/2 cup confectioners' sugar"
+p2731
+aS'3 tablespoons unsweetened cocoa powder'
+p2732
+asg23
+S'http://foodnetwork.sndimg.com/content/dam/images/food/fullset/2015/11/15/1/VB0207H_Brownies_s4x3.jpg.rend.sni12col.landscape.jpeg'
+p2733
+sg25
+g2714
+sg26
+S'http://www.foodnetwork.com/recipes/valerie-bertinelli/classic-gooey-brownies.html'
+p2734
+sg28
+S'16 servings'
+p2735
+sg30
+S'Easy'
+p2736
+sg61
+S'30 min'
+p2737
+sg32
+S'10 min'
+p2738
+sg34
+S'Adapted from "One Dish at a Time: Delicious Recipes and Stories from My Italian-American Childhood and Beyond" by Valerie Bertinelli (c) Rodale 2012. Provided courtesy of Valerie Bertinelli. All rights reserved.'
+p2739
+sg36
+(lp2740
+S'Chocolate'
+p2741
+aS'Dessert'
+p2742
+aS'Brownie'
+p2743
+assS'Cheesy Sausage Snacks'
+p2744
+(dp2745
+g5
+S'30 min'
+p2746
+sg7
+S'20 min'
+p2747
+sg9
+(lp2748
+S' Oil, for greasing the baking sheets'
+p2749
+aS'3 cups biscuit mix, such as Bisquick'
+p2750
+aS'1 pound spicy sausage (uncooked)'
+p2751
+aS'1 tablespoon chopped fresh rosemary'
+p2752
+aS'8 ounces aged white Cheddar, grated'
+p2753
+aS'8 ounces sharp yellow Cheddar, grated'
+p2754
+aS'1 tablespoon hot sauce, such as Tabasco (or to taste)'
+p2755
+asg23
+S'http://foodnetwork.sndimg.com/content/dam/images/food/fullset/2015/12/1/3/VB0103_Cheesy-Sausage-Snacks_s4x3.jpg.rend.sni12col.landscape.jpeg'
+p2756
+sg25
+g2744
+sg26
+S'http://www.foodnetwork.com/recipes/valerie-bertinelli/cheesy-sausage-snacks.html'
+p2757
+sg28
+S'64 balls'
+p2758
+sg30
+S'Easy'
+p2759
+sg32
+S'10 min'
+p2760
+sg34
+S'Preheat the oven to 400 degrees F. Grease 2 baking or cookie sheets and set aside.Combine the biscuit mix, sausage and rosemary in a large bowl. Mix with your hands, then work in the white and yellow Cheddars and hot sauce. Form into balls the size of walnuts and place on the prepared baking sheets. Bake until cooked through, about 20 minutes. Serve warm.'
+p2761
+sg36
+(lp2762
+S'Sausage'
+p2763
+aS'Appetizer'
+p2764
+aS'Pastry'
+p2765
+asss.

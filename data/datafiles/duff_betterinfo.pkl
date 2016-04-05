@@ -1,0 +1,2792 @@
+(dp0
+S'Duff Goldman'
+p1
+(dp2
+S'Pumpkin Cream Pie with Gingersnap Crust and Rum Cheesecake Topping'
+p3
+(dp4
+S'total_time'
+p5
+S'5 hr 10 min'
+p6
+sS'cook_time'
+p7
+S'1 hr 20 min'
+p8
+sS'ingredients'
+p9
+(lp10
+S"3 1/2 cups gingersnap crumbs (see Cook's Note)"
+p11
+aS'5 to 6 tablespoons unsalted butter, melted'
+p12
+aS'2 cups low-fat milk'
+p13
+aS'3/4 cup brown sugar'
+p14
+aS'1/4 cup cornstarch'
+p15
+aS'2 large eggs'
+p16
+aS'1 cup pumpkin puree'
+p17
+aS'1/4 teaspoon salt'
+p18
+aS'10 ounces cream cheese, at room temperature'
+p19
+aS'1/3 cup granulated sugar'
+p20
+aS'1 tablespoon heavy whipping cream'
+p21
+aS'1 teaspoon rum extract'
+p22
+aS'1 large egg'
+p23
+aS' Pinch of ground nutmeg'
+p24
+aS' Pinch of ground cloves'
+p25
+aS' Pinch of ground cinnamon'
+p26
+aS'1 vanilla bean, split and seeds scraped'
+p27
+asS'img_link'
+p28
+S'http://foodnetwork.sndimg.com/content/dam/images/food/fullset/2014/10/30/0/DSS_pumpkin-cream-pie_s4x3.jpg.rend.sni12col.landscape.jpeg'
+p29
+sS'title'
+p30
+S'Pumpkin Cream Pie with Gingersnap Crust and Rum Cheesecake Topping'
+p31
+sS'page_link'
+p32
+S'http://www.foodnetwork.com/recipes/duff-goldman/pumpkin-cream-pie-with-gingersnap-crust-and-rum-cheesecake-topping0.html'
+p33
+sS'yield'
+p34
+S'8 to 10 servings'
+p35
+sS'difficulty_level'
+p36
+S'Intermediate'
+p37
+sS'inactive_time'
+p38
+S'3 hr 30 min'
+p39
+sS'prep_time'
+p40
+S'20 min'
+p41
+sS'directions'
+p42
+S'Special equipment: a 9-inch pie plate (preferably deep-dish) and pastry bagFor the gingersnap cookie crust: Preheat the oven to 350 degrees F.Place the gingersnap crumbs in a large bowl and drizzle half of the melted butter all over. Using your hand or a silicone spatula, mix thoroughly. Add more butter a little at a time until you can make a fist with the crumbs that retains its shape but is easily broken (not too dry, and not too wet).Press the crumbs tightly into a 9-inch pie plate. A deep pie plate is much more suited to this task.Bake until the crust feels quite firm to the touch, 20 to 25 minutes. Set aside and let cool.For the pumpkin filling: Whisk together the milk, brown sugar and cornstarch in a saucepan and bring to a boil. Boil for 3 minutes, whisking constantly.In a large bowl, beat the eggs. Gradually add half of the hot milk mixture to the eggs, whisking constantly. Pour the mixture back into the saucepan and cook over medium heat, stirring often, until thick, about 3 minutes. Remove from the heat and whisk in the pumpkin puree and salt. Pour into the pie shell and chill until set, 2 to 3 hours.For the rum cheesecake topping: Cream together the cream cheese and sugar in the bowl of a stand mixer. Add the cream, rum extract, egg, nutmeg, cloves and vanilla bean seeds. Mix until well combined. Use a silicone spatula to fill a pastry piping bag with the filling. Cut off the tip.Pipe the cheesecake over the pumpkin filling, minding not to get too close to the crumb crust. Use a spatula to smooth out the topping to just meet the crust edge, being careful not to drag crumbs over the surface. Bake until the top is glossy and the center still wiggles, about 45 minutes.'
+p43
+sS'categories'
+p44
+(lp45
+S'Pumpkin'
+p46
+aS'Dessert'
+p47
+aS'Pie'
+p48
+assS'Butterscotch-Bourbon Blondies'
+p49
+(dp50
+g5
+S'1 hr'
+p51
+sg7
+S'30 min'
+p52
+sg9
+(lp53
+S' Cooking spray'
+p54
+aS'1 1/2 cups all-purpose flour'
+p55
+aS'3/4 teaspoon baking powder'
+p56
+aS'1/2 teaspoon kosher salt'
+p57
+aS'1 stick (1/2 cup) butter, softened'
+p58
+aS'3/4 cup butterscotch chips'
+p59
+aS'3/4 cup lightly packed light brown sugar'
+p60
+aS'1 extra-large egg'
+p61
+aS'1/2 teaspoon pure vanilla extract'
+p62
+aS'1/4 cup bourbon'
+p63
+asg28
+S'http://foodnetwork.sndimg.com/content/dam/images/food/fullset/2015/12/16/3/FNM_010116-Butterscotch-Bourbon-Blondies-Recipe_s4x3.jpg.rend.sni12col.landscape.jpeg'
+p64
+sg30
+g49
+sg32
+S'http://www.foodnetwork.com/recipes/duff-goldman/butterscotch-bourbon-blondies.html'
+p65
+sg34
+S'About 25 cookies'
+p66
+sg40
+S'30 min'
+p67
+sg42
+S'Recipe from Duff Bakes: Think and Bake Like a Pro at Home by Duff Goldman and Sara Gonzales. Copyright (c) by Duff Goldman. Reprinted by permission of William Morrow, an imprint of HarperCollins Publishers.'
+p68
+sg44
+(lp69
+S'Bourbon'
+p70
+aS'Dessert'
+p71
+aS'Cookie'
+p72
+assS'Pralines'
+p73
+(dp74
+g5
+S'1 hr'
+p75
+sg7
+S'35 min'
+p76
+sg9
+(lp77
+S'1 1/2 cups granulated sugar'
+p78
+aS'3/4 cup lightly packed light brown sugar'
+p79
+aS'1 teaspoon kosher salt, plus another teaspoon for sprinkling'
+p80
+aS'1 1/2 cups chopped roasted pecans'
+p81
+aS'1/2 cup skim milk'
+p82
+aS'1 stick (1/2 cup) butter'
+p83
+aS'2 teaspoons bourbon'
+p84
+aS'1 teaspoon pure vanilla extract'
+p85
+aS' Candy thermometer'
+p86
+asg28
+S'http://foodnetwork.sndimg.com/content/dam/images/food/fullset/2015/12/16/3/FNM_010116-Pralines-Recipe_s4x3.jpg.rend.sni12col.landscape.jpeg'
+p87
+sg30
+g73
+sg32
+S'http://www.foodnetwork.com/recipes/duff-goldman/pralines.html'
+p88
+sg36
+S'Easy'
+p89
+sg40
+S'25 min'
+p90
+sg42
+S'Recipe from Duff Bakes: Think and Bake Like a Pro at Home by Duff Goldman and Sara Gonzales. Copyright (c) by Duff Goldman. Reprinted by permission of William Morrow, an imprint of HarperCollins Publishers.'
+p91
+sg44
+(lp92
+S'Dessert'
+p93
+assS'Gingerbread Boat and Men with Eggnog, Pistachio and Cherry Dip'
+p94
+(dp95
+g5
+S'3 hr 40 min'
+p96
+sg7
+S'50 min'
+p97
+sg9
+(lp98
+S' Nonstick cooking spray'
+p99
+aS'2 cups all-purpose flour, plus more for dusting'
+p100
+aS'2 teaspoons ground ginger'
+p101
+aS'1 1/2 teaspoons ground cinnamon'
+p102
+aS'1/2 teaspoon ground nutmeg'
+p103
+aS'1/4 teaspoon baking soda'
+p104
+aS'1/4 teaspoon ground cloves'
+p105
+aS'1/4 teaspoon salt'
+p106
+aS'1/2 cup (1 stick) unsalted butter, at room temperature'
+p107
+aS'1/3 cup brown sugar'
+p108
+aS'1/3 cup granulated sugar'
+p109
+aS'1/3 cup molasses'
+p110
+aS'1 large egg'
+p111
+aS'4 cups milk'
+p112
+aS'1/2 cup cornstarch'
+p113
+aS'10 large egg yolks'
+p114
+aS'1 cup granulated sugar'
+p115
+aS'4 tablespoons unsalted butter'
+p116
+aS'1 teaspoon pure vanilla extract'
+p117
+aS'1/2 teaspoon freshly grated nutmeg'
+p118
+aS' One 4-ounce jar amarena cherries, pureed'
+p119
+aS' Red gel color, optional'
+p120
+aS'2 tablespoons pure pistachio paste'
+p121
+aS' Green gel color, optional'
+p122
+aS'1 cup heavy cream, very cold'
+p123
+aS"2 pounds confectioners' sugar"
+p124
+aS'4 to 6 egg whites (1/2 to 3/4 cup)'
+p125
+aS' Candy, for decorating'
+p126
+asg36
+S'Intermediate'
+p127
+sg30
+g94
+sg32
+S'http://www.foodnetwork.com/recipes/duff-goldman/gingerbread-boat-and-men-with-eggnog-pistachio-and-cherry-dip.html'
+p128
+sg34
+S'8 to 10 servings'
+p129
+sg38
+S'2 hr 30 min'
+p130
+sg40
+S'20 min'
+p131
+sg42
+S'Contains Raw Eggs: The Food Network Kitchen suggest caution in consuming raw and lightly cooked eggs due to the slight risk of salmonella or other food-borne illness. To reduce this risk, we recommend you use only fresh, properly refrigerated, clean grade A or AA eggs with intact shells, and avoid contact between the yolks or whites and the shell. For recipes that call for eggs that are raw or undercooked when the dish is served, use shell eggs that have been treated to destroy salmonella, by pasteurization or another approved method.'
+p132
+sg44
+(lp133
+S'Dessert'
+p134
+aS'Cookie'
+p135
+assS'Andes Mint Cookies'
+p136
+(dp137
+g5
+S'45 min'
+p138
+sg7
+S'20 min'
+p139
+sg9
+(lp140
+S' Cooking spray'
+p141
+aS'2 1/2 cups all-purpose flour'
+p142
+aS'3/4 cup natural cocoa powder'
+p143
+aS'1 teaspoon baking soda'
+p144
+aS'1/2 teaspoon kosher salt'
+p145
+aS'2 sticks (1 cup) plus 2 tablespoons butter, softened'
+p146
+aS'1 cup granulated sugar'
+p147
+aS'1 cup lightly packed light brown sugar'
+p148
+aS'2 extra-large eggs'
+p149
+aS'1 teaspoon pure vanilla extract'
+p150
+aS'1 teaspoon peppermint extract'
+p151
+aS'1 cup chocolate chips'
+p152
+aS'1 cup mint chips (or chopped Andes Chocolate Mints)'
+p153
+asg28
+S'http://foodnetwork.sndimg.com/content/dam/images/food/fullset/2015/11/18/1/FNM_120115-Andes-Mint-Cookies-Recipe_s4x3.jpg.rend.sni12col.landscape.jpeg'
+p154
+sg30
+g136
+sg32
+S'http://www.foodnetwork.com/recipes/duff-goldman/andes-mint-cookies.html'
+p155
+sg34
+S'24 cookies'
+p156
+sg36
+S'Easy'
+p157
+sg38
+S'25 min'
+p158
+sg42
+S'Preheat the oven to 350 degrees F and lightly coat a baking sheet with cooking spray. Sift the flour, cocoa powder, baking soda and salt into a medium bowl and set aside.With a hand or stand mixer, cream the butter and both sugars until fluffy. Add the eggs, vanilla and peppermint extracts and mix well.Add the dry mixture to the butter mixture and mix well. Stir in the chocolate chips and mint chips.Roll the dough into 1 1/2-inch balls and place them on the prepared baking sheet. With two fingers, press the cookies down to about 1 inch thick, keeping the cookies about 2 inches apart.Bake for 15 to 18 minutes, or until not glossy. Let the cookies cool on a wire rack.Photograph by Jon Paterson/Studio D'
+p159
+sg44
+(lp160
+S'Chocolate'
+p161
+aS'Dessert'
+p162
+aS'Cookie'
+p163
+assS'Blueberry Cake Doughnuts'
+p164
+(dp165
+g5
+S'1 hr 5 min'
+p166
+sg7
+S'20 min'
+p167
+sg9
+(lp168
+S' Cooking spray'
+p169
+aS'1/3 stick butter, softened'
+p170
+aS'1 cup sugar'
+p171
+aS' Pinch of kosher salt'
+p172
+aS'1 teaspoon pure vanilla extract'
+p173
+aS'1 cup cake flour'
+p174
+aS'2 cups all-purpose flour'
+p175
+aS'1 teaspoon baking soda'
+p176
+aS'2 teaspoons baking powder'
+p177
+aS'2 extra-large eggs, plus 1 egg yolk'
+p178
+aS'1 pint (2 cups) frozen blueberries, thawed'
+p179
+aS'1 cup buttermilk'
+p180
+aS' Basic Sugar Glaze, recipe follows'
+p181
+aS'3 cups powdered sugar'
+p182
+aS'1/2 cup milk'
+p183
+aS' Pinch of kosher salt'
+p184
+aS'1 tablespoon pure vanilla extract'
+p185
+asg28
+S'http://foodnetwork.sndimg.com/content/dam/images/food/fullset/2015/10/16/2/FN_Duff-Goldman-Blueberry-Doughnuts_s4x3.jpg.rend.sni12col.landscape.jpeg'
+p186
+sg30
+g164
+sg32
+S'http://www.foodnetwork.com/recipes/duff-goldman/blueberry-cake-doughnuts.html'
+p187
+sg34
+S'2 dozen regular doughnuts or 48 mini doughnuts'
+p188
+sg36
+S'Easy'
+p189
+sg38
+S'30 min'
+p190
+sg40
+S'15 min'
+p191
+sg42
+S'Special equipment: doughnut pans (regular or mini) and a piping bagPreheat the oven to 350 degrees F and spray the doughnut pans liberally with cooking spray.In the bowl of a stand mixer fitted with the paddle attachment, cream the butter, sugar, salt, and vanilla until light and fluffy.In a separate bowl, whisk together the flours, baking soda, and baking powder.Add the eggs and yolk to the mixer and cream until blended.In 4 to 6 stages, alternately add the flour mixture and the buttermilk, mixing on medium-low the whole time and constantly scraping down the sides. Once the additions are done, turn the mixer to its lowest setting and gently add the blueberries, mixing just until evenly incorporated and the batter is a nice shade of blue.Fill a large piping bag with the batter and fill each well in the pans about two-thirds full.Bake for 18 to 20 minutes or until the dough springs back when poked for regular doughnuts, or 8 to 10 minutes for mini doughnuts.When cool, dip the doughnuts into the glaze and shake off the excess. Place them on a wire rack so the glaze soaks in and gets a little crunchy on the outside.'
+p192
+sg44
+(lp193
+S'Blueberry'
+p194
+aS'Dessert'
+p195
+aS'Doughnuts'
+p196
+assS'Tangy Corn Relish'
+p197
+(dp198
+g5
+S'58 min'
+p199
+sg7
+S'8 min'
+p200
+sg9
+(lp201
+S'2 ears corn'
+p202
+aS'3 tablespoons extra-virgin olive oil'
+p203
+aS'1 teaspoon ground cumin'
+p204
+aS' Kosher salt and freshly ground pepper'
+p205
+aS'1/2 cup chopped sweet piquante peppers'
+p206
+aS'1/2 small red onion, chopped'
+p207
+aS'1/4 cup finely chopped sweet gherkins'
+p208
+aS'1/4 cup chopped fresh parsley'
+p209
+aS'1 red jalapeno pepper, seeded and minced'
+p210
+aS'1/2 teaspoon sugar'
+p211
+asg28
+S'http://foodnetwork.sndimg.com/content/dam/images/food/fullset/2009/8/19/0/FNM100109DuffTailgating009_tangy-corn_s4x3.jpg.rend.sni12col.landscape.jpeg'
+p212
+sg30
+g197
+sg32
+S'http://www.foodnetwork.com/recipes/duff-goldman/tangy-corn-relish-recipe.html'
+p213
+sg34
+S'6 servings'
+p214
+sg36
+S'Easy'
+p215
+sg38
+S'30 min'
+p216
+sg40
+S'20 min'
+p217
+sg42
+S'Preheat a grill to medium-high. Brush the corn with 1 tablespoon olive oil and sprinkle with the cumin, and salt and pepper to taste. Grill until golden and toasted on all sides, 5 to 8 minutes, turning as needed. Combine the remaining 2 tablespoons oil, the sweet piquante peppers, onion, gherkins, parsley, jalapeno and sugar in a large bowl and season with salt and pepper. Slice the corn kernels off the cobs and toss with the relish. Cover and refrigerate for at least 30 minutes. Serve with grilled sausage.Photograph by Rick Lew'
+p218
+sg44
+(lp219
+S'Corn'
+p220
+aS'Lunch'
+p221
+aS'Grilling'
+p222
+assS'Pumpkin Chocolate Chip Cake with Buerre Noisette Buttercream for the Yule Log Tree Stump'
+p223
+(dp224
+g5
+S'40 min'
+p225
+sg7
+S'30 min'
+p226
+sg9
+(lp227
+S'1/4 cup unsalted butter, plus more for greasing the pans, softened'
+p228
+aS'1 1/4 cups sugar'
+p229
+aS'1 teaspoon vanilla extract'
+p230
+aS'2 large eggs'
+p231
+aS' One 15-ounce can pumpkin puree'
+p232
+aS'2 1/4 cups all-purpose flour'
+p233
+aS'2 1/2 teaspoons baking powder'
+p234
+aS'2 teaspoons ground cinnamon'
+p235
+aS'1/2 teaspoon ground nutmeg'
+p236
+aS'1/4 teaspoon ground cloves'
+p237
+aS'1/4 teaspoon salt'
+p238
+aS'1 1/2 cups chocolate chips'
+p239
+aS' Beurre Noisette Buttercream, recipe follows'
+p240
+asg28
+S'http://foodnetwork.sndimg.com/content/dam/images/food/fullset/2014/10/30/0/DSS_yule-log_s4x3.jpg.rend.sni12col.landscape.jpeg'
+p241
+sg30
+g223
+sg32
+S'http://www.foodnetwork.com/recipes/duff-goldman/pumpkin-chocolate-chip-cake-with-buerre-noisette-buttercream-for-the-yule-log-tree-stump.html'
+p242
+sg34
+S'8 to 10 servings'
+p243
+sg36
+S'Easy'
+p244
+sg40
+S'10 min'
+p245
+sg42
+S"Preheat the oven to 350 degrees F and grease two 9-inch round cake pans.In a stand mixer, cream together the butter and sugar until light and fluffy. Mix in the vanilla. Add the eggs one at a time, beating after each addition. Mix in the pumpkin puree.In a separate bowl, mix together the flour, baking powder, cinnamon, nutmeg, cloves and salt. Add the flour mixture to the pumpkin mixture and mix until thoroughly incorporated. Stir in the chocolate chips.Divide the batter between the pans and bake until a toothpick inserted in the center of each comes out clean, 25 to 30 minutes. Let cool for 10 minutes before flipping onto wire racks to cool completely. Spread the Beurre Noisette Buttercream on the top of one of the cake rounds and top with the other.Beurre Noisette Buttercream:1/2 cup (8 tablespoons) unsalted butter3 cups confectioners\\' sugar1 1/2 teaspoons vanilla extract3 to 4 tablespoons heavy cream or milk Melt the butter in 1-quart saucepan over medium heat. Continue cooking, stirring occasionally and watching closely, until the butter turns golden brown, 5 to 7 minutes. Remove from the heat. Cool completely.Combine the browned butter, confectioners\\' sugar and vanilla in a medium bowl. Beat at medi-um speed, gradually adding enough heavy cream for the desired spreading consistency. Yield: filling for one 9-inch cake"
+p246
+sg44
+(lp247
+S'Pumpkin'
+p248
+aS'Dessert'
+p249
+aS'Cake'
+p250
+assS'Elvis Cookies'
+p251
+(dp252
+g5
+S'40 min'
+p253
+sg7
+S'15 min'
+p254
+sg9
+(lp255
+S' Cooking spray'
+p256
+aS'3 cups sugar'
+p257
+aS'2 sticks (1 cup) butter, softened'
+p258
+aS'1 cup peanut butter (crunchy or smooth, your call)'
+p259
+aS'2 tablespoons molasses'
+p260
+aS'1 tablespoon pure vanilla extract'
+p261
+aS' Big pinch of baking powder'
+p262
+aS'2 teaspoons kosher salt'
+p263
+aS'3 very ripe bananas'
+p264
+aS'2 1/2 cups all-purpose flour'
+p265
+aS'1 1/4 cups chocolate chips'
+p266
+aS'5 ounces pretzels, smashed (about 3/4 cup pretzel crumbs)'
+p267
+aS'10 bacon strips, cooked crisp and chopped fine'
+p268
+asg28
+S'http://foodnetwork.sndimg.com/content/dam/images/food/fullset/2015/12/16/3/FNM_010116-Elvis-Cookies-Recipe_s4x3.jpg.rend.sni12col.landscape.jpeg'
+p269
+sg30
+g251
+sg32
+S'http://www.foodnetwork.com/recipes/duff-goldman/elvis-cookies.html'
+p270
+sg34
+S'about 50 cookies'
+p271
+sg36
+S'Easy'
+p272
+sg38
+S'10 min'
+p273
+sg40
+S'15 min'
+p274
+sg42
+S'Recipe from Duff Bakes: Think and Bake Like a Pro at Home by Duff Goldman and Sara Gonzales. Copyright (c) by Duff Goldman. Reprinted by permission of William Morrow, an imprint of HarperCollins Publishers.'
+p275
+sg44
+(lp276
+S'Peanut Butter'
+p277
+aS'Dessert'
+p278
+aS'Cookie'
+p279
+assS'Thanksgiving Pizza'
+p280
+(dp281
+g5
+S'50 min'
+p282
+sg7
+S'15 min'
+p283
+sg9
+(lp284
+S'1 pound pizza dough'
+p285
+aS' All-purpose flour, for dusting'
+p286
+aS'1 teaspoon cornmeal'
+p287
+aS'1 teaspoon extra-virgin olive oil'
+p288
+aS'1/2 teaspoon sugar'
+p289
+aS'3/4 cup mashed potatoes'
+p290
+aS'1/2 cup shredded cheddar cheese'
+p291
+aS'2 teaspoons whole milk'
+p292
+aS'1 cup prepared stuffing'
+p293
+aS'1 roasted turkey or chicken thigh, with skin'
+p294
+aS'1/4 cup chunky cranberry sauce'
+p295
+aS'1/4 cup gravy'
+p296
+asg28
+S'http://foodnetwork.sndimg.com/content/dam/images/food/fullset/2011/2/4/0/RX-FNM_030111-All-Star-Pizzas-013_s4x3.jpg.rend.sni12col.landscape.jpeg'
+p297
+sg30
+g280
+sg32
+S'http://www.foodnetwork.com/recipes/duff-goldman/thanksgiving-pizza-recipe.html'
+p298
+sg34
+S'one 12-inch pizza'
+p299
+sg36
+S'Easy'
+p300
+sg40
+S'35 min'
+p301
+sg42
+S'Put a pizza stone or upside-down baking sheet in the oven; preheat to 500 degrees F. Stretch the pizza dough into a 12-inch round on a floured surface. Dust a pizza peel or upside-down baking sheet with 1/2 teaspoon cornmeal and put the dough on top. Brush with the olive oil and sprinkle with the sugar and the remaining 1/2 teaspoon cornmeal. Slide onto the hot pizza stone or baking sheet and bake until golden on the bottom, 5 to 7 minutes.Meanwhile, mix the mashed potatoes with 1/4 cup cheese and the milk in a bowl; set aside. Roll tablespoonfuls of the stuffing into 1-inch balls to look like meatballs. Shred the turkey meat and julienne the skin.Slide the crust back onto the peel. Spread the cheddar mashed potatoes over the crust, then top with the shredded turkey. Spoon the cranberry sauce over the pizza and drizzle with the gravy. Arrange the stuffing balls on top and sprinkle with the remaining 1/4 cup cheese and the turkey skin.Return the pizza to the oven and bake until golden brown, 8 to 10 more minutes.Photograph by Con Poulos'
+p302
+sg44
+(lp303
+S'Turkey'
+p304
+aS'Pizza'
+p305
+aS'Easy'
+p306
+assS'Spiced Apple-Chestnut Hamantaschen'
+p307
+(dp308
+g5
+S'3 hr'
+p309
+sg7
+S'35 min'
+p310
+sg9
+(lp311
+S'2/3 cup plus 1 tablespoon granulated sugar'
+p312
+aS'2 tablespoons ground cinnamon'
+p313
+aS'1 cup (2 sticks) butter, at room temperature'
+p314
+aS'1 teaspoon vanilla extract'
+p315
+aS'1 egg'
+p316
+aS'2 1/4 cups all-purpose flour, plus more for dusting'
+p317
+aS'2 teaspoons salt'
+p318
+aS'1 cup packed chestnut meal (about 20 finely ground roasted chestnuts)'
+p319
+aS'1/2 cup dark brown sugar'
+p320
+aS'2 tablespoons butter'
+p321
+aS'2 teaspoons ground nutmeg'
+p322
+aS' Pinch salt'
+p323
+aS'3 pounds Granny Smith apples, peeled and finely diced'
+p324
+aS'1 1/2 cups cream sherry wine'
+p325
+aS'2 cups finely chopped toasted pecans'
+p326
+aS'2 1/2 cups applesauce'
+p327
+asg28
+S'http://foodnetwork.sndimg.com/content/dam/images/food/fullset/2015/11/18/0/HP0205_DSS-hamantaschen_s4x3.jpg.rend.sni12col.landscape.jpeg'
+p328
+sg30
+g307
+sg32
+S'http://www.foodnetwork.com/recipes/duff-goldman/spiced-apple-chestnut-hamantaschen.html'
+p329
+sg34
+S'45 cookies'
+p330
+sg36
+S'Easy'
+p331
+sg38
+S'2 hr'
+p332
+sg40
+S'25 min'
+p333
+sg42
+S'Special equipment: 3-inch round dough cutterFor the dough: In a small mixing bowl, combine 2 tablespoons water, 1 tablespoon of the granulated sugar and the cinnamon with a fork until it resembles wet sand. Set aside.In a stand mixer fitted with the paddle attachment, cream the butter and the remaining 2/3 cup granulated sugar until light in color. Beat in the vanilla and egg. Sift together the flour and salt. Slowly add the flour to the butter. Then add the chestnut meal and mix until a dough forms. With mixer on low speed, slowly add the cinnamon mixture 1 teaspoon at a time until all of the mixture is added. Mix until a swirl of the cinnamon sugar appears, about 10 seconds, and then turn the mixer off. Turn the dough out onto a sheet of plastic wrap and tightly wrap. Refrigerate the dough for at least 2 hours.For the filling: Melt the brown sugar, butter, nutmeg and salt in a large high-sided saute pan. Add the apples and cook over medium heat. Add the sherry, then reduce the heat to low, and cook until the apples are tender, about 15 minutes. Stir in the pecans, then remove from the heat and set aside to cool completely. Fold the applesauce into the cooked apple mixture.Preheat the oven to 350 degrees F and line a baking sheet with parchment paper.Dust a flat surface with flour. Roll the dough until 1/8- to 1/4-inch thick. Using a 3-inch round dough cutter, cut out as many circles as you can, re-rolling any excess dough until it is all used up. Add a heaping teaspoon of the filling to the center of each dough circle. Fold the sides of a circle in three parts, pinching corners together as you go, to create a triangle with a window of filling in the center. Repeat for the remaining cookies. Place the cookies 1-inch apart on the prepared baking sheet and bake until golden brown, 15 to 20 minutes. Cool the cookies before serving.'
+p334
+sg44
+(lp335
+S'Apple'
+p336
+aS'Dessert'
+p337
+aS'Cookie'
+p338
+assS'Danish with Goat Cheese and Pear Filling'
+p339
+(dp340
+g5
+S'2 hr 25 min'
+p341
+sg7
+S'15 min'
+p342
+sg9
+(lp343
+S'1 cup (2 sticks) unsalted butter, softened'
+p344
+aS'1/3 cup plus 3 1/2 cups all-purpose flour, plus more for dusting'
+p345
+aS' Two .24-ounce packages active dry yeast'
+p346
+aS'1 1/4 cups milk'
+p347
+aS'1/4 cup sugar'
+p348
+aS'1 teaspoon salt'
+p349
+aS'1 large egg'
+p350
+aS'1/2 teaspoon vanilla extract'
+p351
+aS'1 1/4 pounds goat cheese'
+p352
+aS'8 ounces cream cheese'
+p353
+aS'1/3 cup sugar'
+p354
+aS'1/2 teaspoon salt'
+p355
+aS'1 large egg yolk'
+p356
+aS'3 pears'
+p357
+aS'1/4 cup brandy'
+p358
+aS'1 tablespoon honey'
+p359
+aS'2 teaspoons ground cinnamon'
+p360
+aS'1 teaspoon ground nutmeg'
+p361
+aS'1/2 teaspoon ground cloves'
+p362
+aS'1 large egg'
+p363
+aS'2 tablespoons milk'
+p364
+asg28
+S'http://foodnetwork.sndimg.com/content/dam/images/food/fullset/2014/10/30/0/DSS_danish_s4x3.jpg.rend.sni12col.landscape.jpeg'
+p365
+sg30
+g339
+sg32
+S'http://www.foodnetwork.com/recipes/duff-goldman/danish-with-goat-cheese-and-pear-filling.html'
+p366
+sg34
+S'24 Danish'
+p367
+sg36
+S'Advanced'
+p368
+sg38
+S'1 hr 55 min'
+p369
+sg40
+S'15 min'
+p370
+sg42
+S'For the pastry: In the bowl of a stand mixer fitted with a paddle attachment, cream the butter and 1/3 cup of the flour until fluffy. Between two sheets of waxed paper, roll the butter mixture into a 6-by-12-inch rectangle. Place the sheet of butter in the refrigerator or freezer to chill thoroughly.In the bowl of a stand mixer fitted with a paddle attachment, combine the yeast  and 1 1/2 cups of the flour. In a saucepan, heat the milk, sugar and salt over medium heat to 115 to 120 degrees F (just slightly warm). Add it to the flour-yeast mixture. Add the egg and vanilla extract and mix on low speed, scraping the sides constantly, until just combined. Raise the speed to high and beat for 3 minutes. By hand, stir in the remaining 2 cups flour a bit at a time until it forms a medium-soft dough. Place the dough on a floured surface and knead until it feels elastic, about 5 minutes. Cover with plastic wrap and let rest 10 minutes.Roll out the dough on a floured surface to a 14-inch square. Remove the wax paper from the chilled pad of butter and place the pad on one half of the dough, leaving a 1-inch margin around the sides.  Fold the dough over and seal the butter in by pressing the edges of dough together firmly. Roll the rectangle out to a 20-by-12-inch rectangle. Fold it in thirds like you would a business letter. Again roll the rectangle out to a 20-by-12-inch rectangle. Repeat the folding and rolling out twice more, chilling the dough if the butter becomes too soft. Chill the dough for 30 minutes.Lightly roll out the dough on a floured surface and cut into 4-inch squares. Place them on an ungreased sheet tray and let them rise for 45 minutes.For the filling: While the dough squares are rising, make the filling. In the bowl of a stand mixer, cream together the goat cheese, cream cheese and sugar until well mixed. Add the salt and egg yolk and mix on high, scraping down the sides once or twice along the way. Set aside in the refrigerator.Preheat the oven to 425 degrees F.Slice the pears, skin and all, into thin 1/4-inch slices.  Cut these into 1/2-to-1-inch strips. Place in a nonstick skillet over medium heat and add the brandy, honey, cinnamon, nutmeg and cloves and saute until the pears are soft and the sauce around them thickens, about 5 minutes. Remove from the heat and set aside.For the egg wash: Whisk together the egg and milk. Set aside.To assemble the Danish: Take about a tablespoon of the cheese filling and place it in the middle of each square, elongating the dollop slightly from one corner to the opposite (do NOT get too close to the edges, the filling spreads as it cooks!). Place a few slices of pear on top of each cheese scoop. Using a pastry brush, lightly brush the margin of exposed dough around the filling with the egg wash. Gently bring the opposite corners (not the ones that the filling is stretching towards) to the middle and seal with a pinch. Once all of the pastries are sealed, give the tops a quick brush of egg wash. Bake until golden brown, 7 to 8 minutes. Serve warm.'
+p371
+sg44
+(lp372
+S'Goat Cheese'
+p373
+aS'Dessert'
+p374
+aS'Pastry'
+p375
+assS'Cinnamon Chess Pie'
+p376
+(dp377
+g5
+S'7 hr 45 min'
+p378
+sg7
+S'1 hr'
+p379
+sg9
+(lp380
+S'1 1/2 pounds all-purpose flour'
+p381
+aS'1/2 cup plus 2 tablespoons sugar'
+p382
+aS'1 teaspoon salt'
+p383
+aS'1 pound (4 sticks) cold butter, cubed'
+p384
+aS'1/4 cup heavy cream'
+p385
+aS'4 egg yolks'
+p386
+aS'1 1/2 cups (3 sticks) butter, at room temperature'
+p387
+aS'1 1/3 cups sugar'
+p388
+aS'4 egg yolks'
+p389
+aS'2 teaspoons vanilla extract'
+p390
+aS'1/4 teaspoon salt'
+p391
+aS'4 cups all-purpose flour'
+p392
+aS' Food coloring'
+p393
+aS'2 cups sugar'
+p394
+aS'5 whole eggs plus 2 egg yolks'
+p395
+aS'3/4 cup buttermilk'
+p396
+aS'2 tablespoons finely ground cornmeal'
+p397
+aS'1 1/2 tablespoons all-purpose flour'
+p398
+aS'2 teaspoons ground cinnamon'
+p399
+aS'1/2 teaspoon vanilla extract'
+p400
+aS'1/4 teaspoon salt'
+p401
+aS'1/2 cup brown butter, cooled'
+p402
+aS' Nonstick cooking spray'
+p403
+aS' All-purpose flour, for dusting'
+p404
+aS'1 egg, whisked'
+p405
+aS' Dragees, for garnish'
+p406
+aS' Edible glitter, for garnish'
+p407
+aS' Royal icing, for garnish'
+p408
+asg28
+S'http://foodnetwork.sndimg.com/content/dam/images/food/fullset/2015/10/30/0/FN_Cinnamon-Chess-Pie_s4x3.jpg.rend.sni12col.landscape.jpeg'
+p409
+sg30
+g376
+sg32
+S'http://www.foodnetwork.com/recipes/duff-goldman/cinnamon-chess-pie.html'
+p410
+sg34
+S'8 to 10 servings'
+p411
+sg36
+S'Intermediate'
+p412
+sg38
+S'6 hr'
+p413
+sg40
+S'45 min'
+p414
+sg42
+S'Special equipment: a 9-inch pie pan; a docker or fork; pie weights or dry beans; cookie cuttersFor the crust: In a stand mixer fitted with the paddle attachment, combine the flour, sugar and salt. With the mixer running, drop in the butter and mix until the mixture resembles wet sand. In a small bowl, whisk together the cream and yolks, then pour into the mixer and whip until just combined. Turn the dough out onto a clean cutting board and cut in half. Using your hands, gently push each half of dough into a disc and wrap each in plastic wrap. Refrigerate for at least 6 hours or up to overnight.For the cookie dough: In the bowl of a stand mixer fitted with the paddle attachment, beat the butter with the sugar. Beat in the egg yolks one at a time, then add the vanilla and salt. Add the flour, a little at a time, until incorporated. Divide the dough into small batches and color each with food coloring, as desired. Chill the dough for 1 hour before rolling.When ready to decorate the pie, roll the dough to 1/4-inch thick. Use cookie cutters or a knife to cut out shapes for decorating the pie.For the filling: In a large mixing bowl, whisk the sugar, eggs and yolks until the mixture turns a light, golden color. Then whisk in the buttermilk, cornmeal, flour, cinnamon, vanilla and salt. While whisking, slowly drizzle in the browned butter.For the pie: Preheat the oven to 400 degrees F. Spray a 9-inch pie pan with the cooking spray. Gently dust a clean work surface with flour, then place a pie dough disk on top and use a rolling pin to roll out the dough into a large circle, about 1/4-inch thick. Transfer the dough to the pie pan, then crimp the edges and prick the dough on the bottom with a docker or fork. Line the crust with parchment paper and fill with pie weights or dry beans to weigh the dough down. Bake until the dough just sets, 8 minutes. Remove the crust from the oven and reduce the oven temperature to 350 degrees F. Working quickly, use a pastry brush to brush the crust with egg wash. Carefully pour the filling into the crust. Bake the pie until set but slightly jiggly, about 35 minutes, covering the edges of the crust with foil to prevent burning after about 10 minutes.Add the cookie topper decorations to the pie, then bake for 10 minutes more. Check the pie at about 40 minutes total; the center should still have a jiggle to it, but it should seem mostly set. Cool completely before decorating the pie with dragees, glitter and icing.'
+p415
+sg44
+(lp416
+S'Eggs'
+p417
+aS'Dessert'
+p418
+aS'Pie'
+p419
+assS'Cherry Pie-Stuffed Chocolate Cake'
+p420
+(dp421
+g5
+S'50 min'
+p422
+sg7
+S'10 min'
+p423
+sg9
+(lp424
+S'4 boxes chocolate cake mix, baked, cooled and leveled'
+p425
+aS'3 cans store-bought whipped chocolate frosting'
+p426
+aS' Nonstick cooking spray'
+p427
+aS' All-purpose flour, for dusting'
+p428
+aS'1 pie crust, recipe follows or store-bought'
+p429
+aS' One 12-ounce can cherry pie filling'
+p430
+aS" Confectioners' sugar, for garnish"
+p431
+aS'1 1/2 pounds all-purpose flour'
+p432
+aS'1/2 cup plus 2 tablespoons sugar'
+p433
+aS'1 teaspoon salt'
+p434
+aS'1 pound (4 sticks) cold butter, cubed'
+p435
+aS'1/4 cup heavy cream'
+p436
+aS'4 egg yolks'
+p437
+asg28
+S'http://foodnetwork.sndimg.com/content/dam/images/food/fullset/2015/11/12/0/HP0203_Duff-stuffed-cake_s4x3.jpg.rend.sni12col.landscape.jpeg'
+p438
+sg30
+g420
+sg32
+S'http://www.foodnetwork.com/recipes/duff-goldman/cherry-pie-stuffed-chocolate-cake.html'
+p439
+sg34
+S'24 servings'
+p440
+sg36
+S'Intermediate'
+p441
+sg40
+S'40 min'
+p442
+sg42
+S'In a stand mixer fitted with a paddle attachment, combine the flour, sugar and salt.  Slowly drop in the cubed butter and mix until the mixture resembles wet sand. In a small bowl whisk together the egg yolks and heavy cream, then pour the mixture into the bowl of the stand mixer and whip until just combined. Turn the dough out onto a clean cutting board and cut in half. Using your hands, gently push each half of dough into a disc and wrap each in plastic wrap. Refrigerate for at least 6 hours or up to overnight. Yield: 2 pie crusts.'
+p443
+sg44
+(lp444
+S'Chocolate'
+p445
+aS'Dessert'
+p446
+aS'Cake'
+p447
+assS'Rosemary-Garlic Potato Bread'
+p448
+(dp449
+g5
+S'5 hr 30 min'
+p450
+sg7
+S'1 hr 45 min'
+p451
+sg9
+(lp452
+S'2 large russet potatoes, well-baked and still warm, recipe follows'
+p453
+aS'1 garlic head, roasted and still warm, recipe follows'
+p454
+aS'2 (1/4-ounce) envelopes active dry yeast'
+p455
+aS'2 tablespoons sugar'
+p456
+aS'3 tablespoons olive oil, plus extra for brushing'
+p457
+aS'2 teaspoons kosher salt, plus more for sprinkling'
+p458
+aS'4 cups all-purpose flour, plus more as needed'
+p459
+aS'4 cups bread flour'
+p460
+aS'1 1/2 tablespoons chopped fresh rosemary'
+p461
+aS'2 large russet potatoes'
+p462
+aS' Olive oil'
+p463
+aS' Kosher salt and freshly ground black pepper'
+p464
+aS'1 garlic head'
+p465
+aS' Olive oil'
+p466
+asg28
+S'http://foodnetwork.sndimg.com/content/dam/images/food/fullset/2015/10/16/2/FN_Duff-Goldman-Potato-Rosemary-Potato-Bread_s3x4.jpg.rend.sni12col.landscape.jpeg'
+p467
+sg30
+g448
+sg32
+S'http://www.foodnetwork.com/recipes/duff-goldman/rosemary-garlic-potato-bread.html'
+p468
+sg34
+S'2 loaves'
+p469
+sg36
+S'Intermediate'
+p470
+sg38
+S'3 hr 15 min'
+p471
+sg40
+S'30 min'
+p472
+sg42
+S"You should know how to roast garlic \\u2014 it may save your life one day. Heat the oven to 425 degrees F. Chop off the pointy end of the head of the garlic and expose the cloves. Drizzle olive oil right onto the exposed garlic, wrap it tightly with aluminum foil, place on a baking sheet, and roast for 35 to 40 minutes. Really, though, don\\'t time it \\u2014 just roast them until they smell amazing. You\\'ll know it when you smell it. You\\'ll also know very quickly if you over-roast it \\u2014 it\\'ll smell awful and burnt. Throw that crap away and start over."
+p473
+sg44
+(lp474
+S'Potato'
+p475
+aS'Side Dish'
+p476
+aS'Bread Dishes'
+p477
+assS'Trick Foods'
+p478
+(dp479
+g30
+g478
+sg28
+S'http://foodnetwork.sndimg.com/content/dam/images/food/fullset/2009/10/15/0/0132682_Duff-cuts-sausage-fingers_s4x3.jpg.rend.sni12col.landscape.jpeg'
+p480
+sg9
+(lp481
+S'1 pound spaghetti'
+p482
+aS'1 jar thick and chunky salsa'
+p483
+aS' Grapes (big plump grapes work best)'
+p484
+aS' Olive oil, enough to cover grapes'
+p485
+aS'1 block firm tofu'
+p486
+aS' Olive oil (to touch)'
+p487
+aS'2 eggs'
+p488
+aS'1 can Vienna sausages'
+p489
+aS" Pumpkin seeds, dried (the smaller and flatter they are, the better. You can use the seeds from your jack o' lantern!)"
+p490
+aS" Geoff's piping gel (Duff doesn't suggest a substitute ingredient if you don't have access to piping gel. It looks like vaseline.)"
+p491
+aS' A few dashes olive oil'
+p492
+asg32
+S'http://www.foodnetwork.com/recipes/duff-goldman/trick-foods-recipe.html'
+p493
+sg42
+S'Cut the pumpkin seeds in half (Duff doesn\\\'t say which way, but he does say this is dangerous). MAKE SURE MOM OR DAD CUTS THE PUMPKIN SEEDS! THIS IS NOT A STEP FOR KIDS. Make a small slit at 1 end of each of the Vienna sausages. Stick a pumpkin seed into each slit so that it will feel like a fingernail.Arrange the severed fingers in a bowl. Spoon some slimy, gooey piping gel over the fingers. Pour on a healthy dash of olive oil. Very gently, use your fingers to coat the sausages in the oil and the gel so it feels like they\\\'re floating in "gooey, congealed blood."This recipe was provided by professional chefs and has been scaled down from a bulk recipe provided by a restaurant. The Food Network Kitchens chefs have not tested this recipe, in the proportions indicated, and therefore, we cannot make any representation as to the results.'
+p494
+sg44
+(lp495
+S'Grapes'
+p496
+aS'Lunch'
+p497
+aS'Pasta Dishes'
+p498
+assS'Purple Potato Salad'
+p499
+(dp500
+g5
+S'30 min'
+p501
+sg7
+S'10 min'
+p502
+sg9
+(lp503
+S'2 pounds purple-skinned fingerling potatoes, quartered lengthwise'
+p504
+aS'1 head garlic, halved crosswise'
+p505
+aS' Pinch of red pepper flakes'
+p506
+aS'5 tablespoons apple cider vinegar'
+p507
+aS' Kosher salt'
+p508
+aS'1 red onion, halved and thinly sliced'
+p509
+aS'1 teaspoon sugar'
+p510
+aS'1/2 cup mayonnaise'
+p511
+aS'4 tablespoons sour cream'
+p512
+aS'1/3 cup horseradish, drained'
+p513
+aS'2 stalks celery, thinly sliced'
+p514
+aS'4 half-sour dill or sweet pickles, diced'
+p515
+aS'3 tablespoons chopped fresh dill'
+p516
+aS'2 tablespoons chopped fresh parsley'
+p517
+aS' Freshly ground pepper'
+p518
+asg28
+S'http://foodnetwork.sndimg.com/content/dam/images/food/fullset/2009/8/13/3/FNM100109DuffTailgating011_s4x3.jpg.rend.sni12col.landscape.jpeg'
+p519
+sg30
+g499
+sg32
+S'http://www.foodnetwork.com/recipes/duff-goldman/purple-potato-salad-recipe.html'
+p520
+sg34
+S'4 servings'
+p521
+sg36
+S'Easy'
+p522
+sg40
+S'20 min'
+p523
+sg42
+S'Combine the potatoes, garlic, red pepper flakes, 1 tablespoon vinegar and 1 tablespoon salt in a medium saucepan and cover with water. Bring to a boil over medium-high heat, then simmer, uncovered, until the potatoes are tender but not mushy, 7 to 10 minutes. Add the onion and cook until almost tender, about 1 more minute. Drain, discarding the garlic. Let the potatoes cool.Whisk the remaining 4 tablespoons vinegar, the sugar and 1 teaspoon salt in a large bowl. Mix in the mayonnaise, sour cream and horseradish. Add the celery and pickles, then gently fold in the potatoes and chopped herbs. Season with salt and pepper. Cover and refrigerate until serving.Photograph by Rick Lew'
+p524
+sg44
+(lp525
+S'Potato'
+p526
+aS'Lunch'
+p527
+aS'Salad'
+p528
+assS'Sugar and Spice Panna Cotta'
+p529
+(dp530
+g5
+S'4 hr 40 min'
+p531
+sg7
+S'30 min'
+p532
+sg9
+(lp533
+S'6 tablespoons unsalted butter, softened'
+p534
+aS'1/3 cup granulated sugar'
+p535
+aS'1/2 teaspoon vanilla extract'
+p536
+aS'1/4 teaspoon salt'
+p537
+aS'1 large egg'
+p538
+aS'1 cup all-purpose flour'
+p539
+aS'1/2 to 1 teaspoon ground cinnamon'
+p540
+aS'1/2 teaspoon grated nutmeg'
+p541
+aS'1 teaspoon ground cloves'
+p542
+aS'1/2 cup butterscotch morsels'
+p543
+aS'1 to 2 tablespoons heavy cream'
+p544
+aS'1 tablespoon light corn syrup'
+p545
+aS'1 cup heavy cream'
+p546
+aS'1 teaspoon vanilla extract'
+p547
+aS'1 packet powdered gelatin'
+p548
+aS'1/4 cup Irish cream liqueur'
+p549
+aS'1 1/2 cups heavy cream'
+p550
+aS'3 tablespoons packed brown sugar'
+p551
+aS'1/2 teaspoon maple extract'
+p552
+aS'1/4 teaspoon vanilla extract'
+p553
+aS'1 1/2 teaspoons powdered gelatin'
+p554
+aS'1 cup heavy cream'
+p555
+aS'5 tablespoons honey'
+p556
+aS'1 1/2 teaspoons powdered gelatin'
+p557
+aS'1 cup milk'
+p558
+aS'4 gingersnap cookies, for garnish'
+p559
+asg28
+S'http://foodnetwork.sndimg.com/content/dam/images/food/fullset/2014/10/30/0/DSS_panna-cotta_s4x3.jpg.rend.sni12col.landscape.jpeg'
+p560
+sg30
+S'Sugar and Spice Panna Cotta'
+p561
+sg32
+S'http://www.foodnetwork.com/recipes/duff-goldman/sugar-and-spice-panna-cotta0.html'
+p562
+sg34
+S'4 servings'
+p563
+sg36
+S'Intermediate'
+p564
+sg38
+S'3 hr 40 min'
+p565
+sg40
+S'30 min'
+p566
+sg42
+S'The final (top) layer will be the honey panna cotta. Heat the heavy cream and honey in a small saucepan over medium heat until it comes to just a boil. Remove from the heat and whisk in the gelatin until dissolved completely and no lumps remain, at least 1 to 1 1/2 minutes. Whisk in the milk.Making sure the other layers are completely set, divide the honey liquid among your 4 glasses. Let set up for 5 minutes, then add your coated clove spice cookies. Let the final layer set up for at least an hour.We garnished each serving with a gingersnap cookie for a beautiful, rich holiday dessert.'
+p567
+sg44
+(lp568
+S'Dairy'
+p569
+aS'Dessert'
+p570
+aS'Cookie'
+p571
+assS'Sweet-Hot Cabbage Relish'
+p572
+(dp573
+g5
+S'35 min'
+p574
+sg7
+S'20 min'
+p575
+sg9
+(lp576
+S'2 teaspoons vegetable oil'
+p577
+aS'1/2 small red onion, thinly sliced'
+p578
+aS'1 large clove garlic, smashed'
+p579
+aS' Kosher salt'
+p580
+aS'1/4 head red cabbage, thinly sliced'
+p581
+aS'1/2 cup apple cider'
+p582
+aS'2 tablespoons apple cider vinegar'
+p583
+aS'1 teaspoon sugar'
+p584
+aS' Freshly ground pepper'
+p585
+aS'1/4 small jicama, peeled and grated'
+p586
+aS'2 tablespoons beet horseradish, drained'
+p587
+aS'2 tablespoons chopped fresh dill'
+p588
+asg28
+S'http://foodnetwork.sndimg.com/content/dam/images/food/fullset/2009/8/19/0/FNM100109DuffTailgating009_sweet-hot-cabbage-relish_s4x3.jpg.rend.sni12col.landscape.jpeg'
+p589
+sg30
+g572
+sg32
+S'http://www.foodnetwork.com/recipes/duff-goldman/sweet-hot-cabbage-relish-recipe.html'
+p590
+sg34
+S'6 servings'
+p591
+sg36
+S'Easy'
+p592
+sg40
+S'15 min'
+p593
+sg42
+S'Heat the oil in a medium saucepan over medium heat. Add the onion, garlic and 1 teaspoon salt and cook, stirring occasionally, until the onion is soft but not brown, about 5 minutes. Add the cabbage, cider, vinegar, sugar, and pepper to taste. Cover and simmer until the cabbage is tender, about 20 minutes. Mix in the jicama, beet horseradish and dill; season with salt and pepper. Cool to room temperature. Serve with grilled sausage (left).Photograph by Rick Lew.'
+p594
+sg44
+(lp595
+S'Cabbage'
+p596
+aS'Lunch'
+p597
+aS'Easy'
+p598
+assS'Hamentashen'
+p599
+(dp600
+g5
+S'1 hr'
+p601
+sg7
+S'30 min'
+p602
+sg9
+(lp603
+S'4 cups flour'
+p604
+aS'2 teaspoons baking powder'
+p605
+aS'1/4 teaspoon kosher salt'
+p606
+aS'2/3 cup vegetable oil'
+p607
+aS'2 large eggs plus 1 large egg yolk'
+p608
+aS'1 cup sugar'
+p609
+aS' Zest of 1 lemon'
+p610
+aS' Juice of 1/2 lemon'
+p611
+aS' Juice of 1/2 orange'
+p612
+aS'2 tablespoons brandy'
+p613
+aS' Raspberry or apricot preserves, or Poppy Seed Filling, recipe follows, for filling'
+p614
+aS'1 egg, lightly beaten'
+p615
+aS'1/2 cup raisins'
+p616
+aS'3/4 cup fresh poppy seeds'
+p617
+aS'1/2 cup milk'
+p618
+aS'4 to 5 tablespoons sugar'
+p619
+aS' Pinch salt'
+p620
+aS'1/4 cup honey'
+p621
+aS'1 teaspoon lemon zest plus 1/2 teaspoon of the juice'
+p622
+aS'1 slightly beaten egg'
+p623
+asg28
+S'http://foodnetwork.sndimg.com/content/dam/images/food/fullset/2011/11/12/0/12-Days-of-Cookies_hamentaschen-008_s4x3.jpg.rend.sni12col.landscape.jpeg'
+p624
+sg30
+g599
+sg32
+S'http://www.foodnetwork.com/recipes/duff-goldman/hamentashen-recipe.html'
+p625
+sg34
+S'about 3 dozen'
+p626
+sg36
+S'Intermediate'
+p627
+sg40
+S'30 min'
+p628
+sg42
+S"Cook\\'s Note: poppy seeds go rancid quickly after opening.Combine everything except the lemon zest and juice and the beaten egg into a saucepan and cook over moderate heat until thick, 10 to 15 minutes. Stir often. Add zest and juice. Take a bit of the filling and mix it into the beaten egg. Repeat, then mix the egg mixture into the pot of filling. Cool overnight. Makes enough to fill 2 1/2 dozen Hamentashen.There are about 45 calories to an average hamentashen2g fat7mg cholesterol8mg sodium5.5g carbnegligent fiber1.5g sugar1/2 g protein"
+p629
+sg44
+(lp630
+S'Dessert'
+p631
+aS'Cookie'
+p632
+aS'Baking'
+p633
+assS'Pumpkin Chocolate Chip Cake with Beurre Noisette Buttercream for the Yule Log Tree Stump'
+p634
+(dp635
+g5
+S'40 min'
+p636
+sg7
+S'30 min'
+p637
+sg9
+(lp638
+S'1/4 cup unsalted butter, plus more for greasing the pans, softened'
+p639
+aS'1 1/4 cups sugar'
+p640
+aS'1 teaspoon vanilla extract'
+p641
+aS'2 large eggs'
+p642
+aS' One 15-ounce can pumpkin puree'
+p643
+aS'2 1/4 cups all-purpose flour'
+p644
+aS'2 1/2 teaspoons baking powder'
+p645
+aS'2 teaspoons ground cinnamon'
+p646
+aS'1/2 teaspoon ground nutmeg'
+p647
+aS'1/4 teaspoon ground cloves'
+p648
+aS'1/4 teaspoon salt'
+p649
+aS'1 1/2 cups chocolate chips'
+p650
+aS' Beurre Noisette Buttercream, recipe follows'
+p651
+aS'1/2 cup (8 tablespoons) unsalted butter'
+p652
+aS"3 cups confectioners' sugar"
+p653
+aS'1 1/2 teaspoons vanilla extract'
+p654
+aS'3 to 4 tablespoons heavy cream or milk'
+p655
+asg28
+S'http://foodnetwork.sndimg.com/content/dam/images/food/fullset/2014/10/30/0/DSS_yule-log_s4x3.jpg.rend.sni12col.landscape.jpeg'
+p656
+sg30
+g634
+sg32
+S'http://www.foodnetwork.com/recipes/duff-goldman/pumpkin-chocolate-chip-cake-with-beurre-noisette-buttercream-for-the-yule-log-tree-stump.html'
+p657
+sg34
+S'8 to 10 servings'
+p658
+sg36
+S'Easy'
+p659
+sg40
+S'10 min'
+p660
+sg42
+S"Melt the butter in 1-quart saucepan over medium heat. Continue cooking, stirring occasionally and watching closely, until the butter turns golden brown, 5 to 7 minutes. Remove from the heat. Cool completely.Combine the browned butter, confectioners\\' sugar and vanilla in a medium bowl. Beat at medi-um speed, gradually adding enough heavy cream for the desired spreading consistency. Yield: filling for one 9-inch cake"
+p661
+sg44
+(lp662
+S'Pumpkin'
+p663
+aS'Dessert'
+p664
+aS'Cake'
+p665
+assS'Madeleine Wreath with Sour Cherry Mousse'
+p666
+(dp667
+g5
+S'1 hr 20 min'
+p668
+sg7
+S'20 min'
+p669
+sg9
+(lp670
+S' Nonstick cooking spray'
+p671
+aS'2 cups flour, plus more for dusting'
+p672
+aS'4 eggs'
+p673
+aS'1 1/3 cups granulated sugar'
+p674
+aS'1 1/2 teaspoons lemon zest'
+p675
+aS'1 1/2 teaspoons vanilla extract'
+p676
+aS'1/4 teaspoon salt'
+p677
+aS'1 1/4 cups (2 1/2 sticks) melted butter'
+p678
+aS'1/2 teaspoon green gel food coloring, plus more if needed'
+p679
+aS' Two 8-ounce packages cream cheese, at room temperature'
+p680
+aS"3/4 cup confectioners' sugar, plus more for garnish"
+p681
+aS'1/2 cup sour cherries packed in syrup, chopped, plus 6 tablespoons syrup'
+p682
+aS'1 teaspoon kirsch, optional'
+p683
+aS'1/2 teaspoon vanilla extract'
+p684
+aS'1 cup heavy cream'
+p685
+aS' Maraschino cherries, for garnish'
+p686
+aS' Red modeling chocolate, for garnish'
+p687
+asg28
+S'http://foodnetwork.sndimg.com/content/dam/images/food/fullset/2015/11/6/1/FN_Madeleine-Wreath-with-Sour-Cherry-Mousse_s4x3.jpg.rend.sni12col.landscape.jpeg'
+p688
+sg30
+g666
+sg32
+S'http://www.foodnetwork.com/recipes/duff-goldman/madeleine-wreath-with-sour-cherry-mousse.html'
+p689
+sg34
+S'12 to 15 servings'
+p690
+sg36
+S'Intermediate'
+p691
+sg38
+S'30 min'
+p692
+sg40
+S'30 min'
+p693
+sg42
+S'Special equipment: madeleine molds, a pizza cutter and a cardboard paper towel rollFor the madeleines: Preheat the oven to 375 degrees F. Lightly spray the madeleine molds with cooking spray and then dust with flour.In a stand mixer fitted with the paddle attachment, whip the eggs until fluffy, about 5 minutes. Add in the granulated sugar and lightly mix to combine. Slowly beat in the lemon zest, vanilla and salt. Then, with the mixer running on very low speed, slowly add in the flour, a little at a time, until incorporated. Still running on a low speed, drizzle in the melted butter. Add the food coloring and mix until fully incorporated and there are no streaks, adding more coloring as needed.Use a tablespoon measure to spoon the batter into the madeleine molds, about 40 in total. Use a small offset spatula to smooth the batter so that it fills each mold. Bake until cooked through and spongy, 14 to 16 minutes, checking throughout to avoid browned edges. Cool the madeleines completely on a cooling rack.For the mousse: In the bowl of a stand mixer fitted with the whisk attachment, cream together the cream cheese and 1/2 cup of the confectioners\\\' sugar until light, fluffy and smooth. With the mixer on low speed, add the cherry syrup, kirsch if using and the vanilla, scraping down the sides of the bowl as needed. When fully combined, stop the mixer.In a large mixing bowl using a hand mixer or a stand mixer fitted with the whisk attachment, whisk the heavy cream. Once the cream reaches the soft peak stage, add the remaining 1/4 cup confectioners\\\' sugar and continue mixing until stiff peaks form. Using a rubber spatula, fold one-third of the whipped cream into the cream cheese to loosen the mixture. Then gently fold in the remaining whipped cream, being careful to avoid deflating the whipped cream. Once combined, fold in the sour cherries.Transfer the mousse to a large piping bag and cut off the corner. On a large platter or clean cutting board, pipe a thick circle of mousse to act as glue. Layer the madeleines in a circle so that they look like leaves on a wreath. Pipe more mousse and place the madeleines overlapping to layer the "leaves." Place some maraschino cherries throughout the madeleines as "berries." Roll the modeling chocolate to 1/4-inch thick to create a red ribbon. Use a pizza cutter to slice 6 strips of the chocolate, and then wrap the strips around a cardboard paper towel roll. Dab with some water to seal the edges. Place the chocolate ribbon at the top of the wreath in a bow shape, then serve.'
+p694
+sg44
+(lp695
+S'Cherry'
+p696
+aS'Dessert'
+p697
+aS'Cake'
+p698
+assS"Slightly Adapted Mamo's Potato Pancakes"
+p699
+(dp700
+g5
+S'30 min'
+p701
+sg7
+S'15 min'
+p702
+sg9
+(lp703
+S'5 large or 6 small firm Yukon gold potatoes (about 2 1/4 pounds)'
+p704
+aS'1 large onion, halved'
+p705
+aS'1 large egg'
+p706
+aS'2 tablespoons all-purpose flour or matzo meal'
+p707
+aS' Kosher salt and freshly ground pepper'
+p708
+aS' Vegetable or canola oil, for frying'
+p709
+aS' Applesauce or other toppings, for serving'
+p710
+asg28
+S'http://foodnetwork.sndimg.com/content/dam/images/food/fullset/2010/11/1/2/FNM_120110-He-Made-She-Made-003_s4x3.jpg.rend.sni12col.landscape.jpeg'
+p711
+sg30
+g699
+sg32
+S'http://www.foodnetwork.com/recipes/duff-goldman/slightly-adapted-mamos-potato-pancakes-recipe.html'
+p712
+sg34
+S'18 latkes'
+p713
+sg36
+S'Intermediate'
+p714
+sg40
+S'15 min'
+p715
+sg42
+S"Peel the potatoes, immediately immersing them in very cold water as you finish each one.Remove the potatoes from the water. Grate the potatoes and onion with a food processor fitted with the grating blade. Don\\'t press too hard on the potatoes going in -- just enough to get them through.Transfer the potatoes and onion to a fine-mesh strainer; squeeze out all the water into a bowl. Let the potato starch settle, then pour out as much water as possible, leaving the starch in the bowl. Add the potato-onion mixture to the bowl and mix in the egg, flour, 1 teaspoon salt, and pepper to taste.Heat a well-seasoned cast-iron skillet with a thin layer of vegetable oil over medium heat. Scoop large spoonfuls of the potato mixture into the pan and flatten them out (thin pancakes yield crispy ones). Fry until golden on the bottom, then gently flip and fry the other side, 3 to 4 minutes per side. Drain on paper towels. (If you have to wait to serve, re-crisp them on a baking sheet lined with clean paper towels in a 350 degrees F oven.)Serve with applesauce, or try my family\\'s favorite toppings: My great-grandmother put cinnamon in applesauce to serve with hers. My grandfather loved his with heaps of cold sour cream. My grandmother served them with poached pears. My mother tops them with tart, chunky homemade applesauce. My brother, Willie, loves his plain with sugar. My stepfather, Ronnie, loves his with ketchup -- but I wouldn\\'t brag about that!Photograph by Andrew Mccaul"
+p716
+sg44
+(lp717
+S'Potato'
+p718
+aS'Jewish Cooking'
+p719
+assS'Gingerbread Cookies'
+p720
+(dp721
+g5
+S'4 hr'
+p722
+sg7
+S'20 min'
+p723
+sg9
+(lp724
+S'2 cups all-purpose flour, plus more for flouring the surface'
+p725
+aS'2 teaspoons ground ginger'
+p726
+aS'1 1/2 teaspoons ground cinnamon'
+p727
+aS'1/2 teaspoon ground nutmeg'
+p728
+aS'1/4 teaspoon baking soda'
+p729
+aS'1/4 teaspoon ground cloves'
+p730
+aS'1/4 teaspoon salt'
+p731
+aS'1 stick (1/2 cup) unsalted butter, softened'
+p732
+aS'1/3 cup lightly packed dark brown sugar'
+p733
+aS'1/3 cup molasses'
+p734
+aS'1 extra-large egg'
+p735
+aS' Nonstick cooking spray, for spraying the parchment paper'
+p736
+aS'4 cups powdered sugar (approximately)'
+p737
+aS'3 extra-large egg whites (pasteurized)'
+p738
+aS'3 drops lemon juice, plus more if needed'
+p739
+aS' Food coloring, optional'
+p740
+asg28
+S'http://foodnetwork.sndimg.com/content/dam/images/food/fullset/2015/12/1/3/KC0802_Gingerbread-Cookies_s4x3.jpg.rend.sni12col.landscape.jpeg'
+p741
+sg30
+g720
+sg32
+S'http://www.foodnetwork.com/recipes/duff-goldman/gingerbread-cookies.html'
+p742
+sg34
+S'30 cookies'
+p743
+sg36
+S'Intermediate'
+p744
+sg38
+S'3 hr'
+p745
+sg40
+S'40 min'
+p746
+sg42
+S"Cook\\'s Note: You can also make the royal icing with meringue powder instead of egg whites. Use 4 cups powdered sugar, 3 tablespoons meringue powder and 5 to 7 tablespoons water. Using a stand mixer and the whisk attachment, whip most of the powdered sugar with the meringue powder and most of the water. Whip until the icing holds its shape and is bright white (not translucent), 5 to 8 minutes. If it is too soft, add more powdered sugar. If it is too stiff, add a bit more water, drop by drop. You can also substitute royal icing powder. CK Products brand is my favorite."
+p747
+sg44
+(lp748
+S'Dessert'
+p749
+aS'Cookie'
+p750
+assS'Vegan and Gluten-Free Fruit and Almond Shortbread Bars'
+p751
+(dp752
+g5
+S'25 min'
+p753
+sg7
+S'10 min'
+p754
+sg9
+(lp755
+S'2 sticks (1 cup) vegan butter or margarine (we like Earth Balance)'
+p756
+aS'1/2 cup sugar'
+p757
+aS'1/2 teaspoon pure vanilla extract'
+p758
+aS'1/2 teaspoon almond extract'
+p759
+aS'1 cup almond flour'
+p760
+aS'1/2 cup white rice flour'
+p761
+aS'1/2 cup potato starch'
+p762
+aS'1/4 teaspoon kosher salt'
+p763
+aS'1 cup fruit preserves'
+p764
+aS' Sliced almonds, for topping'
+p765
+asg28
+S'http://foodnetwork.sndimg.com/content/dam/images/food/fullset/2015/10/16/2/FN_Duff-Goldman-Almond-Bars_s3x4.jpg.rend.sni12col.landscape.jpeg'
+p766
+sg30
+g751
+sg32
+S'http://www.foodnetwork.com/recipes/duff-goldman/vegan-and-gluten-free-fruit-and-almond-shortbread-bars.html'
+p767
+sg34
+S'16 bars'
+p768
+sg36
+S'Easy'
+p769
+sg40
+S'15 min'
+p770
+sg42
+S'Preheat the oven to 350 degrees F and grease an 8-inch or 9-inch square pan.With a hand or stand mixer, beat the vegan butter and sugar until light and fluffy. Add the vanilla and almond extracts.In a medium bowl, mix the flours, starch, and salt.Add the dry ingredients to the "butter" mixture and mix until just incorporated.Press two-thirds of the dough into the pan and bake for about 10 minutes, or until the crust is pale light brown. Remove it from the oven.When the pan has cooled enough to handle, spread the preserves evenly over the crust.Break the remaining dough into little tiny pieces and drop them evenly over the jam. Top with the almonds.Bake for another 25 to 30 minutes, or until the top is a nice golden brown.Cut into bars and serve immediately, while still warm, or store them in the refrigerator.'
+p771
+sg44
+(lp772
+S'Fruit'
+p773
+aS'Dessert'
+p774
+aS'Vegan'
+p775
+assS'Pineapple Sundaes'
+p776
+(dp777
+g5
+S'25 min'
+p778
+sg7
+S'10 min'
+p779
+sg9
+(lp780
+S'4 ounces semisweet chocolate, chopped, or chocolate chips'
+p781
+aS'1 stick unsalted butter, sliced'
+p782
+aS'3/4 cup unsweetened cocoa powder'
+p783
+aS'1 3/4 cups plus 2 tablespoons sugar'
+p784
+aS'1 cup plus 2 tablespoons half-and-half'
+p785
+aS'1 cup mascarpone cheese, at room temperature'
+p786
+aS'1 store-bought pound cake, cut into 6 to 8 thick slices'
+p787
+aS'2 teaspoons vegetable oil'
+p788
+aS'1 fresh pineapple, peeled, cored and cut into wedges'
+p789
+aS' Shredded coconut, toasted, and/or peanuts, for garnish (optional)'
+p790
+asg28
+S'http://foodnetwork.sndimg.com/content/dam/images/food/fullset/2009/8/13/3/FNM100109DuffTailgating012_s4x3.jpg.rend.sni12col.landscape.jpeg'
+p791
+sg30
+g776
+sg32
+S'http://www.foodnetwork.com/recipes/duff-goldman/pineapple-sundaes-recipe.html'
+p792
+sg34
+S'6-8 servings'
+p793
+sg36
+S'Easy'
+p794
+sg40
+S'15 min'
+p795
+sg42
+S"Combine the chocolate and butter in a microwave-safe bowl. Heat at 50 percent power for 2 minutes; stir, then microwave at 30-second intervals until completely melted. Whisk in the cocoa and 1 3/4 cups sugar until smooth. Microwave the mixture on full power for 5 minutes, stopping to whisk occasionally. (Don\\'t worry if the mixture looks grainy; continue to cook and whisk until smooth.) Add 1 cup half-and-half and microwave on full power until smooth and slightly fudgy, 2 minutes. Transfer to a thermos to keep warm.Fold the remaining 2 tablespoons half-and-half and 2 tablespoons sugar into the mascarpone in a bowl; cover and refrigerate.Preheat a grill to medium. Brush the cake slices lightly with oil and grill for 1 to 2 minutes per side. Brush the pineapple lightly with oil and grill until marked, about 1 minute per side.Top the cake with pineapple, a scoop of mascarpone cream and hot fudge. Garnish with coconut and/or nuts, if desired.Photograph by Rick Lew"
+p796
+sg44
+(lp797
+S'Pineapples'
+p798
+aS'Dessert'
+p799
+aS'Cake'
+p800
+assS'Chocolate Cake with American Buttercream Frosting'
+p801
+(dp802
+g5
+S'1 hr 35 min'
+p803
+sg7
+S'40 min'
+p804
+sg9
+(lp805
+S'2 cups all-purpose flour'
+p806
+aS'2 cups sugar'
+p807
+aS'1 teaspoon baking soda'
+p808
+aS'1 teaspoon kosher salt'
+p809
+aS'2 sticks (1 cup) butter'
+p810
+aS'1/2 cup brewed coffee'
+p811
+aS'1/3 cup unsweetened natural cocoa powder'
+p812
+aS'3 extra-large eggs'
+p813
+aS'1/2 cup buttermilk'
+p814
+aS'2 teaspoons pure vanilla extract'
+p815
+aS' Buttercream Frosting, recipe follows'
+p816
+aS'4 sticks (1 pound) butter, softened'
+p817
+aS'6 cups powdered sugar'
+p818
+aS'1 to 2 teaspoons pure vanilla extract (or any other flavor you want, or none)'
+p819
+aS' Pinch of kosher salt'
+p820
+aS'1/4 cup whole milk'
+p821
+asg28
+S'http://foodnetwork.sndimg.com/content/dam/images/food/fullset/2015/10/16/2/FN_Duff-Goldman-Chocolate-Cake_s4x3.jpg.rend.sni12col.landscape.jpeg'
+p822
+sg30
+g801
+sg32
+S'http://www.foodnetwork.com/recipes/duff-goldman/chocolate-cake-with-american-buttercream-frosting.html'
+p823
+sg34
+S'One 2-layer, 9-inch round cake'
+p824
+sg36
+S'Easy'
+p825
+sg38
+S'45 min'
+p826
+sg40
+S'10 min'
+p827
+sg42
+S"In the bowl of a stand mixer fitted with the whisk attachment, combine all the ingredients. Whip the mixture on low speed for a while. When the sugar is incorporated, turn the mixer speed up and whip until the buttercream is smooth and looks right to you. If it\\'s too cold, persuade it with a blowtorch if you have one. If it\\'s too wet, add a bit more powdered sugar. If it\\'s too stiff, add a bit more butter. Be sure to scrape the sides of the bowl once or twice to make sure everything is combined.Use immediately or store in an airtight container at room temperature for 24 hours or in the fridge for up to 2 weeks. Rewhip cold buttercream before using it.Variation: The water/coffee combo in this recipe can be switched up, but remember, coffee is to chocolate like salt is to beef. Coffee brings out the flavor of chocolate without making it taste like coffee, just as salt brings out the flavor of meat without making it taste salty. The liquid you use can be all water, or it can be a full cup of coffee for more of a mocha-flavored cake. And if you\\'re feeling really bold, go ahead and use a cup of a dark stout beer instead. Get creative and experiment a little \\u2014 after all, it is a science project."
+p828
+sg44
+(lp829
+S'Chocolate'
+p830
+aS'Dessert'
+p831
+aS'Cake'
+p832
+assS'Chocolate-Covered Maple Brandy Jellies with Nuts'
+p833
+(dp834
+g5
+S'2 hr 30 min'
+p835
+sg7
+S'30 min'
+p836
+sg9
+(lp837
+S'4 envelopes gelatin (about 1 ounce)'
+p838
+aS'1 1/2 cups half-and-half'
+p839
+aS'1/2 cup sugar'
+p840
+aS'1/2 cup maple syrup'
+p841
+aS'4 envelopes gelatin (about 1 ounce)'
+p842
+aS'1 cup simple syrup'
+p843
+aS'1 cup brandy'
+p844
+aS' Five 3.5-ounce bars 64-percent dark chocolate, chopped'
+p845
+aS'1 1/2 cups candied pecans, coarsely ground'
+p846
+asg28
+S'http://foodnetwork.sndimg.com/content/dam/images/food/fullset/2015/12/9/0/HP0207_DSS-maple-brandy-jellies_s4x3.jpg.rend.sni12col.landscape.jpeg'
+p847
+sg30
+g833
+sg32
+S'http://www.foodnetwork.com/recipes/duff-goldman/chocolate-covered-maple-brandy-jellies-with-nuts.html'
+p848
+sg34
+S'100 jellies'
+p849
+sg36
+S'Intermediate'
+p850
+sg38
+S'1 hr 30 min'
+p851
+sg40
+S'30 min'
+p852
+sg42
+S"Special equipment: a 10-inch square cake pan; a candy thermometerFor the maple cream layer: Line a 10-inch square cake pan with plastic wrap so that the plastic falls over the edges of the pan. Then place a square of parchment paper over the plastic in the bottom of the pan.In a small bowl, combine the gelatin with just enough water to cover and mix until incorporated. In a small saucepan bring the half-and-half to a simmer. Add the sugar and maple syrup, and stir until the sugar dissolves. Remove the saucepan from the heat and add the gelatin. Stir until incorporated. Pour the mixture into the prepared cake pan. Refrigerate until set, about 45 minutes.For the brandy layer: When the maple cream layer is completely set, begin on the brandy layer. In a small bowl, combine the gelatin with just enough water to cover and mix until incorporated. Bring the simple syrup to a simmer, then add the gelatin and whisk until melted together. Remove from the heat and stir in the brandy. Pour the brandy layer over the maple cream layer in the cake pan. Refrigerate until set, another 45 minutes.Using the plastic wrap as handles, carefully lift the layered gelatin from the cake pan. Slice into 1-inch squares. Fill a large saucepan with about 3 inches of water and bring to a boil. Fit a large glass or metal mixing bowl into the pot, making sure that the bottom of the bowl doesn\\'t touch the water. Place the chocolate in the bowl and, using a heat resistant spatula, stir as the chocolate melts. Once fully melted, stir until a candy thermometer inserted in the chocolate reads 120 degrees F. Then pour the chocolate onto a clean, cool surface and push it back and forth with a spatula or bench scraper. You\\'re looking to push it around to cool it down to 82 degrees F. This is tempering the chocolate. Transfer the chocolate to a clean bowl. Use a fork to dip the gelatin squares into the chocolate, tapping a bit to remove excess chocolate. Then place the squares chocolate-side up on a sheet pan fitted with a cooling rack. Repeat for the remaining gelatin squares. Garnish with the candied pecans while the chocolate is still hot so they stick to the candies."
+p853
+sg44
+(lp854
+S'Chocolate'
+p855
+aS'Dessert'
+p856
+aS'Gelatin'
+p857
+assS'Eyeball Mini Cakes'
+p858
+(dp859
+g5
+S'2 hr 20 min'
+p860
+sg7
+S'30 min'
+p861
+sg9
+(lp862
+S'1 1/2 cups of sugar'
+p863
+aS'5 ounces (10 tablespoons) unsalted butter, room temperature'
+p864
+aS'1 1/2 teaspoons ground cinnamon, freshly grated nutmeg, and ground cloves, mixed'
+p865
+aS'2 teaspoons baking powder'
+p866
+aS'1 teaspoon salt'
+p867
+aS'1 1/2 cups all-purpose flour'
+p868
+aS'1 cup pastry flour'
+p869
+aS' Splash vanilla extract'
+p870
+aS'6 egg whites'
+p871
+aS'3/4 cup pureed pumpkin'
+p872
+aS'1 1/2 cups mini chocolate chips'
+p873
+aS' White, Red, Blue and Black Buttercream, recipe follows'
+p874
+aS'10 egg whites'
+p875
+aS'15 ounces granulated sugar'
+p876
+aS'2 1/2 pounds unsalted butter, room temperature'
+p877
+aS' Red and blue food coloring'
+p878
+aS' Stand mixer with a 5 quart bowl and whip attachment'
+p879
+aS' Rubber Spatula'
+p880
+asg28
+S'http://foodnetwork.sndimg.com/content/dam/images/food/fullset/2009/10/15/0/0132680_Eyeball-Cake_s4x3.jpg.rend.sni12col.landscape.jpeg'
+p881
+sg30
+g858
+sg32
+S'http://www.foodnetwork.com/recipes/duff-goldman/eyeball-mini-cakes-recipe.html'
+p882
+sg34
+S'24 cupcakes'
+p883
+sg36
+S'Advanced'
+p884
+sg38
+S'1 hr'
+p885
+sg40
+S'50 min'
+p886
+sg42
+S'Make sure to have a completely clean and dry bowl when you start your process, any fat or liquid at all in the bowl will stunt the protein development of the albumen (egg white protein) and you will not have a proper meringue at the end, the results could be disastrous. Start whipping the egg whites slowly in the mixer by themselves (no sugar or butter yet) until the whites are foamy. Increase the speed of the mixer and slowly start adding the sugar until all the sugar is incorporated.Once all the sugar is combined, increase the speed of the mixer even further and whip until the mixture is shiny and stiff. You now have a meringue. You know when your meringue is done when you pull out the whip, hold it horizontally, and you have what looks a "sparrow\\\'s beak" on the end of the whip.Replace the whip, turn the mixer on medium and start adding the butter a bit at a time, once all the butter is incorporated, turn the mixer on high and leave it for a while. Depending on the weather, the buttercream could take anywhere from 5 to 15 minutes to form. You will know when it has formed when you hear the motor of the mixer starting to slow down and whine a little bit. Also when you first add the butter, your meringue will break down and look nasty, this is good and is what you want. When the buttercream is done, the mixture will be homogeneous and consistent...and tasty. Remove the buttercream from the bowl and put in an airtight container. Buttercream can be kept at room temperature for a few days or in the refrigerator for 1 or 2 weeks, but always use warm buttercream when icing a cake. To warm up the buttercream, put it back in the mixer using the whip or the paddle, and apply direct heat to the mixer bowl with a propane torch you can find at any hardware store.Food coloring method.Cook\\\'s Notes: - Using a blowtorch directly on a food product is a very standard practice (see creme brulee) and anyone who says otherwise knows nothing about cooking.- Don\\\'t worry about using raw egg whites in your buttercream, the sugar cooks the egg whites and makes them perfectly safe to eat, if you are still uneasy about this, use a pasteurized egg product.This recipe was provided by professional chefs and has been scaled down from a bulk recipe provided by a restaurant. The Food Network Kitchens chefs have not tested this recipe, in the proportions indicated, and therefore, we cannot make any representation as to the results.'
+p887
+sg44
+(lp888
+S'Chocolate'
+p889
+aS'Dessert'
+p890
+aS'Cupcake'
+p891
+assS'Gingerbread Platter and Bowl with Candied Walnut Mousse and Cinnamon Sugar Chips'
+p892
+(dp893
+g5
+S'3 hr 40 min'
+p894
+sg7
+S'50 min'
+p895
+sg9
+(lp896
+S' Nonstick cooking spray'
+p897
+aS'2 cups all-purpose flour, plus more for dusting'
+p898
+aS'2 teaspoons ground ginger'
+p899
+aS'1 1/2 teaspoons ground cinnamon'
+p900
+aS'1/2 teaspoon ground nutmeg'
+p901
+aS'1/4 teaspoon baking soda'
+p902
+aS'1/4 teaspoon ground cloves'
+p903
+aS'1/4 teaspoon salt'
+p904
+aS'1/2 cup (1 stick) unsalted butter, softened'
+p905
+aS'1/3 cup brown sugar'
+p906
+aS'1/3 cup granulated sugar'
+p907
+aS'1/3 cup molasses'
+p908
+aS'1 large egg'
+p909
+aS'2 cups walnuts'
+p910
+aS'2 large egg whites'
+p911
+aS"1/2 cup confectioners' sugar"
+p912
+aS'1/8 teaspoon cayenne pepper'
+p913
+aS'1/8 teaspoon salt'
+p914
+aS'1 teaspoon Chinese five-spice powder'
+p915
+aS' One .25-ounce packet powdered gelatin'
+p916
+aS'1 cup maple syrup'
+p917
+aS'3 cups heavy cream'
+p918
+aS"2 pounds confectioners' sugar"
+p919
+aS'1/2 cup egg whites'
+p920
+aS' Vegetable or canola oil, for frying'
+p921
+aS'2 cups granulated sugar'
+p922
+aS'2 tablespoons ground cinnamon'
+p923
+aS'8 medium flour tortillas'
+p924
+aS' Candy, such as gumdrops, peppermints and marshmallows, for decorating'
+p925
+asg28
+S'http://foodnetwork.sndimg.com/content/dam/images/food/fullset/2014/10/30/0/DSS_gingerbread-party-platter_s4x3.jpg.rend.sni12col.landscape.jpeg'
+p926
+sg30
+S'Gingerbread Platter and Bowl with Candied Walnut Mousse and Cinnamon Sugar Chips'
+p927
+sg32
+S'http://www.foodnetwork.com/recipes/duff-goldman/gingerbread-platter-and-bowl-with-candied-walnut-mousse-and-cinnamon-sugar-chips0.html'
+p928
+sg34
+S'8 to 10 servings'
+p929
+sg38
+S'2 hr 30 min'
+p930
+sg40
+S'20 min'
+p931
+sg42
+S'Contains Raw Eggs: The Food Network Kitchen suggest caution in consuming raw and lightly cooked eggs due to the slight risk of salmonella or other food-borne illness. To reduce this risk, we recommend you use only fresh, properly refrigerated, clean grade A or AA eggs with intact shells, and avoid contact between the yolks or whites and the shell. For recipes that call for eggs that are raw or undercooked when the dish is served, use shell eggs that have been treated to destroy salmonella, by pasteurization or another approved method.'
+p932
+sg44
+(lp933
+S'Dessert'
+p934
+aS'Chips'
+p935
+assS'Funnel Cakes'
+p936
+(dp937
+g5
+S'30 min'
+p938
+sg7
+S'20 min'
+p939
+sg9
+(lp940
+S'1 quart vegetable oil'
+p941
+aS'3 cups all-purpose flour'
+p942
+aS'2 teaspoons baking powder'
+p943
+aS'1 teaspoon kosher salt'
+p944
+aS'1 teaspoon ground cinnamon'
+p945
+aS'1/2 cup granulated sugar'
+p946
+aS'3 extra-large eggs'
+p947
+aS'2 cups milk or cream'
+p948
+aS'2 cups powdered sugar'
+p949
+asg28
+S'http://foodnetwork.sndimg.com/content/dam/images/food/fullset/2015/10/16/2/FN_Duff-Goldman-Funnel-Cake_s4x3.jpg.rend.sni12col.landscape.jpeg'
+p950
+sg30
+g936
+sg32
+S'http://www.foodnetwork.com/recipes/duff-goldman/funnel-cakes.html'
+p951
+sg34
+S'8 funnel cakes'
+p952
+sg36
+S'Easy'
+p953
+sg40
+S'10 min'
+p954
+sg42
+S"Special equipment: a deep-fry thermometer and plastic piping bagsAdd the oil to a deep pot and heat it over medium-high heat until it registers 375 degrees F on a deep-fry thermometer. Set up a work surface with 4 or 5 plastic piping bags, scissors, tongs, parchment paper, and a wire rack with parchment paper underneath.In a big bowl, whisk the flour, baking powder, salt, cinnamon, and granulated sugar. Add the eggs and milk and whisk well. Get all the lumps out!Fill all the piping bags with batter. Cut the tip off one bag and drizzle the batter straight into the hot oil in a swirly, crazy pattern. Toss the piping bag. When one side is golden brown, about 75 seconds, carefully flip the funnel cake with tongs and fry the other side, another 75 seconds. Fry the rest of the batter.Drain the funnel cakes on the wire rack. While they\\'re still warm and shiny, dust them with powdered sugar using a wire-mesh strainer. Serve immediately!"
+p955
+sg44
+(lp956
+S'Sugar'
+p957
+aS'Dessert'
+p958
+aS'Doughnuts'
+p959
+assS'Butternut Squash Meringue Box Harvest Dessert'
+p960
+(dp961
+g5
+S'4 hr 5 min'
+p962
+sg7
+S'3 hr 5 min'
+p963
+sg9
+(lp964
+S'3 egg whites'
+p965
+aS'1/4 teaspoon cream of tartar'
+p966
+aS'3/4 cup granulated sugar'
+p967
+aS' Nonstick cooking spray'
+p968
+aS'1 cup whole milk'
+p969
+aS'1/2 cup butternut squash puree'
+p970
+aS'1/4 cup plus 1 tablespoon granulated sugar'
+p971
+aS'2 tablespoons plus 2 teaspoons cornstarch'
+p972
+aS'2 tablespoons all-purpose flour'
+p973
+aS'1/2 teaspoon ground cinnamon, plus more for garnish'
+p974
+aS' Pinch ground cloves'
+p975
+aS' Pinch ground nutmeg'
+p976
+aS'3 egg yolks'
+p977
+aS'2 tablespoons cold butter, cubed'
+p978
+aS'1 teaspoon vanilla extract'
+p979
+aS'2 cups heavy whipping cream'
+p980
+aS' White royal icing, for assembly'
+p981
+aS" Confectioners' sugar, for garnish"
+p982
+asg28
+S'http://foodnetwork.sndimg.com/content/dam/images/food/fullset/2015/11/18/0/HP0204_DSS-butternut-meringue-box_s4x3.jpg.rend.sni12col.landscape.jpeg'
+p983
+sg30
+g960
+sg32
+S'http://www.foodnetwork.com/recipes/duff-goldman/butternut-squash-meringue-box-harvest-dessert.html'
+p984
+sg34
+S'1 serving'
+p985
+sg36
+S'Intermediate'
+p986
+sg38
+S'30 min'
+p987
+sg40
+S'30 min'
+p988
+sg42
+S"Special equipment: a 3-inch square stencilFor the meringue: Preheat the oven to 150 degrees F. In a stand mixer fitted with the whisk attachment, whisk the egg whites until frothy. Add the cream of tarter and continue to whisk until soft peaks form. Once the whites are at soft peaks, slowly add in the granulated sugar and continue whisking until stiff peaks form and the egg whites are smooth and glossy.Place a nonstick baking pad on an upside-down baking sheet and then spray with nonstick cooking spray. Scoop the meringue into a square shape using a 3-inch square stencil. Smooth out the edges and make the squares even with a long, flat icing spatula. Make as many squares that can fit onto the baking sheet. You\\'ll need 6 sides to make a full box, so make sides based on how many boxes you want to make. Remove the stencil. Bake the meringue until set and not tacky to the touch, 3 hours. The meringue should have no color on it after baking.For the diplomat cream: In a saucepan, bring the milk to a light simmer. In a bowl, lightly whisk the squash puree, 1/4 cup of the granulated sugar, the cornstarch, flour, cinnamon, cloves, nutmeg and yolks until smooth. Add half of the steaming milk into squash mixture very slowly, whisking as you pour. Whisk in the remaining milk. Return the mixture to the saucepan and cook over medium heat, whisking constantly, until thick, 3 to 4 minutes. Remove from the heat and add the cubed butter and vanilla, mixing until the butter melts. Cover the mixture with plastic wrap, lightly pressing the plastic against the surface to prevent a skin from forming. Cool the pastry cream completely.Once the pastry cream is completely cool, place the heavy cream and the remaining 1 tablespoon granulated sugar in a stand mixer fitted with the whisk, and whip until stiff. Fold the whipped cream into the cooled pastry cream to create the diplomat cream. Keep refrigerated.Use royal icing as the glue between the sides of the box, leaving one side open. When the box is set, spoon the diplomat cream into the box and top with the final side as the lid. Dust with cinnamon and confectioners\\' sugar to garnish, and then serve."
+p989
+sg44
+(lp990
+S'Butternut Squash'
+p991
+aS'Dessert'
+p992
+aS'Baking'
+p993
+assS'Spanish-Style Grilled Fish'
+p994
+(dp995
+g5
+S'2 hr'
+p996
+sg7
+S'40 min'
+p997
+sg9
+(lp998
+S'4 large red onions, thinly sliced'
+p999
+aS'3/4 cup extra-virgin olive oil'
+p1000
+aS'1/2 cup red wine vinegar'
+p1001
+aS'1 head garlic, cloves separated and peeled'
+p1002
+aS'1 lemon, thinly sliced'
+p1003
+aS'1 bunch scallions, chopped'
+p1004
+aS'2 1/2 tablespoons sweet Spanish paprika'
+p1005
+aS'2 teaspoons cayenne pepper'
+p1006
+aS'2 to 3 sprigs rosemary'
+p1007
+aS'2 to 3 sprigs thyme'
+p1008
+aS' Kosher salt'
+p1009
+aS'1 3 -to-6-pound whole fish (such as striper, rockfish or sea bass), cleaned and scaled'
+p1010
+aS' Vegetable oil, for brushing'
+p1011
+asg28
+S'http://foodnetwork.sndimg.com/content/dam/images/food/fullset/2012/5/4/1/FNM_060112-Duff-Goldman-Spanish-Style-Grilled-Fish-recipe_s4x3.jpg.rend.sni12col.landscape.jpeg'
+p1012
+sg30
+g994
+sg32
+S'http://www.foodnetwork.com/recipes/duff-goldman/spanish-style-grilled-fish-recipe.html'
+p1013
+sg34
+S'4 to 6 servings'
+p1014
+sg36
+S'Intermediate'
+p1015
+sg40
+S'1 hr 20 min'
+p1016
+sg42
+S"Preheat a grill to medium high. Combine 1 sliced onion, 1/2 cup olive oil, the vinegar, garlic, lemon slices, scallions, 1 1/2 tablespoons paprika, the cayenne, rosemary, thyme and 2 teaspoons salt in a large bowl. Set aside at room temperature, 1 hour.Spread the remaining 3 sliced onions in a large disposable roasting pan. Drizzle with 2 tablespoons olive oil and sprinkle with 1/2 tablespoon paprika and 1 teaspoon salt.Combine the remaining 2 tablespoons olive oil and 1/2 tablespoon paprika in a small bowl. Rinse the fish and pat dry. Rub all over with the olive oil-paprika mixture. Stuff the cavity super full with the marinated onion-herb mixture, adding anything that doesn\\'t fit to the disposable pan.Brush the grill grates generously with vegetable oil. Sprinkle the fish on one side with 1/2 teaspoon salt; place salt-side down on the grill and cook until charred on the bottom, 4 to 5 minutes. Sprinkle with 1/2 teaspoon salt; gently flip and cook until the other side is charred, 4 to 5 more minutes.Transfer the fish to a baking sheet and let rest, uncovered, 10 minutes. Meanwhile, transfer the disposable pan with the onions to the grill. Cover and cook, stirring occasionally, until the onions begin to soften, 8 to 10 minutes.Remove the pan with the onions and reduce the grill heat to medium (if using a charcoal grill, break up the coals to reduce the heat). Add the fish to the pan, belly-side down, making sure you don\\'t spill the stuffing (use your hands to hold him together). Once he is settled, push more onions around him to prop him up. Add 3/4 cup water to the pan; place on the grill, cover and cook until the flesh is opaque, firm and slightly flaky, 20 to 25 minutes.To serve, use a large spoon to pull the flesh from the bones-it will fall off easily. Serve with the grilled onion mixture.Duff says to make sure you save the fish cheeks for your favorite friend at the table-they\\'re sweet and tender.Photograph by Kat Teutsch"
+p1017
+sg44
+(lp1018
+S'Fish'
+p1019
+aS'Spanish'
+p1020
+assS'Yellow Cake with American Buttercream'
+p1021
+(dp1022
+g5
+S'1 hr 15 min'
+p1023
+sg7
+S'35 min'
+p1024
+sg9
+(lp1025
+S'1/2 cup plus 3 tablespoons butter, at room temperature, plus more for greasing'
+p1026
+aS'3 cups cake flour'
+p1027
+aS'3/4 teaspoon salt'
+p1028
+aS'1/2 teaspoon baking powder'
+p1029
+aS'1 3/4 cups granulated sugar'
+p1030
+aS'1 1/2 teaspoons vanilla extract'
+p1031
+aS'2 eggs'
+p1032
+aS'1 1/4 cups whole milk'
+p1033
+aS'4 sticks (1 pound) butter, at room temperature'
+p1034
+aS'2 teaspoons vanilla extract'
+p1035
+aS' Pinch salt'
+p1036
+aS"5 to 6 cups sifted confectioners' sugar"
+p1037
+aS'1/4 cup milk or cream, plus more if needed'
+p1038
+asg28
+S'http://foodnetwork.sndimg.com/content/dam/images/food/fullset/2015/12/15/1/HP0208_DSS-figure-skate-cake_s4x3.jpg.rend.sni12col.landscape.jpeg'
+p1039
+sg30
+g1021
+sg32
+S'http://www.foodnetwork.com/recipes/duff-goldman/yellow-cake-with-american-buttercream.html'
+p1040
+sg34
+S'10 to 12 servings'
+p1041
+sg36
+S'Easy'
+p1042
+sg38
+S'20 min'
+p1043
+sg40
+S'20 min'
+p1044
+sg42
+S"Special equipment: two 8-inch round cake pansFor the cake: Preheat the oven to 350 degrees F. Grease the bottom of two 8-inch round cake pans and line with waxed paper or parchment paper.Sift together the flour, salt and baking powder, then set aside. In a large bowl using an electric mixer, cream the granulated sugar and butter together until light and fluffy. Add the vanilla and eggs, and beat until thoroughly mixed. Alternate adding the flour and the milk, a little at a time, beating well after each addition. Continue beating for 1 minute. Spread the batter evenly into the prepared pans. Bake until a toothpick inserted in the center comes out clean, 30 to 35 minutes.Cool the cakes in the pans on a wire rack for 10 minutes. Remove the cakes from the pans and cool completely on the wire rack.For the buttercream: In a stand mixer fitted with a whip attachment, beat the butter with the vanilla and salt. Mix in 5 cups of the confectioners\\' sugar and the milk a little at a time and whip until smooth, adding more milk or up to 1 cup more confectioners\\' sugar if needed.Frost the top of one cake and place the second cake on top. Then spread the frosting over the top and sides of the cake. Serve at room temperature."
+p1045
+sg44
+(lp1046
+S'Sugar'
+p1047
+aS'Dessert'
+p1048
+aS'Cake'
+p1049
+assS'Grilled Sausage with Spicy Sauce'
+p1050
+(dp1051
+g5
+S'38 min'
+p1052
+sg7
+S'8 min'
+p1053
+sg9
+(lp1054
+S'1 tablespoon vegetable oil'
+p1055
+aS'2 pounds good-quality kielbasa or other smoked sausage, cut into bite-size pieces'
+p1056
+aS'3/4 cup ketchup'
+p1057
+aS'3/4 cup spicy brown mustard'
+p1058
+aS'1 tablespoon hot sauce'
+p1059
+asg28
+S'http://foodnetwork.sndimg.com/content/dam/images/food/fullset/2009/8/19/0/FNM100109DuffTailgating009_grilled-sausage-spicy-sauce_s4x3.jpg.rend.sni12col.landscape.jpeg'
+p1060
+sg30
+g1050
+sg32
+S'http://www.foodnetwork.com/recipes/duff-goldman/grilled-sausage-with-spicy-sauce-recipe.html'
+p1061
+sg34
+S'6 servings'
+p1062
+sg36
+S'Easy'
+p1063
+sg38
+S'20 min'
+p1064
+sg40
+S'10 min'
+p1065
+sg42
+S'Soak 8 to 10 wooden skewers in water for about 20 minutes.  Preheat a grill to medium and brush with the oil. Thread the sausage onto the skewers, leaving space between each piece. Grill until slightly crisp, 3 to 4 minutes per side.Mix the ketchup, mustard and hot sauce in a bowl. Serve with the sausage for dipping.Serve this dish with Tangy Corn Relish.Photograph by Rick Lew'
+p1066
+sg44
+(lp1067
+S'Sausage'
+p1068
+aS'Appetizer'
+p1069
+aS'Grilling'
+p1070
+assS'Toffee, Chocolate and Orange Cookies'
+p1071
+(dp1072
+g5
+S'1 hr 55 min'
+p1073
+sg7
+S'30 min'
+p1074
+sg9
+(lp1075
+S'1/2 cup (1 stick) unsalted butter'
+p1076
+aS'1 cup granulated sugar'
+p1077
+aS'1 large egg'
+p1078
+aS'1 tablespoon vanilla extract'
+p1079
+aS'1 1/3 cups all-purpose flour'
+p1080
+aS'3/4 teaspoon baking powder'
+p1081
+aS'1/4 teaspoon salt'
+p1082
+aS' Nonstick cooking spray, for spraying pan'
+p1083
+aS'1/3 cup raspberry jam'
+p1084
+aS'1/4 cup (4 tablespoons) unsalted butter'
+p1085
+aS'1 cup granulated sugar'
+p1086
+aS'1/4 cup evaporated milk'
+p1087
+aS'1/3 cup butterscotch chips, melted'
+p1088
+aS' One 7-ounce jar marshmallow creme, such as Marshmallow Fluff'
+p1089
+aS'1 teaspoon vanilla extract'
+p1090
+aS'1/3 cup toffee bits'
+p1091
+aS"48 ounces coating chocolate (see Cook's Note)"
+p1092
+aS'1/2 cup candied orange peel, chopped into small pieces, optional'
+p1093
+asg28
+S'http://foodnetwork.sndimg.com/content/dam/images/food/fullset/2014/10/30/0/DSS_toffee_s4x3.jpg.rend.sni12col.landscape.jpeg'
+p1094
+sg30
+S'Toffee, Chocolate and Orange Cookies'
+p1095
+sg32
+S'http://www.foodnetwork.com/recipes/duff-goldman/toffee-chocolate-and-orange-cookies0.html'
+p1096
+sg34
+S'27 bars'
+p1097
+sg36
+S'Intermediate'
+p1098
+sg38
+S'1 hr 15 min'
+p1099
+sg40
+S'10 min'
+p1100
+sg42
+S'Propane Gas Torch Safety: Propane gas torches are highly flammable and should be kept away from heat, open flame, and prolonged exposure to sunlight. They should only be used in well-ventilated areas. When lighting a propane gas torch, place the torch on a flat, steady surface, facing away from you. Light the match or lighter and then open the gas valve. Light the gas jet, and blow out the match. Always turn off the burner valve to "finger tight" when finished using the torch. Children should never use a propane gas torch without adult supervision.'
+p1101
+sg44
+(lp1102
+S'Chocolate'
+p1103
+aS'Dessert'
+p1104
+aS'Cookie'
+p1105
+assS'Triple Pastry Cream Croquembouche'
+p1106
+(dp1107
+g5
+S'3 hr 20 min'
+p1108
+sg7
+S'55 min'
+p1109
+sg9
+(lp1110
+S'16 tablespoons (2 sticks) unsalted butter'
+p1111
+aS'3 teaspoons sugar'
+p1112
+aS'1 teaspoon salt'
+p1113
+aS'2 cups flour'
+p1114
+aS'9 eggs'
+p1115
+aS'4 cups whole milk'
+p1116
+aS'1 1/3 cups sugar'
+p1117
+aS'12 egg yolks'
+p1118
+aS'1/2 cup cornstarch'
+p1119
+aS'2 tablespoons unsalted butter'
+p1120
+aS'2 teaspoons vanilla extract'
+p1121
+aS'1 1/2 ounces 80-percent dark chocolate, chopped'
+p1122
+aS'1 drop mint extract'
+p1123
+aS'2 drops orange extract'
+p1124
+aS'3 caramel squares, microwaved for 10 seconds to melt'
+p1125
+aS'1 teaspoon ground cinnamon'
+p1126
+aS'2 1/2 cups sugar'
+p1127
+aS'1/4 cup corn syrup'
+p1128
+asg28
+S'http://foodnetwork.sndimg.com/content/dam/images/food/fullset/2015/11/18/2/HP0206_DSS-croquembouche_s4x3.jpg.rend.sni12col.landscape.jpeg'
+p1129
+sg30
+g1106
+sg32
+S'http://www.foodnetwork.com/recipes/duff-goldman/triple-pastry-cream-croquembouche.html'
+p1130
+sg34
+S'62 puffs'
+p1131
+sg36
+S'Intermediate'
+p1132
+sg38
+S'2 hr'
+p1133
+sg40
+S'25 min'
+p1134
+sg42
+S"Special equipment: a candy thermometerFor the puffs: Preheat the oven to 425 degrees F.In a large saucepan set over medium-high heat, bring 2 cups water, the butter, sugar and salt to a rolling boil, then immediately remove the pan from the heat. Stirring with a wooden spoon, add the flour all at once and stir hard until all the flour is incorporated, 30 to 60 seconds. Return the pan to the heat and cook, stirring, to cook off some of the moisture, 30 seconds.Scrape the mixture into a bowl. Using a hand mixer set on low to medium speed, add 8 of the eggs, one at a time, stopping after each addition to scrape down the sides of the bowl. Mix until the dough is smooth and glossy and the eggs are completely incorporated. The dough should be thick, but should fall slowly and steadily from the beaters when you lift them out of the bowl.Transfer the mixture to a pastry bag fitted with a large plain round tip. Pipe the dough in big dollops onto a parchment-lined baking sheet. Whisk the remaining 1 egg with 1 tablespoon water. Brush the surface of the dough with the egg wash to push down any points. Bake for 15 minutes, then reduce the heat to 375 degrees F, and bake until puffed up and light golden brown, about 20 minutes more. The puffs should have a crust, but also still be soft. Avoid opening the oven door while the puffs bake. Cool the puffs on the baking sheet.For the fillings: In a medium saucepan set over medium heat, cook the milk until it just begins to bubble along the edges. In a bowl, whisk the sugar and yolks until light and fluffy. Add the cornstarch and whisk vigorously until no lumps remain. Whisk in 1/4 cup of the hot milk until incorporated, being careful to avoid scrambling the eggs. Whisk in the remaining hot milk mixture, reserving the empty saucepan for a later use.Pour the pastry cream through a fine mesh strainer back into the saucepan and cook over medium-high heat, whisking constantly, until it thickens and comes to a slow boil. Remove from the heat and stir in the butter and vanilla extract. Remove one-third of the pastry cream to a bowl. Then add the chocolate into the larger batch of pastry cream and stir until the chocolate is completely incorporated. Divide the chocolate cream into two bowls, adding the mint to one batch and the orange to the other. Add the melted caramel and cinnamon to the plain pastry cream, stirring to combine. Cover all three creams with plastic wrap, lightly pressing the plastic against the surface to prevent a skin from forming. Chill for at least 2 hours or until ready to serve.Use a plain pastry tip to poke a hole in the bottom of each puff. Place each of the pastry creams into a piping bag fitted with a small tip. Separate the puffs into three equal piles and fill each pile with one of the pastry creams.For the caramel: Place the sugar, corn syrup and 2/3 cup water in a saucepan fitted with a candy thermometer. Bring to a boil and cook until the mixture reaches a deep amber color, the thermometer will read about 350 degrees F. Remove from the heat. Then quickly but carefully, dip the bottom and sides of the puffs in the caramel to start building the tower. Create a large circle of puffs as the base, then a second, slightly smaller circle on top of the first to draw the circle in and create a tower of cream puffs. Repeat for the remaining puffs. Check it from all sides occasionally to make sure it\\'s straight. When the tower is finished, drizzle the remaining caramel all over and then decorate as desired."
+p1135
+sg44
+(lp1136
+S'Chocolate'
+p1137
+aS'Dessert'
+p1138
+aS'Pastry'
+p1139
+assS'Cherry-Walnut Gelatin Mold'
+p1140
+(dp1141
+g5
+S'25 min'
+p1142
+sg7
+S'5 min'
+p1143
+sg9
+(lp1144
+S'1 pound pitted bing cherries (frozen or canned), thawed if frozen'
+p1145
+aS'1 1/4 cups walnut halves'
+p1146
+aS'1 6 -ounce package cherry Jell-O'
+p1147
+aS'1 cup sherry'
+p1148
+aS'1/2 cup orange juice'
+p1149
+aS' Cooking spray'
+p1150
+asg28
+S'http://foodnetwork.sndimg.com/content/dam/images/food/fullset/2010/3/25/1/FNM_050110-Mothers-Day-Desserts-012_s4x3.jpg.rend.sni12col.landscape.jpeg'
+p1151
+sg30
+S'Cherry-Walnut Gelatin Mold'
+p1152
+sg32
+S'http://www.foodnetwork.com/recipes/duff-goldman/cherry-walnut-gelatin-mold.html'
+p1153
+sg34
+S'8-10 servings'
+p1154
+sg36
+S'Easy'
+p1155
+sg40
+S'20 min'
+p1156
+sg42
+S'Drain the cherries and pat dry. Break the walnuts into pieces, then stuff each cherry with a nut.Combine the Jell-O and 2 cups boiling water in a bowl and stir until dissolved. Stir in the sherry and orange juice.Lightly spray a 6-cup gelatin mold or glass bowl with cooking spray. Pour in the gelatin mixture and scatter the stuffed cherries and remaining walnuts evenly in the mold. Cover and refrigerate until set, about 8 hours or overnight.Before serving, place the mold in a bowl of hot water to loosen the gelatin, about 5 minutes. Gently invert over a platter to release.Photograph by Kana Okada'
+p1157
+sg44
+(lp1158
+S'Cherry'
+p1159
+aS'Gelatin'
+p1160
+aS'Easy'
+p1161
+assS'Pumpkin Cake'
+p1162
+(dp1163
+g30
+g1162
+sg28
+S'http://foodnetwork.sndimg.com/content/dam/images/food/fullset/2009/10/15/0/0132681_Angry-Pumpkin-Cake_s4x3.jpg.rend.sni12col.landscape.jpeg'
+p1164
+sg9
+(lp1165
+S'3 (10-inch) round cakes'
+p1166
+aS' Buttercream'
+p1167
+aS' Shortening'
+p1168
+aS' Cornstarch'
+p1169
+aS' Orange fondant'
+p1170
+aS' Dark brown fondant'
+p1171
+aS' Light brown fondant'
+p1172
+aS' Gum paste leaves'
+p1173
+aS' Black fondant'
+p1174
+aS' Pumpkin-size styrofoam sphere'
+p1175
+aS' Cardboard base'
+p1176
+aS'1 (8 to 9-inch) cardboard cake round (slightly smaller than the cake.)'
+p1177
+aS' Knife'
+p1178
+aS' Spatula'
+p1179
+aS' Plastic wrap'
+p1180
+aS' Cake stand'
+p1181
+aS' Rolling pin'
+p1182
+aS' Wooden rod'
+p1183
+aS' Clay tool'
+p1184
+aS' Airbrush*'
+p1185
+aS' Small sharp knife or exacto knife'
+p1186
+aS' Duster brush'
+p1187
+aS' Small round circular cutters'
+p1188
+asg32
+S'http://www.foodnetwork.com/recipes/duff-goldman/pumpkin-cake-recipe.html'
+p1189
+sg42
+S'Use a knife to cut out the shape of the pumpkin\\\'s grin and eyes. Cut out teeth for pumpkin\\\'s grin. Use water to attach the grin to the pumpkin. Brush off the grin once it is attached to the cake.Use small round cutters to cut out "eyes" from fondant eyes of the pumpkin. Attach eyes to cake and brush off eyes.From the pieces you cut out from the eyes, use a larger round cutter to cut out crescent moons. Attach the moons to the top of the eyes as the eyebrows, and brush off the eyebrows.Arrange the reserved fondant twists on the base of the pumpkin. Take the empty airbrush and blow out some of the extra cornstarch onto the pumpkin for the effect.Cook\\\'s Note: Duff uses a French rolling pin* you can buy airbrushes at a craft store, cake supply store, or an art supply store. Cheapest is at the craft store. At art supply stores you can get the top of the line, iawata brand airbrush but it\\\'s cheaper to get one that uses canned air rather than compressed air, if you\\\'ll be using it just a few times a year. Duff suggested the best one is a brand called badger. Cake stores have a brand that\\\'s called "kopykake" that is also easy to use.This recipe was provided by professional chefs and has been scaled down from a bulk recipe provided by a restaurant. The Food Network Kitchens chefs have not tested this recipe, in the proportions indicated, and therefore, we cannot make any representation as to the results.'
+p1190
+sg44
+(lp1191
+S'Pumpkin'
+p1192
+aS'Dessert'
+p1193
+aS'Cake'
+p1194
+assS"Mamo's Apple Strudel"
+p1195
+(dp1196
+g5
+S'9 hr 55 min'
+p1197
+sg7
+S'1 hr 30 min'
+p1198
+sg9
+(lp1199
+S'10 to 12 Granny Smith apples, peeled, cored and cut into thin strips'
+p1200
+aS' Juice of 1 lemon'
+p1201
+aS'1 large can pineapple, drained and diced'
+p1202
+aS'3/4 cup sugar'
+p1203
+aS' Pinch salt'
+p1204
+aS'1/2 cup finely chopped nuts'
+p1205
+aS'2 sticks unsalted butter'
+p1206
+aS'1/4 cup vegetable oil'
+p1207
+aS'1 pound package phyllo dough'
+p1208
+aS' Mixture of 1 large freshly ground cinnamon stick, 1/3 cup sugar and 1 cup plain breadcrumbs'
+p1209
+asg28
+S'http://foodnetwork.sndimg.com/content/dam/images/food/fullset/2011/10/25/2/ED0102_Mamos-Apple-Strudel_s4x3.jpg.rend.sni12col.landscape.jpeg'
+p1210
+sg30
+g1195
+sg32
+S'http://www.foodnetwork.com/recipes/duff-goldman/mamos-apple-strudel-recipe.html'
+p1211
+sg34
+S'3 to 4 logs'
+p1212
+sg36
+S'Intermediate'
+p1213
+sg38
+S'8 hr'
+p1214
+sg40
+S'25 min'
+p1215
+sg42
+S"As you peel and dice the apples, sprinkle with lemon juice and mix frequently to prevent browning, or toss in iced water with some lemon juice.Place the apples into a large pot on the stove over medium-high heat. Add the pineapple, sugar, 1 cup water and salt. Cook until the moisture evaporates and consistency of the remaining fruit is thicker than preserves, 30 to 35 minutes. Stir often to prevent burning on the bottom. Cool, then stir in nuts.Refrigerate the apple filling at least overnight. Filling will last in the refrigerator for up to a week in an airtight container.Preheat the oven to 350 degrees F.In a pot, melt the butter over very low heat. A white foam will form as the top layer. Skim off the foam with a spoon. Once the foam is removed, add the oil. Stir and remove from the heat.On a sheet of waxed paper, lay out the first layer of phyllo dough. (Dough dries out quickly, so keep other layers not in use covered with a damp cloth over a sheet of waxed paper.) Using a pastry brush, gently brush the butter/oil mixture onto the entire sheet of dough. Sprinkle with the breadcrumb mixture over the entire surface. Repeat for an additional 4 layers so each roll has a total of 5 layers of phyllo dough.Using a spoon, add a row of the apple filling an inch or two from the bottom of the dough. Do not overstuff or the strudel will burst when baking. Lift the bottom edge of the waxed paper with both hands, each about a third of the way in from the outer edges to support the phyllo as you roll up the dough, jellyroll style. As you roll, fold the sides inwards to form sealed edges as you continue to the end. End with the seam-side down.Coat a baking pan with the butter/oil mixture and place the first rolled dough onto the pan with the seam facing down. Then brush the roll all over with the butter/oil mixture.Repeat the steps above until you have filled the cookie pan with the rolls but keep at least a roll\\'s width between each. Keep at least 2 to 3 inches between the rolls on the baking sheet to ensure even browning.Bake until golden brown, 40 to 45 minutes, depending on your oven. During baking, baste 4 to 5 times with the butter/oil mixture.Cut into pieces while still hot so the crust won\\'t break.Cook\\'s Note: Unbaked rolls can be frozen. Just thaw and bake when ready. Baked strudel rolls can also be frozen but need some time in the oven to heat and to crisp them up. Again, cut while hot."
+p1216
+sg44
+(lp1217
+S'Apple'
+p1218
+aS'Dessert'
+p1219
+aS'Pastry'
+p1220
+asss.
