@@ -21,7 +21,7 @@ The `analysis` folder contains the following ipython notebooks:
 - `celebrity_recipes_exploratory_analysis` is a notebook for implementing exploratory statistical analysis on celebrity chef recipes' difficulty and durations. 
 - `celebrity_recipes_recommendations` is a notebook for making recipe recommendations based on what ingredients you have/want to use, as well as basic statistical parameters, using word2vec and cosine similarity between lists of ingredients (as constrained by the other parameters).
 - `clustering_recipes` is a notebook for clustering celebrity chef recipes. 
-- `ingredients_similarities_jaccard_vs_cosine` is a notebook comparing the efficacy of jaccard versus cosine similarity scores for gauging similarities between recipes based on their ingredients.
+- `ingredients_similarities_jaccard_vs_cosine` (to come) is a notebook comparing the efficacy of jaccard versus cosine similarity scores for gauging similarities between recipes based on their ingredients.
 - `opinion_mining_tweets` is a notebook for performing sentiment analysis on celebrity chef tweets. While this analysis didn't get a place at the table vis-a-vis the final thrust of the current iteration of this project, it adds a touch of joy to the proceedings. 
 - `word2vec_ingredients_model_training` is a notebook for training a word2vec model on a corpus of recipes' ingredients.
 
